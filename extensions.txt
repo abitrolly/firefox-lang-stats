@@ -566,7 +566,7 @@
      96 cmake
      96 good
     105 wat
-    106 lock
+    107 lock
     109 inc
     110 gni
     119 aff
@@ -594,8 +594,8 @@
     217 snap
     219 mm
     240 ftl
-    251 vtt
     252 jpg
+    252 vtt
     263 manifest
     263 mp4
     267 mk
@@ -612,40 +612,40 @@
     408 ipdl
     410 pem
     454 list
-    583 sjs
+    584 sjs
     598 hpp
     600 gyp
     648 sh
     671 vert
-    782 toml
+    784 toml
     796 webidl
     812 yml
     816 frag
-    959 yaml
     965 htm
+    965 yaml
     998 java
    1134 idl
-   1169 xml
+   1172 xml
    1220 jsm
+   1438 css
    1438 glif
-   1442 css
    1459 md
-   1670 headers
+   1672 headers
    1976 rst
-   2095 json
-   2172 build
+   2096 json
+   2173 build
    2803 a
    3672 xhtml
    4252 c
    4408 cc
    4736 svg
-   5147 png
-   5548 txt
-   7491 py
-   8749 cpp
+   5148 png
+   5549 txt
+   7493 py
+   8750 cpp
    9102 rs
-  13298 ini
+  13319 ini
   14578 xht
-  17236 h
-  83336 js
-  83711 html
+  17237 h
+  83349 js
+  83740 html
