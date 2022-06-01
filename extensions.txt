@@ -66,6 +66,7 @@
       1 csh
       1 csproj
       1 d
+      1 data
       1 dep
       1 develop
       1 dmp
@@ -264,7 +265,6 @@
       2 class
       2 coffee
       2 csr
-      2 data
       2 dirs
       2 dmg
       2 doxy_template
@@ -535,9 +535,9 @@
      47 otf
      47 sqlite
      49 glsl
-     49 kt
      49 mjs
      49 pydeps
+     50 kt
      53 cert
      53 configure
      53 err
@@ -565,8 +565,8 @@
      88 sam
      96 cmake
      96 good
+    103 lock
     105 wat
-    107 lock
     109 inc
     110 gni
     119 aff
@@ -615,37 +615,37 @@
     584 sjs
     598 hpp
     600 gyp
-    648 sh
+    647 sh
     671 vert
-    784 toml
+    782 toml
     796 webidl
     812 yml
     816 frag
     965 htm
-    967 yaml
-    998 java
+    968 yaml
+    999 java
    1134 idl
    1172 xml
    1220 jsm
    1438 css
    1438 glif
-   1459 md
+   1453 md
    1672 headers
-   1976 rst
-   2096 json
+   1975 rst
+   2105 json
    2173 build
    2803 a
-   3672 xhtml
+   3674 xhtml
    4252 c
    4408 cc
-   4737 svg
+   4772 svg
    5148 png
-   5549 txt
+   5548 txt
    7493 py
-   8749 cpp
-   9102 rs
-  13321 ini
+   8750 cpp
+   9049 rs
+  13316 ini
   14578 xht
-  17236 h
-  83351 js
-  83749 html
+  17237 h
+  83360 js
+  83758 html
