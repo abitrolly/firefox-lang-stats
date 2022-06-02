@@ -256,6 +256,7 @@
       2 atom
       2 automation
       2 bar
+      2 bash
       2 bowerrc
       2 breakpad
       2 cache
@@ -320,7 +321,6 @@
       2 y
       3 arcconfig
       3 awk
-      3 bash
       3 bz2
       3 bzl
       3 ca
@@ -455,12 +455,12 @@
      10 hgignore
      10 jinja
      10 mdb
-     10 p12
      10 pump
      11 gz
      11 hash
      11 htaccess
      11 metal
+     11 p12
      11 whl
      12 editorconfig
      12 hbs
@@ -533,10 +533,10 @@
      44 mp3
      46 key
      47 otf
-     47 sqlite
      49 glsl
      49 mjs
      49 pydeps
+     49 sqlite
      50 kt
      53 cert
      53 configure
@@ -565,13 +565,14 @@
      88 sam
      96 cmake
      96 good
-    103 lock
+    102 lock
     105 wat
     109 inc
     110 gni
     119 aff
     128 cfg
     135 webm
+    136 stderr
     141 hh
     141 ts
     149 jsx
@@ -579,7 +580,6 @@
     155 fax
     157 conf
     157 req
-    157 stderr
     160 m4s
     161 zip
     163 woff
@@ -596,7 +596,7 @@
     240 ftl
     252 jpg
     252 vtt
-    263 manifest
+    262 manifest
     263 mp4
     267 mk
     271 ttf
@@ -606,33 +606,33 @@
     320 woff2
     326 asm
     363 map
-    382 patch
-    394 in
+    377 patch
+    393 in
     408 certspec
     408 ipdl
-    410 pem
+    409 pem
     454 list
     584 sjs
     598 hpp
     600 gyp
-    647 sh
+    644 sh
     671 vert
-    782 toml
+    784 toml
     796 webidl
     812 yml
     816 frag
     965 htm
     968 yaml
     999 java
-   1134 idl
+   1133 idl
    1172 xml
    1220 jsm
-   1438 css
+   1437 css
    1438 glif
-   1453 md
+   1450 md
    1672 headers
-   1975 rst
-   2105 json
+   1976 rst
+   2106 json
    2173 build
    2803 a
    3674 xhtml
@@ -640,12 +640,12 @@
    4408 cc
    4772 svg
    5148 png
-   5548 txt
+   5547 txt
    7493 py
-   8750 cpp
-   9049 rs
-  13316 ini
+   8749 cpp
+   8899 rs
+  13317 ini
   14578 xht
-  17237 h
-  83360 js
-  83758 html
+  17236 h
+  83361 js
+  83773 html
