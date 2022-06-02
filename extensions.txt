@@ -462,12 +462,12 @@
      11 metal
      11 p12
      11 whl
-     12 editorconfig
      12 hbs
      12 mak
      12 nsi
      13 TTF
      13 bas
+     13 editorconfig
      13 ent
      13 ttx
      14 nib
@@ -563,9 +563,9 @@
      78 s
      84 wrong
      88 sam
-     96 cmake
      96 good
-    102 lock
+     97 cmake
+    103 lock
     105 wat
     109 inc
     110 gni
@@ -612,40 +612,40 @@
     408 ipdl
     409 pem
     454 list
-    584 sjs
-    598 hpp
+    583 sjs
+    599 hpp
     600 gyp
-    644 sh
+    645 sh
     671 vert
-    784 toml
+    786 toml
     796 webidl
-    812 yml
     816 frag
+    816 yml
     965 htm
-    968 yaml
+    969 yaml
     999 java
    1133 idl
    1172 xml
    1220 jsm
    1437 css
    1438 glif
-   1450 md
+   1451 md
    1672 headers
    1976 rst
-   2106 json
+   2105 json
    2173 build
    2803 a
    3674 xhtml
    4252 c
    4408 cc
-   4772 svg
+   4773 svg
    5148 png
-   5547 txt
-   7493 py
-   8749 cpp
-   8899 rs
-  13317 ini
+   5549 txt
+   7495 py
+   8741 cpp
+   8906 rs
+  13318 ini
   14578 xht
-  17236 h
+  17235 h
   83361 js
   83773 html
