@@ -558,8 +558,8 @@
      72 dat
      72 rc
      72 xpi
-     75 crt
      76 scss
+     78 crt
      78 s
      84 wrong
      88 sam
@@ -592,8 +592,8 @@
     206 bmp
     215 S
     217 snap
-    219 mm
-    240 ftl
+    220 mm
+    241 ftl
     252 jpg
     252 vtt
     262 manifest
@@ -608,44 +608,44 @@
     363 map
     377 patch
     393 in
-    408 certspec
+    405 certspec
+    406 pem
     408 ipdl
-    409 pem
     454 list
     583 sjs
     599 hpp
     600 gyp
     645 sh
     671 vert
-    786 toml
-    796 webidl
+    785 toml
+    797 webidl
+    814 yml
     816 frag
-    816 yml
     965 htm
     969 yaml
     999 java
    1133 idl
    1172 xml
-   1220 jsm
-   1437 css
+   1221 jsm
+   1438 css
    1438 glif
-   1451 md
+   1452 md
    1672 headers
-   1976 rst
+   1977 rst
    2105 json
-   2173 build
+   2172 build
    2803 a
    3674 xhtml
-   4252 c
+   4253 c
    4408 cc
    4773 svg
    5148 png
    5549 txt
    7495 py
    8741 cpp
-   8906 rs
+   8910 rs
   13318 ini
   14578 xht
-  17235 h
-  83361 js
-  83773 html
+  17237 h
+  83367 js
+  83781 html
