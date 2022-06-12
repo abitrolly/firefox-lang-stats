@@ -147,6 +147,7 @@
       1 mjpg
       1 mkv
       1 mmp
+      1 modulemap
       1 mof
       1 moz
       1 mp
@@ -197,7 +198,6 @@
       1 stylelintignore
       1 stylelintrc
       1 svgz
-      1 swift
       1 symlink
       1 targets
       1 tbx
@@ -242,7 +242,6 @@
       1 zoneinfo
       1 zzz
       2 2
-      2 APACHE
       2 BSD
       2 Dockerfile
       2 MOZILLA
@@ -280,6 +279,7 @@
       2 filter
       2 flat
       2 foo
+      2 fst
       2 geojson
       2 go
       2 graffle
@@ -313,12 +313,15 @@
       2 tbl
       2 texi
       2 tiff
+      2 tpl
       2 tst
       2 tt
+      2 udl
       2 version
       2 watchmanconfig
       2 win32
       2 y
+      3 MIT
       3 arcconfig
       3 awk
       3 bz2
@@ -352,7 +355,6 @@
       3 supp
       3 swf
       3 tab
-      3 tpl
       3 url
       3 vs2017
       3 vue
@@ -386,6 +388,7 @@
       4 stash
       4 stdout
       4 sym
+      5 APACHE
       5 common
       5 dict
       5 eslintignore
@@ -405,7 +408,6 @@
       5 nsh
       5 oga
       5 ps1
-      5 rb
       5 sfx
       5 sub
       5 targ
@@ -479,21 +481,22 @@
      15 mozilla
      15 res
      16 icc
-     16 jinja2
+     16 rb
      17 am
      17 cxx
      17 dsp
      17 dsw
-     17 gradle
+     17 jinja2
      17 resource
      18 aidl
      18 chromium
+     18 gradle
      18 wbn
-     19 pdf
      19 sln
      19 tbs
      19 vcproj
      20 cs
+     20 pdf
      21 options
      21 tmpl
      22 xsl
@@ -515,6 +518,7 @@
      29 bin
      29 opus
      30 fp
+     30 swift
      31 keyspec
      32 bat
      32 mozconfig
@@ -534,10 +538,8 @@
      46 key
      47 otf
      49 glsl
-     49 mjs
      49 pydeps
      49 sqlite
-     50 kt
      53 cert
      53 configure
      53 err
@@ -555,25 +557,25 @@
      62 plist
      65 gitignore
      67 ipdlh
+     71 mjs
      72 dat
      72 rc
      72 xpi
      76 scss
      78 crt
      78 s
+     84 kt
      84 wrong
      88 sam
      96 good
      97 cmake
-    103 lock
+    104 lock
     105 wat
     109 inc
     110 gni
     119 aff
-    128 cfg
+    125 cfg
     135 webm
-    136 stderr
-    141 hh
     141 ts
     149 jsx
     153 properties
@@ -581,9 +583,11 @@
     157 conf
     157 req
     160 m4s
-    161 zip
+    162 stderr
+    163 hh
     163 woff
     164 dic
+    165 zip
     168 bcmap
     197 test
     198 ucm
@@ -601,51 +605,51 @@
     267 mk
     271 ttf
     275 avif
-    280 mn
+    281 mn
     297 ico
     320 woff2
     326 asm
     363 map
     377 patch
-    393 in
+    394 in
     405 certspec
     406 pem
     408 ipdl
     454 list
-    583 sjs
+    584 sjs
     599 hpp
     600 gyp
     645 sh
     671 vert
-    785 toml
-    797 webidl
-    814 yml
+    798 webidl
+    811 yml
+    812 toml
     816 frag
     965 htm
     969 yaml
     999 java
    1133 idl
-   1172 xml
-   1221 jsm
+   1173 xml
+   1225 jsm
    1438 css
    1438 glif
-   1452 md
-   1672 headers
+   1467 md
+   1676 headers
    1977 rst
-   2105 json
-   2172 build
+   2121 json
+   2173 build
    2803 a
-   3674 xhtml
+   3668 xhtml
    4253 c
    4408 cc
-   4773 svg
-   5148 png
-   5549 txt
-   7495 py
-   8741 cpp
-   8910 rs
-  13318 ini
+   4804 svg
+   5212 png
+   5550 txt
+   7532 py
+   8742 cpp
+   9221 rs
+  13392 ini
   14578 xht
   17237 h
-  83367 js
-  83781 html
+  83376 js
+  83861 html
