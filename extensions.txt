@@ -555,15 +555,15 @@
      61 ogv
      62 m4
      62 plist
-     65 gitignore
+     66 gitignore
      67 ipdlh
-     71 mjs
      72 dat
      72 rc
      72 xpi
      76 scss
      78 crt
      78 s
+     81 mjs
      84 kt
      84 wrong
      88 sam
@@ -610,46 +610,46 @@
     320 woff2
     326 asm
     363 map
-    377 patch
+    378 patch
     394 in
     405 certspec
     406 pem
     408 ipdl
-    454 list
-    584 sjs
+    455 list
+    588 sjs
     599 hpp
     600 gyp
-    645 sh
+    641 sh
     671 vert
     798 webidl
-    811 yml
-    812 toml
+    810 yml
+    813 toml
     816 frag
     965 htm
-    969 yaml
+    973 yaml
     999 java
    1133 idl
    1173 xml
-   1225 jsm
+   1234 jsm
    1438 css
    1438 glif
    1467 md
    1676 headers
-   1977 rst
-   2121 json
+   1989 rst
+   2125 json
    2173 build
    2803 a
    3668 xhtml
    4253 c
    4408 cc
-   4804 svg
-   5212 png
+   4809 svg
+   5214 png
    5550 txt
-   7532 py
+   7533 py
    8742 cpp
-   9221 rs
-  13392 ini
+   9234 rs
+  13375 ini
   14578 xht
-  17237 h
-  83376 js
-  83861 html
+  17236 h
+  83408 js
+  83943 html
