@@ -361,7 +361,6 @@
       3 xib
       3 xtb
       3 xyz
-      3 yamllint
       3 yapf
       4 0
       4 3gp
@@ -388,6 +387,7 @@
       4 stash
       4 stdout
       4 sym
+      4 yamllint
       5 APACHE
       5 common
       5 dict
@@ -486,11 +486,11 @@
      17 cxx
      17 dsp
      17 dsw
-     17 jinja2
      17 resource
      18 aidl
      18 chromium
      18 gradle
+     18 jinja2
      18 wbn
      19 sln
      19 tbs
@@ -521,7 +521,6 @@
      30 swift
      31 keyspec
      32 bat
-     32 mozconfig
      32 sug
      33 proto
      35 crl
@@ -551,7 +550,7 @@
      57 m
      58 wav
      59 def
-     60 mozbuild
+     59 mozbuild
      61 ogv
      62 m4
      62 plist
@@ -573,20 +572,20 @@
     105 wat
     109 inc
     110 gni
-    119 aff
+    120 aff
     125 cfg
     135 webm
     141 ts
     149 jsx
     153 properties
     155 fax
-    157 conf
     157 req
+    159 conf
     160 m4s
     162 stderr
     163 hh
     163 woff
-    164 dic
+    165 dic
     165 zip
     168 bcmap
     197 test
@@ -597,10 +596,10 @@
     215 S
     217 snap
     220 mm
-    241 ftl
+    242 ftl
+    249 manifest
     252 jpg
     252 vtt
-    262 manifest
     263 mp4
     267 mk
     271 ttf
@@ -614,42 +613,42 @@
     394 in
     405 certspec
     406 pem
-    408 ipdl
+    407 ipdl
     455 list
-    588 sjs
+    586 sjs
     599 hpp
     600 gyp
-    641 sh
+    640 sh
     671 vert
-    798 webidl
-    810 yml
-    813 toml
+    797 webidl
+    811 yml
+    815 toml
     816 frag
     965 htm
-    973 yaml
+    977 yaml
     999 java
-   1133 idl
+   1131 idl
    1173 xml
-   1234 jsm
-   1438 css
+   1241 jsm
    1438 glif
+   1439 css
    1467 md
-   1676 headers
-   1989 rst
-   2125 json
-   2173 build
+   1675 headers
+   1979 rst
+   2091 json
+   2170 build
    2803 a
-   3668 xhtml
+   3669 xhtml
    4253 c
-   4408 cc
-   4809 svg
-   5214 png
-   5550 txt
-   7533 py
-   8742 cpp
-   9234 rs
-  13375 ini
+   4406 cc
+   4806 svg
+   5143 png
+   5551 txt
+   7540 py
+   8739 cpp
+   9236 rs
+  13440 ini
   14578 xht
-  17236 h
-  83408 js
-  83943 html
+  17228 h
+  83430 js
+  83990 html
