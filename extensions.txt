@@ -164,6 +164,7 @@
       1 order
       1 os4
       1 out
+      1 pac
       1 pas
       1 pbfilespec
       1 pch
@@ -232,7 +233,6 @@
       1 xmb
       1 xpm
       1 xsd
-      1 xsh
       1 xslt
       1 y4m
       1 yes
@@ -295,8 +295,8 @@
       2 nix
       2 nlf
       2 nmake
+      2 nu
       2 nvmrc
-      2 orig
       2 override
       2 perl
       2 pgen
@@ -368,7 +368,6 @@
       4 3gp
       4 babelrc
       4 ber
-      4 chunk
       4 cookedshaderpackage
       4 enrollment
       4 esgrammar
@@ -391,6 +390,7 @@
       4 sym
       4 yamllint
       5 APACHE
+      5 chunk
       5 common
       5 dict
       5 eslintignore
@@ -465,10 +465,10 @@
      11 htaccess
      11 metal
      11 p12
-     11 whl
      12 hbs
      12 mak
      12 nsi
+     12 whl
      13 TTF
      13 bas
      13 editorconfig
@@ -503,7 +503,6 @@
      21 tmpl
      22 xsl
      23 diff
-     23 typed
      24 der
      24 filters
      25 cur
@@ -516,6 +515,7 @@
      26 template
      27 asis
      27 dll
+     27 typed
      29 bazel
      29 bin
      29 opus
@@ -530,10 +530,10 @@
      37 cvsignore
      37 sxg
      38 wasm
-     39 exe
      40 pyi
      40 sdp
      41 1
+     41 exe
      42 vcxproj
      44 mp3
      46 key
@@ -575,7 +575,7 @@
     108 inc
     110 gni
     120 aff
-    131 cfg
+    130 cfg
     135 webm
     141 ts
     149 jsx
@@ -611,46 +611,46 @@
     320 woff2
     326 asm
     363 map
-    373 patch
+    372 patch
     394 in
     405 certspec
     406 pem
-    409 ipdl
+    410 ipdl
     455 list
     586 sjs
     597 gyp
     599 hpp
-    637 sh
+    638 sh
     671 vert
     798 webidl
-    811 yml
+    812 yml
     816 frag
     816 toml
     965 htm
     977 yaml
     999 java
-   1131 idl
+   1132 idl
    1173 xml
-   1242 jsm
+   1248 jsm
    1438 glif
-   1440 css
+   1444 css
    1469 md
-   1674 headers
-   1985 rst
-   2093 json
+   1679 headers
+   1986 rst
+   2094 json
    2176 build
    2803 a
    3669 xhtml
    4255 c
-   4426 cc
-   4809 svg
+   4425 cc
+   4808 svg
    5143 png
-   5554 txt
-   7529 py
-   8761 cpp
+   5560 txt
+   7568 py
+   8765 cpp
    9237 rs
-  13428 ini
+  13378 ini
   14578 xht
-  17280 h
-  83430 js
-  84038 html
+  17287 h
+  83471 js
+  84096 html
