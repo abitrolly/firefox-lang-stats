@@ -162,6 +162,7 @@
       1 nss
       1 o
       1 order
+      1 orig
       1 os4
       1 out
       1 pac
@@ -497,9 +498,9 @@
      19 tbs
      19 vcproj
      20 cs
-     20 pdf
      20 sln
      21 options
+     21 pdf
      21 tmpl
      22 xsl
      23 diff
@@ -521,8 +522,8 @@
      29 opus
      30 bat
      30 fp
-     30 swift
      31 keyspec
+     31 swift
      32 sug
      33 proto
      35 crl
@@ -540,7 +541,7 @@
      47 otf
      49 glsl
      49 pydeps
-     49 sqlite
+     50 sqlite
      53 cert
      53 configure
      53 err
@@ -566,10 +567,10 @@
      78 s
      84 wrong
      85 kt
-     86 mjs
      88 sam
      96 good
      97 cmake
+     99 mjs
     104 lock
     105 wat
     108 inc
@@ -583,9 +584,8 @@
     155 fax
     157 req
     160 m4s
-    162 conf
     162 stderr
-    163 hh
+    163 conf
     163 woff
     165 dic
     165 zip
@@ -594,11 +594,12 @@
     198 ucm
     201 gn
     203 gif
+    203 hh
     206 bmp
     215 S
     216 snap
     220 mm
-    243 ftl
+    244 ftl
     249 manifest
     252 vtt
     257 jpg
@@ -609,48 +610,48 @@
     283 avif
     297 ico
     320 woff2
-    326 asm
+    323 asm
     363 map
-    372 patch
+    370 patch
     394 in
     405 certspec
     406 pem
     410 ipdl
     455 list
-    586 sjs
+    587 sjs
     597 gyp
     599 hpp
     638 sh
     671 vert
-    798 webidl
+    797 webidl
     812 yml
+    815 toml
     816 frag
-    816 toml
     965 htm
-    977 yaml
+    979 yaml
     999 java
-   1132 idl
+   1134 idl
    1173 xml
-   1248 jsm
+   1243 jsm
    1438 glif
-   1444 css
+   1441 css
    1469 md
-   1679 headers
+   1682 headers
    1986 rst
-   2094 json
+   2096 json
    2176 build
    2803 a
-   3669 xhtml
-   4255 c
-   4425 cc
-   4808 svg
+   3670 xhtml
+   4287 c
+   4429 cc
+   4813 svg
    5143 png
-   5560 txt
-   7568 py
-   8765 cpp
-   9237 rs
-  13378 ini
+   5562 txt
+   7576 py
+   8767 cpp
+   9234 rs
+  13447 ini
   14578 xht
-  17287 h
-  83471 js
-  84096 html
+  17298 h
+  83515 js
+  84209 html
