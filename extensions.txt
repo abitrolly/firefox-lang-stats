@@ -234,6 +234,7 @@
       1 xmb
       1 xpm
       1 xsd
+      1 xsh
       1 xslt
       1 y4m
       1 yes
@@ -296,7 +297,6 @@
       2 nix
       2 nlf
       2 nmake
-      2 nu
       2 nvmrc
       2 override
       2 perl
@@ -466,10 +466,10 @@
      11 htaccess
      11 metal
      11 p12
+     11 whl
      12 hbs
      12 mak
      12 nsi
-     12 whl
      13 TTF
      13 bas
      13 editorconfig
@@ -502,8 +502,9 @@
      21 options
      21 pdf
      21 tmpl
+     22 diff
      22 xsl
-     23 diff
+     23 typed
      24 der
      24 filters
      25 cur
@@ -516,7 +517,6 @@
      26 template
      27 asis
      27 dll
-     27 typed
      29 bazel
      29 bin
      29 opus
@@ -531,10 +531,10 @@
      37 cvsignore
      37 sxg
      38 wasm
+     39 exe
      40 pyi
      40 sdp
      41 1
-     41 exe
      42 vcxproj
      44 mp3
      46 key
@@ -547,8 +547,8 @@
      53 err
      54 ogg
      54 pl
-     54 webmanifest
      55 dtd
+     55 webmanifest
      57 hyf
      57 m
      58 wav
@@ -566,17 +566,17 @@
      78 crt
      78 s
      84 wrong
-     85 kt
+     86 kt
      88 sam
      96 good
      97 cmake
-     99 mjs
     104 lock
     105 wat
     108 inc
     110 gni
     120 aff
-    130 cfg
+    131 cfg
+    134 mjs
     135 webm
     141 ts
     149 jsx
@@ -584,8 +584,8 @@
     155 fax
     157 req
     160 m4s
+    162 conf
     162 stderr
-    163 conf
     163 woff
     165 dic
     165 zip
@@ -599,10 +599,10 @@
     215 S
     216 snap
     220 mm
-    244 ftl
+    246 ftl
     249 manifest
     252 vtt
-    257 jpg
+    258 jpg
     263 mp4
     267 mk
     271 ttf
@@ -610,12 +610,12 @@
     283 avif
     297 ico
     320 woff2
-    323 asm
+    325 asm
     363 map
-    370 patch
+    371 patch
     394 in
-    405 certspec
-    406 pem
+    406 certspec
+    407 pem
     410 ipdl
     455 list
     587 sjs
@@ -624,34 +624,34 @@
     638 sh
     671 vert
     797 webidl
-    812 yml
-    815 toml
+    813 yml
     816 frag
+    817 toml
     965 htm
     979 yaml
     999 java
    1134 idl
    1173 xml
-   1243 jsm
+   1200 jsm
    1438 glif
-   1441 css
-   1469 md
-   1682 headers
-   1986 rst
-   2096 json
-   2176 build
+   1443 css
+   1472 md
+   1695 headers
+   1981 rst
+   2100 json
+   2180 build
    2803 a
-   3670 xhtml
-   4287 c
+   3672 xhtml
+   4270 c
    4429 cc
    4813 svg
-   5143 png
-   5562 txt
-   7576 py
-   8767 cpp
-   9234 rs
-  13447 ini
+   5116 png
+   5557 txt
+   7548 py
+   8773 cpp
+   9235 rs
+  13536 ini
   14578 xht
-  17298 h
-  83515 js
-  84209 html
+  17320 h
+  83573 js
+  84339 html
