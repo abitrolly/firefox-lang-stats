@@ -170,7 +170,6 @@
       1 pbfilespec
       1 pch
       1 pck
-      1 peepmatic
       1 pkg
       1 pm
       1 prettierrc
@@ -188,7 +187,6 @@
       1 sample
       1 script1
       1 sctp
-      1 serialized
       1 setnoparent
       1 sig
       1 signature
@@ -508,13 +506,13 @@
      24 der
      24 filters
      25 cur
-     25 webp
      26 db
      26 es5
      26 es6
      26 gitkeep
      26 mar
      26 template
+     26 webp
      27 asis
      27 dll
      29 bazel
@@ -530,7 +528,7 @@
      35 gypi
      37 cvsignore
      37 sxg
-     38 wasm
+     37 wasm
      39 exe
      40 pyi
      40 sdp
@@ -545,6 +543,7 @@
      53 cert
      53 configure
      53 err
+     53 wat
      54 ogg
      54 pl
      55 dtd
@@ -570,13 +569,11 @@
      88 sam
      96 good
      97 cmake
-    104 lock
-    105 wat
+    103 lock
     108 inc
     110 gni
     120 aff
     131 cfg
-    134 mjs
     135 webm
     141 ts
     149 jsx
@@ -590,16 +587,17 @@
     165 dic
     165 zip
     168 bcmap
+    181 mjs
     197 test
     198 ucm
     201 gn
     203 gif
     203 hh
     206 bmp
+    211 snap
     215 S
-    216 snap
     220 mm
-    246 ftl
+    248 ftl
     249 manifest
     252 vtt
     258 jpg
@@ -612,46 +610,46 @@
     320 woff2
     325 asm
     363 map
-    371 patch
+    373 patch
     394 in
     406 certspec
     407 pem
     410 ipdl
-    455 list
-    587 sjs
+    456 list
+    591 sjs
     597 gyp
     599 hpp
-    638 sh
+    637 sh
     671 vert
     797 webidl
+    807 toml
     813 yml
     816 frag
-    817 toml
     965 htm
-    979 yaml
+    982 yaml
     999 java
    1134 idl
+   1153 jsm
    1173 xml
-   1200 jsm
    1438 glif
    1443 css
-   1472 md
+   1465 md
    1695 headers
-   1981 rst
-   2100 json
+   1982 rst
+   2092 json
    2180 build
    2803 a
    3672 xhtml
    4270 c
    4429 cc
    4813 svg
-   5116 png
-   5557 txt
-   7548 py
-   8773 cpp
-   9235 rs
-  13536 ini
+   5118 png
+   5558 txt
+   7545 py
+   8782 cpp
+   8934 rs
+  13515 ini
   14578 xht
-  17320 h
-  83573 js
-  84339 html
+  17324 h
+  84160 js
+  84360 html
