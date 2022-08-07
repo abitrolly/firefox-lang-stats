@@ -165,7 +165,6 @@
       1 orig
       1 os4
       1 out
-      1 pac
       1 pas
       1 pbfilespec
       1 pch
@@ -297,6 +296,7 @@
       2 nmake
       2 nvmrc
       2 override
+      2 pac
       2 perl
       2 pgen
       2 php
@@ -317,7 +317,6 @@
       2 tpl
       2 tst
       2 tt
-      2 udl
       2 version
       2 watchmanconfig
       2 win32
@@ -402,6 +401,7 @@
       5 jshintrc
       5 jxl
       5 ksh
+      5 kts
       5 libaom
       5 log
       5 mailmap
@@ -441,6 +441,7 @@
       7 rsp
       7 settings
       7 storyboard
+      7 udl
       8 3
       8 desktop
       8 grd
@@ -480,7 +481,6 @@
      15 hxx
      15 icns
      15 mozilla
-     15 rb
      15 res
      16 icc
      17 am
@@ -496,6 +496,7 @@
      19 tbs
      19 vcproj
      20 cs
+     20 rb
      20 sln
      21 options
      21 pdf
@@ -513,19 +514,19 @@
      26 mar
      26 template
      26 webp
-     27 asis
      27 dll
+     28 asis
      29 bazel
      29 bin
      29 opus
      30 bat
      30 fp
      31 keyspec
-     31 swift
      32 sug
      33 proto
      35 crl
      35 gypi
+     36 swift
      37 cvsignore
      37 sxg
      37 wasm
@@ -551,24 +552,24 @@
      57 hyf
      57 m
      58 wav
-     59 def
      59 mozbuild
+     60 def
      61 ogv
      62 m4
      62 plist
      66 gitignore
      67 ipdlh
      72 dat
-     72 rc
      72 xpi
-     76 scss
+     73 rc
+     77 scss
      78 crt
      78 s
      84 wrong
      86 kt
      88 sam
      96 good
-     97 cmake
+     98 cmake
     103 lock
     108 inc
     110 gni
@@ -582,12 +583,12 @@
     157 req
     160 m4s
     162 conf
-    162 stderr
     163 woff
+    164 stderr
     165 dic
     165 zip
     168 bcmap
-    181 mjs
+    183 mjs
     197 test
     198 ucm
     201 gn
@@ -611,45 +612,45 @@
     325 asm
     363 map
     373 patch
-    394 in
+    395 in
     406 certspec
     407 pem
     410 ipdl
     456 list
-    591 sjs
+    593 sjs
     597 gyp
     599 hpp
-    637 sh
+    636 sh
     671 vert
-    797 webidl
-    807 toml
-    813 yml
+    799 webidl
+    814 yml
     816 frag
+    819 toml
     965 htm
     982 yaml
     999 java
    1134 idl
-   1153 jsm
-   1173 xml
+   1177 xml
+   1183 jsm
    1438 glif
-   1443 css
-   1465 md
-   1695 headers
-   1982 rst
-   2092 json
-   2180 build
+   1444 css
+   1471 md
+   1693 headers
+   1983 rst
+   2098 json
+   2184 build
    2803 a
    3672 xhtml
    4270 c
-   4429 cc
-   4813 svg
-   5118 png
+   4438 cc
+   4811 svg
+   5126 png
    5558 txt
-   7545 py
-   8782 cpp
-   8934 rs
-  13515 ini
+   7554 py
+   8796 cpp
+   8976 rs
+  13487 ini
   14578 xht
-  17324 h
-  84160 js
-  84360 html
+  17345 h
+  84000 js
+  84433 html
