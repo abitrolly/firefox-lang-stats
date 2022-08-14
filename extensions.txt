@@ -558,7 +558,7 @@
      62 m4
      62 plist
      66 gitignore
-     67 ipdlh
+     68 ipdlh
      72 dat
      72 xpi
      73 rc
@@ -577,9 +577,9 @@
     131 cfg
     135 webm
     141 ts
-    149 jsx
     153 properties
     155 fax
+    155 jsx
     157 req
     160 m4s
     162 conf
@@ -588,15 +588,15 @@
     165 dic
     165 zip
     168 bcmap
-    183 mjs
+    184 mjs
     197 test
     198 ucm
     201 gn
     203 gif
-    203 hh
     206 bmp
     211 snap
     215 S
+    215 hh
     220 mm
     248 ftl
     249 manifest
@@ -605,7 +605,7 @@
     263 mp4
     267 mk
     271 ttf
-    281 mn
+    282 mn
     283 avif
     297 ico
     320 woff2
@@ -622,35 +622,35 @@
     599 hpp
     636 sh
     671 vert
-    799 webidl
+    802 webidl
     814 yml
     816 frag
     819 toml
     965 htm
-    982 yaml
+    983 yaml
     999 java
    1134 idl
    1177 xml
    1183 jsm
    1438 glif
-   1444 css
+   1445 css
    1471 md
    1693 headers
-   1983 rst
-   2098 json
-   2184 build
+   1984 rst
+   2099 json
+   2187 build
    2803 a
-   3672 xhtml
+   3676 xhtml
    4270 c
-   4438 cc
-   4811 svg
-   5126 png
+   4440 cc
+   4817 svg
+   5136 png
    5558 txt
-   7554 py
-   8796 cpp
-   8976 rs
-  13487 ini
+   7556 py
+   8802 cpp
+   8977 rs
+  13433 ini
   14578 xht
-  17345 h
-  84000 js
-  84433 html
+  17351 h
+  84334 js
+  84450 html
