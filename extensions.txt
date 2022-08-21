@@ -119,6 +119,7 @@
       1 ijg
       1 illegal_suffix
       1 inf
+      1 jnlp
       1 jscsrc
       1 jsi
       1 jsonp
@@ -158,7 +159,6 @@
       1 new
       1 noserc
       1 npmignore
-      1 npmrc
       1 nss
       1 o
       1 order
@@ -294,6 +294,7 @@
       2 nix
       2 nlf
       2 nmake
+      2 npmrc
       2 nvmrc
       2 override
       2 pac
@@ -429,7 +430,6 @@
       7 beta
       7 blb
       7 flake8
-      7 gitattributes
       7 har
       7 msg
       7 pbxproj
@@ -444,6 +444,7 @@
       7 udl
       8 3
       8 desktop
+      8 gitattributes
       8 grd
       8 m3u8
       8 morph
@@ -540,6 +541,7 @@
      47 otf
      49 glsl
      49 pydeps
+     50 dtd
      50 sqlite
      53 cert
      53 configure
@@ -547,7 +549,6 @@
      53 wat
      54 ogg
      54 pl
-     55 dtd
      55 webmanifest
      57 hyf
      57 m
@@ -557,7 +558,7 @@
      61 ogv
      62 m4
      62 plist
-     66 gitignore
+     67 gitignore
      68 ipdlh
      72 dat
      72 xpi
@@ -570,7 +571,7 @@
      88 sam
      96 good
      98 cmake
-    103 lock
+    104 lock
     108 inc
     110 gni
     120 aff
@@ -578,17 +579,17 @@
     135 webm
     141 ts
     153 properties
+    154 jsx
     155 fax
-    155 jsx
     157 req
     160 m4s
-    162 conf
+    163 conf
     163 woff
-    164 stderr
     165 dic
     165 zip
+    166 stderr
     168 bcmap
-    184 mjs
+    185 mjs
     197 test
     198 ucm
     201 gn
@@ -598,26 +599,26 @@
     215 S
     215 hh
     220 mm
-    248 ftl
     249 manifest
+    252 ftl
     252 vtt
     258 jpg
-    263 mp4
+    264 mp4
     267 mk
-    271 ttf
+    272 ttf
     282 mn
     283 avif
     297 ico
     320 woff2
     325 asm
     363 map
-    373 patch
+    374 patch
     395 in
     406 certspec
-    407 pem
     410 ipdl
+    413 pem
     456 list
-    593 sjs
+    594 sjs
     597 gyp
     599 hpp
     636 sh
@@ -625,32 +626,32 @@
     802 webidl
     814 yml
     816 frag
-    819 toml
+    821 toml
     965 htm
-    983 yaml
+    985 yaml
     999 java
-   1134 idl
+   1139 idl
    1177 xml
-   1183 jsm
+   1187 jsm
    1438 glif
-   1445 css
-   1471 md
+   1450 css
+   1477 md
    1693 headers
-   1984 rst
-   2099 json
+   1983 rst
+   2102 json
    2187 build
    2803 a
    3676 xhtml
    4270 c
    4440 cc
-   4817 svg
-   5136 png
+   4827 svg
+   5137 png
    5558 txt
-   7556 py
-   8802 cpp
-   8977 rs
-  13433 ini
+   7563 py
+   8808 cpp
+   9002 rs
+  13431 ini
   14578 xht
-  17351 h
-  84334 js
-  84450 html
+  17359 h
+  84393 js
+  84469 html
