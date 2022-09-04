@@ -22,6 +22,8 @@
       1 LIB
       1 LICENSE
       1 MAC
+      1 ME
+      1 Makefile
       1 PL
       1 PNG
       1 PRJ
@@ -58,6 +60,7 @@
       1 bs
       1 cin
       1 client
+      1 cmx
       1 cnf
       1 committime
       1 cr3
@@ -119,6 +122,7 @@
       1 ics
       1 ijg
       1 illegal_suffix
+      1 imp
       1 inf
       1 jnlp
       1 jscsrc
@@ -127,7 +131,6 @@
       1 keep
       1 keystore
       1 ld
-      1 lds
       1 lex
       1 linux
       1 linux32
@@ -158,7 +161,6 @@
       1 mux
       1 mycert2
       1 myspell
-      1 new
       1 noserc
       1 npmignore
       1 nss
@@ -175,7 +177,6 @@
       1 pm
       1 prettierrc
       1 pri
-      1 pro
       1 pth
       1 pxi
       1 pylintrc
@@ -191,10 +192,8 @@
       1 setnoparent
       1 sig
       1 signature
-      1 sigs
       1 simd
       1 stabs
-      1 star
       1 stdcxx
       1 styl
       1 stylelintignore
@@ -204,6 +203,7 @@
       1 targets
       1 tbx
       1 tex
+      1 textpb
       1 tga
       1 tgz
       1 thumbnailer
@@ -217,10 +217,12 @@
       1 utf16be
       1 visualizer
       1 vpython
+      1 vpython3
       1 vs
       1 vsprops
       1 webapp
       1 webrender
+      1 webrtc
       1 webvtt
       1 wgsl
       1 word
@@ -247,7 +249,6 @@
       2 BSD
       2 Dockerfile
       2 MOZILLA
-      2 Makefile
       2 Mozilla
       2 OPT_IA64
       2 api
@@ -260,6 +261,7 @@
       2 bash
       2 bowerrc
       2 breakpad
+      2 bzl
       2 cache
       2 cbor
       2 cgi
@@ -278,6 +280,7 @@
       2 ext
       2 features
       2 filter
+      2 flags
       2 flat
       2 foo
       2 fst
@@ -289,8 +292,10 @@
       2 icon
       2 ignore
       2 jsonlz4
+      2 lds
       2 mkd
       2 natvis
+      2 new
       2 nix
       2 nlf
       2 nmake
@@ -298,16 +303,21 @@
       2 nvmrc
       2 override
       2 pac
+      2 pb
       2 perl
       2 pgen
       2 php
       2 pif
       2 printvars
+      2 pro
       2 pub
+      2 rtpdump
       2 saves
       2 sb
+      2 sigs
       2 so
       2 sources
+      2 star
       2 status
       2 syms
       2 tag
@@ -315,27 +325,26 @@
       2 tbl
       2 texi
       2 tiff
+      2 tokens
       2 tpl
       2 tst
       2 tt
       2 version
       2 watchmanconfig
       2 win32
+      2 with_android_deps
       2 y
       3 MIT
       3 arcconfig
       3 awk
       3 bz2
-      3 bzl
       3 ca
       3 cbproj
       3 cfs_period_us
       3 cfs_quota_us
       3 cjs
-      3 cmx
       3 cry
       3 csv
-      3 flags
       3 gcc
       3 gdl
       3 gencc
@@ -363,7 +372,6 @@
       3 xib
       3 xtb
       3 xyz
-      3 yapf
       4 0
       4 3gp
       4 babelrc
@@ -379,6 +387,7 @@
       4 jsonld
       4 libvpx
       4 lnk
+      4 lua
       4 metallib
       4 nrm
       4 pc
@@ -389,6 +398,7 @@
       4 stdout
       4 sym
       4 yamllint
+      4 yapf
       5 APACHE
       5 chunk
       5 common
@@ -403,10 +413,8 @@
       5 jshintrc
       5 jxl
       5 ksh
-      5 kts
       5 libaom
       5 log
-      5 mailmap
       5 mpd
       5 nsh
       5 oga
@@ -420,9 +428,9 @@
       6 com
       6 coverage
       6 eot
-      6 handlebars
-      6 jar
       6 jpeg
+      6 kts
+      6 mailmap
       6 mf
       6 sed
       6 sf
@@ -434,34 +442,34 @@
       7 har
       7 msg
       7 pbxproj
+      7 pcm
       7 pod
       7 props
       7 pyx
       7 rl
       7 rsa
       7 rsp
-      7 settings
       7 storyboard
-      7 udl
       8 3
       8 desktop
       8 gitattributes
       8 grd
+      8 jar
       8 m3u8
       8 morph
+      8 settings
       8 symbols
+      8 udl
       9 coveragerc
       9 icu
-      9 sha1
+      9 pump
       9 strings
       9 xcconfig
      10 TXT
      10 dox
      10 exp
      10 hgignore
-     10 jinja
      10 mdb
-     10 pump
      11 gz
      11 hash
      11 htaccess
@@ -469,12 +477,14 @@
      11 p12
      11 whl
      12 hbs
+     12 jinja
      12 mak
      12 nsi
      13 TTF
      13 bas
      13 editorconfig
      13 ent
+     13 rtp
      13 ttx
      14 nib
      14 pfb
@@ -482,9 +492,10 @@
      14 text
      15 hxx
      15 icns
-     15 mozilla
+     15 pyl
      15 res
      16 icc
+     16 mozilla
      17 am
      17 cxx
      17 dsp
@@ -492,14 +503,16 @@
      17 resource
      18 aidl
      18 chromium
-     18 gradle
-     18 jinja2
      18 wbn
+     19 jinja2
+     19 stun
      19 tbs
      19 vcproj
      20 cs
+     20 mdns
      20 rb
      20 sln
+     21 gradle
      21 options
      21 pdf
      22 diff
@@ -513,36 +526,34 @@
      26 es5
      26 es6
      26 gitkeep
-     26 mar
-     26 template
      26 webp
      27 dll
+     27 mar
      28 asis
-     29 bazel
-     29 bin
      29 opus
-     30 bat
+     30 bazel
      30 fp
+     31 bat
      31 keyspec
      32 sug
-     33 proto
+     33 template
      35 crl
      35 gypi
-     36 swift
      37 cvsignore
+     37 swift
      37 sxg
      37 wasm
-     39 exe
+     38 proto
+     40 exe
      40 pyi
-     40 sdp
      41 1
+     42 bin
      42 vcxproj
-     44 mp3
-     46 dtd
+     45 dtd
+     45 mp3
      46 key
      47 otf
      49 glsl
-     49 pydeps
      50 sqlite
      53 cert
      53 configure
@@ -552,15 +563,16 @@
      54 pl
      55 webmanifest
      57 hyf
-     57 m
-     58 wav
+     57 pydeps
      59 mozbuild
      60 def
      61 ogv
      62 m4
-     62 plist
-     66 gitignore
+     66 wav
+     67 rtcp
      68 ipdlh
+     70 gitignore
+     71 plist
      72 dat
      72 xpi
      73 rc
@@ -571,18 +583,20 @@
      86 kt
      88 sam
      96 good
-     98 cmake
+     97 cmake
     104 lock
-    108 inc
-    110 gni
+    109 inc
+    109 sdp
+    113 m
     120 aff
-    131 cfg
+    125 gni
     135 webm
-    153 properties
+    142 cfg
     154 jsx
     155 fax
     156 ts
     157 req
+    158 properties
     160 m4s
     161 conf
     163 woff
@@ -590,69 +604,70 @@
     165 zip
     168 bcmap
     172 stderr
-    186 mjs
+    190 mjs
     197 test
     198 ucm
-    201 gn
     203 gif
     206 bmp
     211 snap
     215 hh
     216 S
-    220 mm
     249 manifest
     252 vtt
-    254 ftl
+    258 ftl
     258 jpg
-    264 mp4
-    267 mk
-    272 ttf
-    282 mn
-    283 avif
+    266 mk
+    266 mp4
+    273 ttf
+    276 gn
+    283 mn
+    284 avif
     297 ico
     320 woff2
     324 asm
+    353 mm
     365 map
-    375 patch
-    395 in
+    376 patch
+    394 in
     406 certspec
-    410 ipdl
+    409 ipdl
     413 pem
+    429 sha1
     456 list
     595 sjs
     597 gyp
     599 hpp
-    636 sh
+    646 sh
     671 vert
     802 webidl
     812 yml
     816 frag
-    822 toml
+    821 toml
     965 htm
-    986 yaml
-    999 java
+    992 yaml
+   1068 java
    1139 idl
-   1177 xml
-   1191 jsm
+   1190 jsm
+   1207 xml
    1438 glif
-   1450 css
-   1479 md
-   1693 headers
+   1451 css
+   1539 md
+   1694 headers
    1984 rst
-   2095 json
-   2188 build
+   2109 json
+   2312 build
    2803 a
    3676 xhtml
-   4274 c
-   4456 cc
-   4828 svg
-   5138 png
-   5558 txt
-   7566 py
-   8809 cpp
-   9033 rs
-  13436 ini
+   4276 c
+   4832 svg
+   5185 png
+   5255 cc
+   5566 txt
+   7648 py
+   8824 cpp
+   9013 rs
+  13430 ini
   14578 xht
-  17380 h
-  84373 js
-  84493 html
+  18189 h
+  84393 js
+  84518 html
