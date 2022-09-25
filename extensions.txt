@@ -549,12 +549,12 @@
      40 pyi
      41 1
      42 bin
+     42 dtd
      42 vcxproj
-     43 dtd
      45 mp3
      46 key
      47 otf
-     49 glsl
+     50 glsl
      50 sqlite
      53 cert
      53 configure
@@ -572,7 +572,7 @@
      66 wav
      67 rtcp
      68 ipdlh
-     70 gitignore
+     69 gitignore
      71 plist
      72 dat
      72 xpi
@@ -585,21 +585,21 @@
      88 sam
      96 good
      97 cmake
-    104 lock
+    105 lock
     109 inc
     109 sdp
     113 m
     120 aff
     125 gni
     142 cfg
-    142 webm
+    143 webm
     154 jsx
     155 fax
+    156 properties
     156 ts
-    157 properties
     157 req
+    160 conf
     160 m4s
-    161 conf
     163 woff
     165 dic
     165 zip
@@ -609,15 +609,15 @@
     203 gif
     206 bmp
     211 snap
-    215 hh
     216 S
-    228 mjs
+    218 hh
     233 test
+    243 mjs
+    248 manifest
     248 mk
-    249 manifest
     252 vtt
     258 jpg
-    259 ftl
+    260 ftl
     269 mp4
     273 ttf
     276 gn
@@ -640,35 +640,35 @@
     612 sjs
     646 sh
     671 vert
-    803 webidl
-    812 yml
+    802 webidl
+    811 yml
     816 frag
-    822 toml
+    821 toml
     965 htm
     992 yaml
-   1068 java
-   1141 idl
-   1160 jsm
+   1069 java
+   1143 idl
+   1146 jsm
    1207 xml
    1438 glif
    1454 css
-   1543 md
-   1702 headers
-   1991 rst
+   1544 md
+   1703 headers
+   1992 rst
    2114 json
-   2317 build
+   2288 build
    2803 a
-   3684 xhtml
+   3662 xhtml
    4276 c
-   4837 svg
-   5193 png
-   5256 cc
-   5567 txt
-   7671 py
+   4839 svg
+   5192 png
+   5260 cc
+   5569 txt
+   7697 py
    8833 cpp
-   9036 rs
-  13468 ini
+   9046 rs
   14574 xht
+  17863 ini
   18204 h
-  84531 js
-  84960 html
+  84560 js
+  85207 html
