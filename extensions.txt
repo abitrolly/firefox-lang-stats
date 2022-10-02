@@ -423,7 +423,6 @@
       5 sfx
       5 sub
       5 targ
-      5 ver
       6 avifs
       6 cmd
       6 com
@@ -436,6 +435,7 @@
       6 sed
       6 sf
       6 t
+      6 ver
       7 ac
       7 beta
       7 blb
@@ -612,7 +612,6 @@
     216 S
     218 hh
     233 test
-    243 mjs
     248 manifest
     248 mk
     252 vtt
@@ -628,12 +627,13 @@
     324 asm
     353 mm
     365 map
-    375 patch
+    376 patch
     393 in
     406 certspec
     411 ipdl
     413 pem
     429 sha1
+    455 mjs
     457 list
     597 gyp
     599 hpp
@@ -645,30 +645,30 @@
     816 frag
     821 toml
     965 htm
+    968 jsm
     992 yaml
    1069 java
-   1143 idl
-   1146 jsm
+   1140 idl
    1207 xml
    1438 glif
-   1454 css
+   1452 css
    1544 md
    1703 headers
    1992 rst
-   2114 json
-   2288 build
+   2116 json
+   2293 build
    2803 a
-   3662 xhtml
+   3656 xhtml
    4276 c
    4839 svg
-   5192 png
-   5260 cc
+   5194 png
+   5261 cc
    5569 txt
-   7697 py
-   8833 cpp
-   9046 rs
+   7700 py
+   8825 cpp
+   9045 rs
   14574 xht
-  17863 ini
-  18204 h
-  84560 js
+  17855 ini
+  18202 h
+  84544 js
   85207 html
