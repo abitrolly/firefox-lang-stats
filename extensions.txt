@@ -513,10 +513,10 @@
      20 mdns
      20 rb
      20 sln
-     21 diff
      21 gradle
      21 options
      21 pdf
+     22 diff
      22 tmpl
      22 xsl
      23 typed
@@ -531,6 +531,7 @@
      27 dll
      27 mar
      28 asis
+     29 dtd
      29 opus
      30 bazel
      30 fp
@@ -549,7 +550,6 @@
      40 pyi
      41 1
      42 bin
-     42 dtd
      42 vcxproj
      45 mp3
      46 key
@@ -594,8 +594,8 @@
     142 cfg
     143 webm
     154 jsx
+    154 properties
     155 fax
-    156 properties
     156 ts
     157 req
     160 conf
@@ -604,7 +604,7 @@
     165 dic
     165 zip
     168 bcmap
-    172 stderr
+    173 stderr
     198 ucm
     203 gif
     206 bmp
@@ -612,63 +612,63 @@
     216 S
     218 hh
     233 test
-    248 manifest
+    247 manifest
     248 mk
     252 vtt
     258 jpg
-    260 ftl
+    262 ftl
     269 mp4
     273 ttf
     276 gn
-    282 mn
+    281 mn
     284 avif
     297 ico
     320 woff2
     324 asm
     353 mm
     365 map
-    376 patch
-    393 in
+    377 patch
+    394 in
     406 certspec
     411 ipdl
     413 pem
     429 sha1
-    455 mjs
     457 list
+    473 mjs
     597 gyp
     599 hpp
     612 sjs
     646 sh
     671 vert
-    802 webidl
+    805 webidl
     811 yml
     816 frag
     821 toml
+    952 jsm
     965 htm
-    968 jsm
     992 yaml
-   1069 java
-   1140 idl
-   1207 xml
+   1070 java
+   1143 idl
+   1217 xml
    1438 glif
-   1452 css
+   1450 css
    1544 md
    1703 headers
-   1992 rst
+   1994 rst
    2116 json
    2293 build
    2803 a
-   3656 xhtml
+   3657 xhtml
    4276 c
    4839 svg
    5194 png
-   5261 cc
+   5263 cc
    5569 txt
-   7700 py
-   8825 cpp
-   9045 rs
+   7707 py
+   8829 cpp
+   9049 rs
   14574 xht
-  17855 ini
-  18202 h
-  84544 js
-  85207 html
+  18208 h
+  19875 ini
+  84551 js
+  85222 html
