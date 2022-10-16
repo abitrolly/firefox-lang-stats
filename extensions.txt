@@ -593,8 +593,8 @@
     125 gni
     142 cfg
     143 webm
+    153 properties
     154 jsx
-    154 properties
     155 fax
     156 ts
     157 req
@@ -607,7 +607,7 @@
     173 stderr
     198 ucm
     203 gif
-    206 bmp
+    207 bmp
     211 snap
     216 S
     218 hh
@@ -616,7 +616,7 @@
     248 mk
     252 vtt
     258 jpg
-    262 ftl
+    263 ftl
     269 mp4
     273 ttf
     276 gn
@@ -626,49 +626,49 @@
     320 woff2
     324 asm
     353 mm
-    365 map
-    377 patch
+    366 map
+    378 patch
     394 in
     406 certspec
     411 ipdl
     413 pem
     429 sha1
     457 list
-    473 mjs
+    506 mjs
     597 gyp
     599 hpp
     612 sjs
-    646 sh
+    645 sh
     671 vert
     805 webidl
     811 yml
     816 frag
-    821 toml
-    952 jsm
+    820 toml
+    919 jsm
     965 htm
     992 yaml
    1070 java
-   1143 idl
-   1217 xml
+   1141 idl
+   1220 xml
    1438 glif
    1450 css
-   1544 md
-   1703 headers
-   1994 rst
-   2116 json
+   1545 md
+   1708 headers
+   1995 rst
+   2119 json
    2293 build
    2803 a
    3657 xhtml
    4276 c
-   4839 svg
-   5194 png
+   4848 svg
+   5195 png
    5263 cc
-   5569 txt
-   7707 py
-   8829 cpp
-   9049 rs
+   5570 txt
+   7717 py
+   8833 cpp
+   9052 rs
   14574 xht
-  18208 h
-  19875 ini
-  84551 js
-  85222 html
+  18212 h
+  21211 ini
+  84573 js
+  85335 html
