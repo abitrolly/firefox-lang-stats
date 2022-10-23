@@ -388,6 +388,7 @@
       4 jsonld
       4 libvpx
       4 lnk
+      4 log
       4 lua
       4 metallib
       4 nrm
@@ -415,7 +416,6 @@
       5 jxl
       5 ksh
       5 libaom
-      5 log
       5 mpd
       5 nsh
       5 oga
@@ -515,8 +515,8 @@
      20 sln
      21 gradle
      21 options
-     21 pdf
      22 diff
+     22 pdf
      22 tmpl
      22 xsl
      23 typed
@@ -591,7 +591,7 @@
     113 m
     120 aff
     125 gni
-    142 cfg
+    143 cfg
     143 webm
     153 properties
     154 jsx
@@ -610,65 +610,65 @@
     207 bmp
     211 snap
     216 S
-    218 hh
+    219 hh
     233 test
     247 manifest
     248 mk
     252 vtt
     258 jpg
-    263 ftl
+    264 ftl
     269 mp4
     273 ttf
     276 gn
     281 mn
-    284 avif
+    286 avif
     297 ico
     320 woff2
     324 asm
     353 mm
     366 map
-    378 patch
+    377 patch
     394 in
     406 certspec
     411 ipdl
     413 pem
     429 sha1
-    457 list
-    506 mjs
+    455 list
+    557 mjs
     597 gyp
     599 hpp
-    612 sjs
-    645 sh
+    613 sjs
+    642 sh
     671 vert
     805 webidl
-    811 yml
+    813 yml
     816 frag
     820 toml
-    919 jsm
+    878 jsm
     965 htm
-    992 yaml
+    993 yaml
    1070 java
-   1141 idl
-   1220 xml
+   1142 idl
+   1223 xml
    1438 glif
-   1450 css
-   1545 md
-   1708 headers
+   1447 css
+   1549 md
+   1715 headers
    1995 rst
-   2119 json
-   2293 build
+   2118 json
+   2294 build
    2803 a
-   3657 xhtml
-   4276 c
-   4848 svg
-   5195 png
+   3656 xhtml
+   4271 c
+   4854 svg
+   5199 png
    5263 cc
    5570 txt
-   7717 py
-   8833 cpp
-   9052 rs
-  14574 xht
-  18212 h
-  21211 ini
-  84573 js
-  85335 html
+   7726 py
+   8834 cpp
+   9054 rs
+  14576 xht
+  18210 h
+  22383 ini
+  84617 js
+  85506 html
