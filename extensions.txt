@@ -213,6 +213,7 @@
       1 unix
       1 unknown
       1 utf16be
+      1 v8
       1 visualizer
       1 vpython
       1 vpython3
@@ -460,11 +461,11 @@
       8 morph
       8 settings
       8 symbols
-      8 udl
       9 coveragerc
       9 icu
       9 pump
       9 strings
+      9 udl
       9 xcconfig
      10 TXT
      10 dox
@@ -517,8 +518,8 @@
      21 options
      22 diff
      22 pdf
-     22 tmpl
      22 xsl
+     23 tmpl
      23 typed
      24 der
      24 filters
@@ -571,8 +572,8 @@
      62 m4
      66 wav
      67 rtcp
-     68 ipdlh
      69 gitignore
+     69 ipdlh
      71 plist
      72 dat
      72 xpi
@@ -596,14 +597,14 @@
     153 properties
     154 jsx
     155 fax
-    156 ts
     157 req
-    160 conf
     160 m4s
+    161 conf
     163 woff
     165 dic
     165 zip
     168 bcmap
+    169 ts
     173 stderr
     198 ucm
     203 gif
@@ -616,7 +617,7 @@
     248 mk
     252 vtt
     258 jpg
-    264 ftl
+    265 ftl
     269 mp4
     273 ttf
     276 gn
@@ -627,48 +628,48 @@
     324 asm
     353 mm
     366 map
-    377 patch
+    378 patch
     394 in
     406 certspec
     411 ipdl
     413 pem
     429 sha1
     455 list
-    557 mjs
+    579 mjs
     597 gyp
     599 hpp
-    613 sjs
+    615 sjs
     642 sh
     671 vert
     805 webidl
     813 yml
     816 frag
-    820 toml
-    878 jsm
+    825 toml
+    862 jsm
     965 htm
-    993 yaml
+    994 yaml
    1070 java
-   1142 idl
+   1143 idl
    1223 xml
    1438 glif
    1447 css
-   1549 md
-   1715 headers
-   1995 rst
-   2118 json
-   2294 build
+   1553 md
+   1722 headers
+   1998 rst
+   2124 json
+   2297 build
    2803 a
    3656 xhtml
    4271 c
-   4854 svg
-   5199 png
+   4856 svg
+   5203 png
    5263 cc
    5570 txt
-   7726 py
-   8834 cpp
-   9054 rs
+   7729 py
+   8828 cpp
+   9074 rs
   14576 xht
-  18210 h
-  22383 ini
-  84617 js
-  85506 html
+  18203 h
+  22927 ini
+  84657 js
+  85635 html
