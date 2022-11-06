@@ -65,7 +65,6 @@
       1 cr3
       1 crlite
       1 crx
-      1 csh
       1 csproj
       1 d
       1 data
@@ -93,7 +92,6 @@
       1 extra
       1 fea
       1 feature
-      1 fish
       1 fontified
       1 fragment
       1 freetype
@@ -234,7 +232,6 @@
       1 xmb
       1 xpm
       1 xsd
-      1 xsh
       1 xslt
       1 y4m
       1 yes
@@ -394,12 +391,14 @@
       4 metallib
       4 nrm
       4 pc
+      4 ps1
       4 pxd
       4 saw
       4 spv
       4 stash
       4 stdout
       4 sym
+      4 whl
       4 yamllint
       4 yapf
       5 APACHE
@@ -420,7 +419,6 @@
       5 mpd
       5 nsh
       5 oga
-      5 ps1
       5 sfx
       5 sub
       5 targ
@@ -460,11 +458,11 @@
       8 m3u8
       8 morph
       8 settings
-      8 symbols
       9 coveragerc
       9 icu
       9 pump
       9 strings
+      9 symbols
       9 udl
       9 xcconfig
      10 TXT
@@ -477,7 +475,6 @@
      11 htaccess
      11 metal
      11 p12
-     11 whl
      12 hbs
      12 jinja
      12 mak
@@ -505,6 +502,7 @@
      17 resource
      18 aidl
      18 chromium
+     18 typed
      18 wbn
      19 jinja2
      19 stun
@@ -520,7 +518,6 @@
      22 pdf
      22 xsl
      23 tmpl
-     23 typed
      24 der
      24 filters
      25 cur
@@ -532,29 +529,29 @@
      27 dll
      27 mar
      28 asis
+     28 bat
      29 dtd
      29 opus
      30 bazel
      30 fp
-     31 bat
-     31 keyspec
      32 sug
+     34 keyspec
      35 crl
      35 gypi
+     36 exe
      37 cvsignore
      37 swift
      37 sxg
      37 template
      37 wasm
      38 proto
-     40 exe
      40 pyi
      41 1
      42 bin
      42 vcxproj
      45 mp3
-     46 key
      47 otf
+     49 key
      50 glsl
      50 sqlite
      53 cert
@@ -593,7 +590,7 @@
     120 aff
     125 gni
     143 cfg
-    143 webm
+    144 webm
     153 properties
     154 jsx
     155 fax
@@ -617,7 +614,7 @@
     248 mk
     252 vtt
     258 jpg
-    265 ftl
+    266 ftl
     269 mp4
     273 ttf
     276 gn
@@ -627,49 +624,49 @@
     320 woff2
     324 asm
     353 mm
-    366 map
-    378 patch
+    367 map
+    385 patch
     394 in
-    406 certspec
     411 ipdl
-    413 pem
+    412 certspec
+    419 pem
     429 sha1
     455 list
-    579 mjs
     597 gyp
     599 hpp
-    615 sjs
-    642 sh
+    611 mjs
+    617 sjs
+    641 sh
     671 vert
     805 webidl
     813 yml
     816 frag
-    825 toml
-    862 jsm
+    826 toml
+    841 jsm
     965 htm
-    994 yaml
+    996 yaml
    1070 java
    1143 idl
    1223 xml
    1438 glif
-   1447 css
-   1553 md
+   1449 css
+   1554 md
    1722 headers
-   1998 rst
-   2124 json
-   2297 build
+   1996 rst
+   2128 json
+   2302 build
    2803 a
    3656 xhtml
-   4271 c
-   4856 svg
-   5203 png
+   4272 c
+   4857 svg
+   5205 png
    5263 cc
-   5570 txt
-   7729 py
-   8828 cpp
-   9074 rs
+   5547 txt
+   7551 py
+   8836 cpp
+   9080 rs
   14576 xht
-  18203 h
-  22927 ini
-  84657 js
-  85635 html
+  18211 h
+  22919 ini
+  84695 js
+  85668 html
