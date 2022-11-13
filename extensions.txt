@@ -247,7 +247,6 @@
       2 MOZILLA
       2 Mozilla
       2 OPT_IA64
-      2 aac
       2 api
       2 apng
       2 appcache
@@ -333,6 +332,7 @@
       2 xpt
       2 y
       3 MIT
+      3 aac
       3 arcconfig
       3 awk
       3 bz2
@@ -463,13 +463,13 @@
       9 pump
       9 strings
       9 symbols
-      9 udl
       9 xcconfig
      10 TXT
      10 dox
      10 exp
      10 hgignore
      10 mdb
+     10 udl
      11 gz
      11 hash
      11 htaccess
@@ -502,13 +502,13 @@
      17 resource
      18 aidl
      18 chromium
-     18 typed
      18 wbn
-     19 jinja2
      19 stun
      19 tbs
+     19 typed
      19 vcproj
      20 cs
+     20 jinja2
      20 mdns
      20 rb
      20 sln
@@ -539,19 +539,19 @@
      35 crl
      35 gypi
      36 exe
+     36 wasm
      37 cvsignore
      37 swift
      37 sxg
      37 template
-     37 wasm
      38 proto
-     40 pyi
      41 1
      42 bin
      42 vcxproj
      45 mp3
-     47 otf
+     48 pyi
      49 key
+     49 otf
      50 glsl
      50 sqlite
      53 cert
@@ -565,8 +565,8 @@
      57 pydeps
      59 mozbuild
      60 def
-     61 ogv
      62 m4
+     62 ogv
      66 wav
      67 rtcp
      69 gitignore
@@ -590,12 +590,11 @@
     120 aff
     125 gni
     143 cfg
-    144 webm
+    145 webm
     153 properties
-    154 jsx
     155 fax
+    156 jsx
     157 req
-    160 m4s
     161 conf
     163 woff
     165 dic
@@ -603,6 +602,7 @@
     168 bcmap
     169 ts
     173 stderr
+    184 m4s
     198 ucm
     203 gif
     207 bmp
@@ -610,63 +610,63 @@
     216 S
     219 hh
     233 test
-    247 manifest
     248 mk
+    251 manifest
     252 vtt
-    258 jpg
-    266 ftl
-    269 mp4
+    259 jpg
+    268 ftl
     273 ttf
     276 gn
     281 mn
+    281 mp4
     286 avif
     297 ico
-    320 woff2
+    322 woff2
     324 asm
-    353 mm
-    367 map
+    352 mm
+    368 map
     385 patch
     394 in
-    411 ipdl
     412 certspec
+    412 ipdl
     419 pem
     429 sha1
     455 list
     597 gyp
     599 hpp
-    611 mjs
     617 sjs
-    641 sh
+    642 sh
+    650 mjs
     671 vert
     805 webidl
-    813 yml
+    815 yml
     816 frag
-    826 toml
-    841 jsm
+    825 jsm
+    825 toml
     965 htm
     996 yaml
    1070 java
-   1143 idl
+   1149 idl
    1223 xml
    1438 glif
-   1449 css
-   1554 md
-   1722 headers
-   1996 rst
-   2128 json
-   2302 build
+   1454 css
+   1558 md
+   1728 headers
+   2001 rst
+   2125 json
+   2305 build
    2803 a
-   3656 xhtml
-   4272 c
-   4857 svg
-   5205 png
+   3654 xhtml
+   4273 c
+   4860 svg
+   5206 png
    5263 cc
-   5547 txt
-   7551 py
-   8836 cpp
-   9080 rs
-  14576 xht
-  18211 h
-  22919 ini
-  84695 js
-  85668 html
+   5551 txt
+   7587 py
+   8839 cpp
+   9101 rs
+  14572 xht
+  18216 h
+  23898 ini
+  84742 js
+  85872 html
