@@ -50,6 +50,7 @@
       1 assem
       1 auto
       1 avi
+      1 bash
       1 bashrc
       1 bf
       1 blah
@@ -254,7 +255,6 @@
       2 atom
       2 automation
       2 bar
-      2 bash
       2 bowerrc
       2 breakpad
       2 bzl
@@ -512,9 +512,9 @@
      20 mdns
      20 rb
      20 sln
-     21 gradle
      21 options
      22 diff
+     22 gradle
      22 pdf
      22 xsl
      23 tmpl
@@ -527,13 +527,13 @@
      26 gitkeep
      26 webp
      27 dll
+     27 dtd
      27 mar
      28 asis
      28 bat
-     29 dtd
      29 opus
-     30 bazel
      30 fp
+     31 bazel
      32 sug
      34 keyspec
      35 crl
@@ -573,19 +573,19 @@
      69 ipdlh
      71 plist
      72 dat
-     72 xpi
      73 rc
+     73 xpi
      77 scss
      78 crt
      78 s
      84 wrong
-     86 kt
+     87 kt
      88 sam
      96 good
      97 cmake
     105 lock
-    109 inc
     109 sdp
+    111 inc
     113 m
     120 aff
     125 gni
@@ -595,7 +595,7 @@
     155 fax
     156 jsx
     157 req
-    161 conf
+    160 conf
     163 woff
     165 dic
     165 zip
@@ -607,7 +607,7 @@
     203 gif
     207 bmp
     211 snap
-    216 S
+    218 S
     219 hh
     233 test
     248 mk
@@ -616,7 +616,7 @@
     259 jpg
     268 ftl
     273 ttf
-    276 gn
+    277 gn
     281 mn
     281 mp4
     286 avif
@@ -625,7 +625,7 @@
     324 asm
     352 mm
     368 map
-    385 patch
+    380 patch
     394 in
     412 certspec
     412 ipdl
@@ -634,39 +634,39 @@
     455 list
     597 gyp
     599 hpp
-    617 sjs
-    642 sh
-    650 mjs
+    619 sjs
+    647 sh
     671 vert
+    691 mjs
+    788 jsm
     805 webidl
     815 yml
     816 frag
-    825 jsm
     825 toml
     965 htm
-    996 yaml
+    997 yaml
    1070 java
    1149 idl
    1223 xml
    1438 glif
-   1454 css
-   1558 md
+   1453 css
+   1560 md
    1728 headers
-   2001 rst
+   2002 rst
    2125 json
-   2305 build
+   2310 build
    2803 a
-   3654 xhtml
+   3648 xhtml
    4273 c
    4860 svg
    5206 png
-   5263 cc
-   5551 txt
-   7587 py
-   8839 cpp
+   5283 cc
+   5552 txt
+   7592 py
+   8841 cpp
    9101 rs
   14572 xht
-  18216 h
-  23898 ini
-  84742 js
-  85872 html
+  18234 h
+  23989 ini
+  84775 js
+  86061 html
