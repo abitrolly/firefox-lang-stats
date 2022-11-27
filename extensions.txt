@@ -23,6 +23,7 @@
       1 LICENSE
       1 MAC
       1 ME
+      1 MPL
       1 Makefile
       1 PL
       1 PNG
@@ -215,7 +216,6 @@
       1 v8
       1 visualizer
       1 vpython
-      1 vpython3
       1 vs
       1 vsprops
       1 webapp
@@ -225,7 +225,6 @@
       1 wgsl
       1 word
       1 wxs
-      1 xbl
       1 xcf
       1 xclangspec
       1 xcscheme
@@ -326,6 +325,7 @@
       2 tst
       2 tt
       2 version
+      2 vpython3
       2 watchmanconfig
       2 win32
       2 with_android_deps
@@ -444,22 +444,21 @@
       7 pbxproj
       7 pcm
       7 pod
-      7 props
       7 pyx
       7 rl
       7 rsa
       7 rsp
       7 storyboard
       8 3
+      8 coveragerc
       8 desktop
       8 gitattributes
       8 grd
       8 jar
       8 m3u8
       8 morph
+      8 props
       8 settings
-      9 coveragerc
-      9 icu
       9 pump
       9 strings
       9 symbols
@@ -470,9 +469,9 @@
      10 hgignore
      10 mdb
      10 udl
-     11 gz
      11 hash
      11 htaccess
+     11 icu
      11 metal
      11 p12
      12 hbs
@@ -483,6 +482,7 @@
      13 bas
      13 editorconfig
      13 ent
+     13 gz
      13 rtp
      13 ttx
      14 nib
@@ -513,10 +513,10 @@
      20 rb
      20 sln
      21 options
-     22 diff
      22 gradle
      22 pdf
      22 xsl
+     23 diff
      23 tmpl
      24 der
      24 filters
@@ -543,8 +543,8 @@
      37 cvsignore
      37 swift
      37 sxg
-     37 template
      38 proto
+     39 template
      41 1
      42 bin
      42 vcxproj
@@ -566,10 +566,10 @@
      59 mozbuild
      60 def
      62 m4
-     62 ogv
-     66 wav
+     63 ogv
      67 rtcp
-     69 gitignore
+     67 wav
+     68 gitignore
      69 ipdlh
      71 plist
      72 dat
@@ -588,14 +588,14 @@
     111 inc
     113 m
     120 aff
-    125 gni
-    143 cfg
+    126 gni
+    142 cfg
     145 webm
-    153 properties
+    152 properties
     155 fax
-    156 jsx
     157 req
-    160 conf
+    158 jsx
+    161 conf
     163 woff
     165 dic
     165 zip
@@ -614,11 +614,11 @@
     251 manifest
     252 vtt
     259 jpg
-    268 ftl
+    270 ftl
     273 ttf
     277 gn
-    281 mn
     281 mp4
+    282 mn
     286 avif
     297 ico
     322 woff2
@@ -626,47 +626,47 @@
     352 mm
     368 map
     380 patch
-    394 in
+    393 in
     412 certspec
     412 ipdl
     419 pem
     429 sha1
-    455 list
+    456 list
     597 gyp
     599 hpp
     619 sjs
-    647 sh
+    648 sh
     671 vert
-    691 mjs
-    788 jsm
-    805 webidl
-    815 yml
+    693 mjs
+    787 jsm
+    809 webidl
+    814 yml
     816 frag
     825 toml
     965 htm
-    997 yaml
+    999 yaml
    1070 java
-   1149 idl
-   1223 xml
+   1151 idl
+   1217 xml
    1438 glif
-   1453 css
+   1454 css
    1560 md
-   1728 headers
-   2002 rst
-   2125 json
-   2310 build
+   1730 headers
+   2001 rst
+   2126 json
+   2313 build
    2803 a
-   3648 xhtml
+   3643 xhtml
    4273 c
    4860 svg
-   5206 png
+   5207 png
    5283 cc
-   5552 txt
-   7592 py
-   8841 cpp
+   5597 txt
+   7589 py
+   8850 cpp
    9101 rs
   14572 xht
-  18234 h
-  23989 ini
-  84775 js
-  86061 html
+  18212 h
+  24023 ini
+  84804 js
+  86152 html
