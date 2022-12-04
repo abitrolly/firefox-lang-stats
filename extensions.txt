@@ -341,7 +341,6 @@
       3 cfs_period_us
       3 cfs_quota_us
       3 cjs
-      3 cry
       3 csv
       3 gcc
       3 gdl
@@ -393,7 +392,6 @@
       4 pc
       4 ps1
       4 pxd
-      4 saw
       4 spv
       4 stash
       4 stdout
@@ -454,11 +452,11 @@
       8 desktop
       8 gitattributes
       8 grd
-      8 jar
       8 m3u8
       8 morph
       8 props
       8 settings
+      9 jar
       9 pump
       9 strings
       9 symbols
@@ -583,7 +581,7 @@
      88 sam
      96 good
      97 cmake
-    105 lock
+    104 lock
     109 sdp
     111 inc
     113 m
@@ -597,8 +595,8 @@
     158 jsx
     161 conf
     163 woff
+    164 zip
     165 dic
-    165 zip
     168 bcmap
     169 ts
     173 stderr
@@ -615,58 +613,58 @@
     252 vtt
     259 jpg
     270 ftl
-    273 ttf
+    274 ttf
     277 gn
     281 mp4
-    282 mn
+    283 mn
     286 avif
     297 ico
     322 woff2
-    324 asm
+    325 asm
     352 mm
     368 map
-    380 patch
+    377 patch
     393 in
     412 certspec
-    412 ipdl
+    413 ipdl
     419 pem
     429 sha1
     456 list
     597 gyp
     599 hpp
-    619 sjs
-    648 sh
+    620 sjs
+    646 sh
     671 vert
-    693 mjs
-    787 jsm
+    704 mjs
+    779 jsm
     809 webidl
-    814 yml
     816 frag
-    825 toml
+    816 yml
+    827 toml
     965 htm
-    999 yaml
+   1001 yaml
    1070 java
-   1151 idl
+   1152 idl
    1217 xml
    1438 glif
-   1454 css
-   1560 md
+   1456 css
+   1561 md
    1730 headers
-   2001 rst
-   2126 json
-   2313 build
+   2005 rst
+   2130 json
+   2314 build
    2803 a
    3643 xhtml
-   4273 c
-   4860 svg
-   5207 png
+   4272 c
+   4863 svg
+   5214 png
    5283 cc
-   5597 txt
-   7589 py
-   8850 cpp
-   9101 rs
+   5598 txt
+   7570 py
+   8858 cpp
+   9109 rs
   14572 xht
-  18212 h
-  24023 ini
-  84804 js
-  86152 html
+  18216 h
+  24017 ini
+  84884 js
+  86192 html
