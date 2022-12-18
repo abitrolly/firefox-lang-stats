@@ -150,6 +150,7 @@
       1 mipsel
       1 mit
       1 mjpg
+      1 mkd
       1 mkv
       1 mmp
       1 modulemap
@@ -286,7 +287,6 @@
       2 ignore
       2 jsonlz4
       2 lds
-      2 mkd
       2 natvis
       2 new
       2 nix
@@ -319,7 +319,6 @@
       2 texi
       2 tiff
       2 tokens
-      2 tpl
       2 tst
       2 tt
       2 version
@@ -361,6 +360,7 @@
       3 supp
       3 swf
       3 tab
+      3 tpl
       3 url
       3 uxf
       3 vs2017
@@ -435,7 +435,6 @@
       7 ac
       7 beta
       7 blb
-      7 flake8
       7 har
       7 msg
       7 pbxproj
@@ -447,14 +446,15 @@
       7 rsp
       7 storyboard
       8 3
-      8 coveragerc
       8 desktop
+      8 flake8
       8 gitattributes
       8 grd
       8 m3u8
       8 morph
       8 props
       8 settings
+      9 coveragerc
       9 jar
       9 pump
       9 strings
@@ -505,6 +505,7 @@
      19 typed
      19 vcproj
      20 cs
+     20 diff
      20 jinja2
      20 mdns
      20 rb
@@ -513,17 +514,16 @@
      22 gradle
      22 pdf
      22 xsl
-     23 diff
      23 tmpl
      24 der
      24 filters
      25 cur
+     25 dll
      26 db
      26 es5
      26 es6
      26 gitkeep
      26 webp
-     27 dll
      27 dtd
      27 mar
      28 asis
@@ -566,8 +566,8 @@
      63 ogv
      67 rtcp
      67 wav
-     68 gitignore
-     69 ipdlh
+     69 gitignore
+     70 ipdlh
      71 plist
      72 dat
      73 rc
@@ -585,8 +585,8 @@
     109 sdp
     113 m
     120 aff
-    126 gni
-    142 cfg
+    128 gni
+    144 cfg
     145 webm
     152 properties
     155 fax
@@ -598,72 +598,72 @@
     165 dic
     168 bcmap
     169 ts
-    173 stderr
+    179 stderr
     184 m4s
     198 ucm
     203 gif
     207 bmp
     212 snap
     218 S
-    219 hh
+    223 hh
     233 test
     248 mk
     251 manifest
     252 vtt
     259 jpg
-    274 ftl
     274 ttf
+    277 ftl
     277 gn
     281 mp4
     283 mn
     286 avif
+    290 patch
     297 ico
     322 woff2
     325 asm
-    352 mm
+    354 mm
     368 map
-    381 patch
-    397 in
+    400 in
     412 certspec
     412 ipdl
     419 pem
-    429 sha1
+    439 sha1
     456 list
     597 gyp
     600 hpp
     621 sjs
-    646 sh
+    645 sh
     671 vert
-    732 mjs
-    760 jsm
+    740 mjs
+    759 jsm
     809 webidl
     816 frag
-    816 yml
-    835 toml
+    818 yml
+    830 toml
     965 htm
-   1001 yaml
+   1003 yaml
    1070 java
-   1154 idl
+   1150 idl
    1217 xml
    1438 glif
-   1457 css
-   1573 md
+   1458 css
+   1578 md
    1728 headers
-   2009 rst
+   2012 rst
    2135 json
-   2315 build
+   2318 build
    2803 a
-   3643 xhtml
+   3642 xhtml
    4278 c
-   4866 svg
+   4868 svg
    5207 png
-   5283 cc
-   5600 txt
-   7582 py
-   8859 cpp
-   9204 rs
+   5279 cc
+   5603 txt
+   7614 py
+   8867 cpp
+   9326 rs
   14572 xht
-  18241 h
-  24530 ini
-  84926 js
-  86421 html
+  18238 h
+  24822 ini
+  84954 js
+  86537 html
