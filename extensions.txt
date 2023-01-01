@@ -287,7 +287,6 @@
       2 ignore
       2 jsonlz4
       2 lds
-      2 natvis
       2 new
       2 nix
       2 nlf
@@ -345,9 +344,12 @@
       3 gencc
       3 info
       3 ivf
+      3 jpeg
       3 l
       3 lst
+      3 max
       3 mov
+      3 natvis
       3 old
       3 pfx
       3 prettierignore
@@ -372,7 +374,6 @@
       4 3gp
       4 babelrc
       4 ber
-      4 cookedshaderpackage
       4 enrollment
       4 esgrammar
       4 golden
@@ -390,7 +391,6 @@
       4 pc
       4 ps1
       4 pxd
-      4 spv
       4 stash
       4 stdout
       4 sym
@@ -424,7 +424,6 @@
       6 com
       6 coverage
       6 eot
-      6 jpeg
       6 kts
       6 mailmap
       6 mf
@@ -436,6 +435,7 @@
       7 beta
       7 blb
       7 har
+      7 metal
       7 msg
       7 pbxproj
       7 pcm
@@ -469,7 +469,6 @@
      11 hash
      11 htaccess
      11 icu
-     11 metal
      11 p12
      12 hbs
      12 jinja
@@ -546,10 +545,10 @@
      42 bin
      42 vcxproj
      46 mp3
+     48 glsl
      49 key
      49 otf
      49 pyi
-     50 glsl
      51 sqlite
      53 cert
      53 configure
@@ -566,7 +565,7 @@
      63 ogv
      67 rtcp
      67 wav
-     69 gitignore
+     68 gitignore
      70 ipdlh
      71 plist
      72 dat
@@ -580,11 +579,11 @@
      88 sam
      96 good
      97 cmake
-    106 lock
+    103 lock
     108 inc
     109 sdp
     113 m
-    120 aff
+    121 aff
     128 gni
     145 webm
     152 properties
@@ -594,11 +593,11 @@
     157 req
     161 conf
     163 woff
-    164 zip
-    165 dic
+    166 dic
+    166 zip
     168 bcmap
     169 ts
-    180 stderr
+    181 stderr
     184 m4s
     198 ucm
     203 gif
@@ -611,13 +610,13 @@
     251 manifest
     252 vtt
     259 jpg
-    274 ttf
+    273 ttf
     277 ftl
     277 gn
     281 mp4
     283 mn
     286 avif
-    291 patch
+    294 patch
     297 ico
     322 woff2
     325 asm
@@ -632,14 +631,14 @@
     597 gyp
     600 hpp
     622 sjs
-    646 sh
-    671 vert
+    639 sh
+    669 vert
     729 jsm
     771 mjs
     810 webidl
-    816 frag
-    817 yml
-    829 toml
+    814 frag
+    816 yml
+    830 toml
     965 htm
    1003 yaml
    1070 java
@@ -649,21 +648,21 @@
    1458 css
    1575 md
    1735 headers
-   2011 rst
+   2013 rst
    2131 json
-   2323 build
+   2324 build
    2803 a
    3638 xhtml
    4278 c
-   4868 svg
-   5211 png
+   4870 svg
+   5207 png
    5279 cc
-   5608 txt
+   5613 txt
    7632 py
-   8870 cpp
-   9255 rs
-  14572 xht
-  18244 h
-  25029 ini
-  84977 js
-  86725 html
+   8873 cpp
+   9299 rs
+  14573 xht
+  18248 h
+  25024 ini
+  84978 js
+  86737 html
