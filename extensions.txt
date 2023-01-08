@@ -465,11 +465,11 @@
      10 exp
      10 hgignore
      10 mdb
-     10 udl
      11 hash
      11 htaccess
      11 icu
      11 p12
+     11 udl
      12 hbs
      12 jinja
      12 mak
@@ -579,7 +579,7 @@
      88 sam
      96 good
      97 cmake
-    103 lock
+    104 lock
     108 inc
     109 sdp
     113 m
@@ -589,7 +589,7 @@
     152 properties
     153 cfg
     155 fax
-    156 jsx
+    157 jsx
     157 req
     161 conf
     163 woff
@@ -634,35 +634,35 @@
     639 sh
     669 vert
     729 jsm
-    771 mjs
+    779 mjs
     810 webidl
     814 frag
     816 yml
-    830 toml
-    965 htm
+    832 toml
+    964 htm
    1003 yaml
    1070 java
-   1152 idl
+   1153 idl
    1217 xml
    1438 glif
-   1458 css
+   1459 css
    1575 md
-   1735 headers
-   2013 rst
+   1738 headers
+   2015 rst
    2131 json
    2324 build
    2803 a
    3638 xhtml
    4278 c
-   4870 svg
-   5207 png
+   4871 svg
+   5208 png
    5279 cc
-   5613 txt
-   7632 py
-   8873 cpp
-   9299 rs
+   5612 txt
+   7646 py
+   8895 cpp
+   9307 rs
   14573 xht
   18248 h
-  25024 ini
-  84978 js
-  86737 html
+  25245 ini
+  84994 js
+  86889 html
