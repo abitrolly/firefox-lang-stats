@@ -321,7 +321,6 @@
       2 tpl
       2 tst
       2 tt
-      2 version
       2 vpython3
       2 watchmanconfig
       2 win32
@@ -365,6 +364,7 @@
       3 tab
       3 url
       3 uxf
+      3 version
       3 vs2017
       3 vue
       3 xib
@@ -549,7 +549,7 @@
      49 key
      49 otf
      49 pyi
-     51 sqlite
+     49 sqlite
      53 cert
      53 configure
      53 err
@@ -578,13 +578,13 @@
      87 kt
      88 sam
      96 good
-     97 cmake
+     99 cmake
     104 lock
     108 inc
     109 sdp
     113 m
     121 aff
-    128 gni
+    129 gni
     145 webm
     152 properties
     153 cfg
@@ -611,12 +611,12 @@
     252 vtt
     259 jpg
     273 ttf
-    277 ftl
     277 gn
+    278 ftl
     281 mp4
     283 mn
     286 avif
-    294 patch
+    295 patch
     297 ico
     322 woff2
     325 asm
@@ -624,45 +624,45 @@
     368 map
     400 in
     412 certspec
-    416 ipdl
+    418 ipdl
     419 pem
     439 sha1
     456 list
     597 gyp
     600 hpp
-    622 sjs
-    639 sh
+    625 sjs
+    641 sh
     669 vert
     729 jsm
-    779 mjs
+    772 mjs
     810 webidl
     814 frag
-    816 yml
-    832 toml
+    820 yml
+    840 toml
     964 htm
    1003 yaml
    1070 java
-   1153 idl
+   1154 idl
    1217 xml
    1438 glif
-   1459 css
-   1575 md
-   1738 headers
+   1460 css
+   1587 md
+   1742 headers
    2015 rst
-   2131 json
-   2324 build
+   2149 json
+   2325 build
    2803 a
-   3638 xhtml
-   4278 c
+   3635 xhtml
+   4276 c
    4871 svg
    5208 png
-   5279 cc
-   5612 txt
-   7646 py
-   8895 cpp
-   9307 rs
-  14573 xht
-  18248 h
-  25245 ini
-  84994 js
-  86889 html
+   5299 cc
+   5614 txt
+   7648 py
+   8900 cpp
+   9310 rs
+  14571 xht
+  18272 h
+  25260 ini
+  86289 js
+  86922 html
