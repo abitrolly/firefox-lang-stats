@@ -160,11 +160,13 @@
       1 mp2
       1 mycert2
       1 myspell
+      1 nojekyll
       1 noserc
       1 npmignore
       1 nss
       1 o
       1 order
+      1 orig
       1 os4
       1 out
       1 pas
@@ -313,7 +315,6 @@
       2 status
       2 syms
       2 tag
-      2 tar
       2 tbl
       2 texi
       2 tiff
@@ -394,6 +395,7 @@
       4 stash
       4 stdout
       4 sym
+      4 tar
       4 whl
       4 yamllint
       4 yapf
@@ -547,9 +549,9 @@
      46 mp3
      48 glsl
      49 key
-     49 otf
      49 pyi
      49 sqlite
+     50 otf
      53 cert
      53 configure
      53 err
@@ -579,15 +581,15 @@
      88 sam
      96 good
      99 cmake
+    103 inc
     104 lock
-    108 inc
     109 sdp
     113 m
     121 aff
-    129 gni
+    130 gni
     145 webm
+    152 cfg
     152 properties
-    153 cfg
     155 fax
     157 jsx
     157 req
@@ -596,9 +598,9 @@
     166 dic
     166 zip
     168 bcmap
-    169 ts
     181 stderr
     184 m4s
+    186 ts
     198 ucm
     203 gif
     207 bmp
@@ -611,8 +613,8 @@
     252 vtt
     259 jpg
     273 ttf
-    277 gn
     278 ftl
+    278 gn
     281 mp4
     283 mn
     286 avif
@@ -620,49 +622,49 @@
     297 ico
     322 woff2
     325 asm
-    354 mm
+    357 mm
     368 map
     400 in
     412 certspec
-    418 ipdl
+    419 ipdl
     419 pem
     439 sha1
-    456 list
+    457 list
     597 gyp
-    600 hpp
     625 sjs
-    641 sh
+    643 sh
+    664 hpp
     669 vert
-    729 jsm
-    772 mjs
+    719 jsm
+    787 mjs
     810 webidl
     814 frag
-    820 yml
-    840 toml
+    822 yml
+    838 toml
     964 htm
-   1003 yaml
+   1009 yaml
    1070 java
-   1154 idl
+   1155 idl
    1217 xml
    1438 glif
-   1460 css
-   1587 md
+   1461 css
+   1593 md
    1742 headers
-   2015 rst
-   2149 json
-   2325 build
+   2017 rst
+   2213 json
+   2332 build
    2803 a
-   3635 xhtml
-   4276 c
-   4871 svg
-   5208 png
-   5299 cc
+   3638 xhtml
+   4283 c
+   4900 svg
+   5216 png
+   5296 cc
    5614 txt
-   7648 py
-   8900 cpp
-   9310 rs
-  14571 xht
-  18272 h
-  25260 ini
-  86289 js
-  86922 html
+   7651 py
+   8936 cpp
+   9307 rs
+  14573 xht
+  18314 h
+  25227 ini
+  86322 js
+  87104 html
