@@ -22,6 +22,7 @@
       1 LIB
       1 LICENSE
       1 MAC
+      1 MD
       1 ME
       1 MPL
       1 Makefile
@@ -139,7 +140,6 @@
       1 loader
       1 locale
       1 lz
-      1 m4a
       1 make
       1 mako
       1 man
@@ -175,7 +175,6 @@
       1 pck
       1 pkg
       1 pm
-      1 prettierrc
       1 pri
       1 pth
       1 pxi
@@ -259,7 +258,6 @@
       2 bowerrc
       2 breakpad
       2 bzl
-      2 cache
       2 cgi
       2 chain
       2 class
@@ -334,10 +332,10 @@
       3 awk
       3 bz2
       3 ca
+      3 cache
       3 cbproj
       3 cfs_period_us
       3 cfs_quota_us
-      3 cjs
       3 csv
       3 gcc
       3 gdl
@@ -404,7 +402,6 @@
       5 chunk
       5 common
       5 dict
-      5 eslintignore
       5 eventsource
       5 favdb
       5 flac
@@ -415,6 +412,7 @@
       5 jxl
       5 ksh
       5 libaom
+      5 m4a
       5 mpd
       5 nsh
       5 oga
@@ -426,6 +424,7 @@
       6 com
       6 coverage
       6 eot
+      6 eslintignore
       6 kts
       6 mailmap
       6 mf
@@ -448,6 +447,7 @@
       7 rsp
       7 storyboard
       8 3
+      8 cjs
       8 desktop
       8 flake8
       8 gitattributes
@@ -542,12 +542,12 @@
      37 swift
      37 sxg
      38 proto
-     39 template
      41 1
      42 bin
      42 vcxproj
+     43 template
      46 mp3
-     48 glsl
+     49 glsl
      49 key
      49 pyi
      49 sqlite
@@ -567,8 +567,8 @@
      63 ogv
      67 rtcp
      67 wav
-     68 gitignore
      70 ipdlh
+     71 gitignore
      71 plist
      72 dat
      73 rc
@@ -577,12 +577,12 @@
      78 crt
      78 s
      84 wrong
-     87 kt
+     88 kt
      88 sam
      96 good
      99 cmake
     103 inc
-    104 lock
+    105 lock
     109 sdp
     113 m
     121 aff
@@ -600,7 +600,6 @@
     168 bcmap
     181 stderr
     184 m4s
-    186 ts
     198 ucm
     203 gif
     207 bmp
@@ -613,17 +612,18 @@
     252 vtt
     259 jpg
     273 ttf
-    278 ftl
     278 gn
+    280 ftl
     281 mp4
     283 mn
-    286 avif
-    295 patch
+    291 avif
     297 ico
+    301 patch
     322 woff2
-    325 asm
+    324 asm
+    345 ts
     357 mm
-    368 map
+    362 map
     400 in
     412 certspec
     419 ipdl
@@ -631,40 +631,40 @@
     439 sha1
     457 list
     597 gyp
-    625 sjs
-    643 sh
+    626 sjs
+    645 sh
     664 hpp
     669 vert
-    719 jsm
-    787 mjs
-    810 webidl
+    715 jsm
+    809 mjs
+    812 webidl
     814 frag
-    822 yml
-    838 toml
+    823 yml
+    836 toml
     964 htm
-   1009 yaml
-   1070 java
+   1014 yaml
+   1071 java
    1155 idl
    1217 xml
    1438 glif
    1461 css
-   1593 md
+   1591 md
    1742 headers
-   2017 rst
-   2213 json
+   2019 rst
+   2231 json
    2332 build
    2803 a
-   3638 xhtml
-   4283 c
-   4900 svg
-   5216 png
-   5296 cc
+   3639 xhtml
+   4291 c
+   4902 svg
+   5217 png
+   5307 cc
    5614 txt
-   7651 py
-   8936 cpp
-   9307 rs
+   7653 py
+   8953 cpp
+   9306 rs
   14573 xht
-  18314 h
-  25227 ini
-  86322 js
-  87104 html
+  18368 h
+  25070 ini
+  86332 js
+  87115 html
