@@ -327,7 +327,6 @@
       2 xpt
       2 y
       3 MIT
-      3 aac
       3 arcconfig
       3 awk
       3 bz2
@@ -371,6 +370,7 @@
       3 xyz
       4 0
       4 3gp
+      4 aac
       4 babelrc
       4 ber
       4 enrollment
@@ -513,8 +513,8 @@
      20 typed
      21 options
      22 gradle
-     22 pdf
      22 xsl
+     23 pdf
      23 tmpl
      24 der
      24 filters
@@ -577,12 +577,12 @@
      78 crt
      78 s
      84 wrong
-     88 kt
      88 sam
+     89 kt
      96 good
      99 cmake
-    103 inc
-    105 lock
+    102 inc
+    106 lock
     109 sdp
     113 m
     121 aff
@@ -594,7 +594,7 @@
     157 jsx
     157 req
     161 conf
-    163 woff
+    164 woff
     166 dic
     166 zip
     168 bcmap
@@ -603,7 +603,7 @@
     198 ucm
     203 gif
     207 bmp
-    212 snap
+    209 snap
     218 S
     223 hh
     233 test
@@ -616,9 +616,9 @@
     280 ftl
     281 mp4
     283 mn
-    291 avif
     297 ico
-    301 patch
+    299 patch
+    304 avif
     322 woff2
     324 asm
     345 ts
@@ -626,45 +626,45 @@
     362 map
     400 in
     412 certspec
-    419 ipdl
     419 pem
+    421 ipdl
     439 sha1
     457 list
     597 gyp
-    626 sjs
-    645 sh
+    627 sjs
+    644 sh
     664 hpp
     669 vert
     715 jsm
-    809 mjs
-    812 webidl
+    812 mjs
     814 frag
+    815 webidl
     823 yml
-    836 toml
+    841 toml
     964 htm
-   1014 yaml
-   1071 java
+   1013 yaml
+   1072 java
    1155 idl
    1217 xml
    1438 glif
    1461 css
-   1591 md
+   1592 md
    1742 headers
-   2019 rst
-   2231 json
-   2332 build
+   2018 rst
+   2239 json
+   2330 build
    2803 a
-   3639 xhtml
-   4291 c
-   4902 svg
+   3644 xhtml
+   4281 c
+   4906 svg
    5217 png
    5307 cc
    5614 txt
-   7653 py
-   8953 cpp
-   9306 rs
+   7660 py
+   8957 cpp
+   9327 rs
   14573 xht
-  18368 h
-  25070 ini
-  86332 js
-  87115 html
+  18361 h
+  25248 ini
+  86362 js
+  87305 html
