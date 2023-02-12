@@ -26,8 +26,8 @@
       1 ME
       1 MPL
       1 Makefile
+      1 PDF
       1 PL
-      1 PNG
       1 PRJ
       1 R
       1 README
@@ -54,6 +54,7 @@
       1 avi
       1 bash
       1 bashrc
+      1 bazelignore
       1 bf
       1 blah
       1 bp
@@ -140,6 +141,7 @@
       1 loader
       1 locale
       1 lz
+      1 m4a
       1 make
       1 mako
       1 man
@@ -412,7 +414,6 @@
       5 jxl
       5 ksh
       5 libaom
-      5 m4a
       5 mpd
       5 nsh
       5 oga
@@ -514,10 +515,10 @@
      21 options
      22 gradle
      22 xsl
-     23 pdf
      23 tmpl
      24 der
      24 filters
+     24 pdf
      25 cur
      25 dll
      26 db
@@ -531,7 +532,7 @@
      28 bat
      29 opus
      30 fp
-     31 bazel
+     32 bazel
      32 sug
      34 keyspec
      35 crl
@@ -580,8 +581,8 @@
      88 sam
      89 kt
      96 good
-     99 cmake
-    102 inc
+    100 cmake
+    106 inc
     106 lock
     109 sdp
     113 m
@@ -611,23 +612,23 @@
     251 manifest
     252 vtt
     259 jpg
-    273 ttf
+    274 ttf
     278 gn
     280 ftl
     281 mp4
-    283 mn
+    284 mn
     297 ico
-    299 patch
-    304 avif
+    303 patch
+    310 avif
     322 woff2
     324 asm
-    345 ts
+    346 ts
     357 mm
     362 map
     400 in
     412 certspec
     419 pem
-    421 ipdl
+    423 ipdl
     439 sha1
     457 list
     597 gyp
@@ -635,36 +636,36 @@
     644 sh
     664 hpp
     669 vert
-    715 jsm
-    812 mjs
+    701 jsm
     814 frag
     815 webidl
     823 yml
+    835 mjs
     841 toml
     964 htm
-   1013 yaml
+   1016 yaml
    1072 java
    1155 idl
-   1217 xml
+   1218 xml
    1438 glif
-   1461 css
+   1457 css
    1592 md
    1742 headers
-   2018 rst
-   2239 json
-   2330 build
+   2020 rst
+   2238 json
+   2333 build
    2803 a
-   3644 xhtml
-   4281 c
+   3645 xhtml
+   4285 c
    4906 svg
-   5217 png
-   5307 cc
+   5218 png
+   5312 cc
    5614 txt
    7660 py
-   8957 cpp
-   9327 rs
+   8969 cpp
+   9330 rs
   14573 xht
-  18361 h
-  25248 ini
-  86362 js
-  87305 html
+  18383 h
+  25245 ini
+  86383 js
+  87297 html
