@@ -328,7 +328,6 @@
       2 with_android_deps
       2 xpt
       2 y
-      3 MIT
       3 arcconfig
       3 awk
       3 bz2
@@ -396,11 +395,10 @@
       4 stash
       4 stdout
       4 sym
-      4 tar
       4 whl
       4 yamllint
       4 yapf
-      5 APACHE
+      5 MIT
       5 cbor
       5 chunk
       5 common
@@ -434,6 +432,7 @@
       6 sf
       6 t
       6 ver
+      7 APACHE
       7 ac
       7 beta
       7 blb
@@ -444,12 +443,11 @@
       7 pcm
       7 pod
       7 pyx
-      7 rl
       7 rsa
       7 rsp
       7 storyboard
+      7 tar
       8 3
-      8 cjs
       8 desktop
       8 flake8
       8 gitattributes
@@ -457,7 +455,9 @@
       8 m3u8
       8 morph
       8 props
+      8 rl
       8 settings
+      9 cjs
       9 coveragerc
       9 jar
       9 pump
@@ -600,14 +600,14 @@
     166 dic
     166 zip
     168 bcmap
-    181 stderr
     184 m4s
+    185 stderr
     198 ucm
     203 gif
     207 bmp
-    209 snap
+    208 snap
     218 S
-    223 hh
+    232 hh
     233 test
     248 mk
     251 manifest
@@ -623,50 +623,50 @@
     310 avif
     322 woff2
     324 asm
-    346 ts
-    357 mm
+    359 mm
     362 map
+    383 ts
     400 in
     412 certspec
     419 pem
-    425 ipdl
+    421 ipdl
     439 sha1
-    457 list
+    456 list
     597 gyp
-    627 sjs
-    645 sh
-    659 jsm
+    629 sjs
+    648 sh
+    660 jsm
     664 hpp
     669 vert
+    812 webidl
     814 frag
-    815 webidl
-    824 yml
-    841 toml
-    917 mjs
+    825 yml
+    843 toml
+    920 mjs
     964 htm
-   1017 yaml
+   1019 yaml
    1071 java
    1156 idl
    1218 xml
    1438 glif
-   1456 css
-   1596 md
+   1460 css
+   1599 md
    1742 headers
-   2019 rst
-   2239 json
+   2020 rst
+   2246 json
    2341 build
    2803 a
-   3645 xhtml
+   3644 xhtml
    4289 c
-   4908 svg
-   5223 png
-   5330 cc
+   4907 svg
+   5221 png
+   5337 cc
    5614 txt
-   7669 py
-   8976 cpp
-   9332 rs
+   7676 py
+   8977 cpp
+   9336 rs
   14573 xht
-  18407 h
-  25203 ini
-  86364 js
-  87313 html
+  18408 h
+  25051 ini
+  86393 js
+  87405 html
