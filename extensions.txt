@@ -52,7 +52,6 @@
       1 assem
       1 auto
       1 avi
-      1 bash
       1 bashrc
       1 bazelignore
       1 bf
@@ -192,6 +191,7 @@
       1 setnoparent
       1 sig
       1 signature
+      1 sigs
       1 simd
       1 stabs
       1 stdcxx
@@ -256,6 +256,7 @@
       2 atom
       2 automation
       2 bar
+      2 bash
       2 bowerrc
       2 breakpad
       2 cgi
@@ -306,7 +307,6 @@
       2 rtpdump
       2 saves
       2 sb
-      2 sigs
       2 so
       2 sources
       2 star
@@ -329,7 +329,6 @@
       3 arcconfig
       3 awk
       3 bz2
-      3 ca
       3 cache
       3 cbproj
       3 cfs_period_us
@@ -398,6 +397,7 @@
       4 yamllint
       4 yapf
       5 MIT
+      5 ca
       5 cbor
       5 chunk
       5 common
@@ -513,19 +513,19 @@
      20 sln
      21 options
      22 gradle
-     22 typed
      22 xsl
      23 tmpl
+     23 typed
      24 der
      24 filters
      24 pdf
      25 cur
      25 dll
-     26 db
      26 es5
      26 es6
      26 gitkeep
      26 webp
+     27 db
      27 dtd
      27 mar
      28 asis
@@ -534,10 +534,10 @@
      30 fp
      32 bazel
      32 sug
-     34 keyspec
      35 crl
      35 gypi
      36 exe
+     36 keyspec
      36 wasm
      37 cvsignore
      37 swift
@@ -594,7 +594,7 @@
     155 fax
     156 jsx
     157 req
-    161 conf
+    162 conf
     164 woff
     166 dic
     166 zip
@@ -616,7 +616,7 @@
     278 ftl
     281 mp4
     284 mn
-    286 gn
+    288 gn
     297 ico
     303 avif
     311 patch
@@ -626,46 +626,46 @@
     362 map
     383 ts
     400 in
-    412 certspec
-    419 pem
+    414 certspec
     421 ipdl
+    421 pem
     439 sha1
     456 list
+    544 jsm
     597 gyp
-    627 sjs
-    644 jsm
+    628 sjs
     648 sh
     664 hpp
     669 vert
-    812 webidl
+    813 webidl
     814 frag
-    827 yml
-    845 toml
-    951 mjs
+    830 yml
+    847 toml
     964 htm
    1024 yaml
-   1071 java
-   1156 idl
+   1057 mjs
+   1073 java
+   1158 idl
    1218 xml
    1438 glif
    1460 css
-   1603 md
+   1604 md
    1742 headers
-   2023 rst
-   2248 json
-   2322 build
+   2024 rst
+   2252 json
+   2329 build
    2803 a
    3642 xhtml
    4289 c
-   4907 svg
-   5222 png
-   5342 cc
+   4913 svg
+   5223 png
+   5357 cc
    5614 txt
-   7722 py
-   8986 cpp
-   9338 rs
+   7745 py
+   8997 cpp
+   9342 rs
   14573 xht
-  18447 h
-  25050 ini
-  86480 js
-  87632 html
+  18468 h
+  24976 ini
+  86507 js
+  87673 html
