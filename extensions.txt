@@ -301,6 +301,7 @@
       2 pgen
       2 php
       2 pif
+      2 prettierignore
       2 printvars
       2 pro
       2 pub
@@ -341,13 +342,13 @@
       3 ivf
       3 jpeg
       3 l
+      3 log
       3 lst
       3 max
       3 mov
       3 natvis
       3 old
       3 pfx
-      3 prettierignore
       3 ps1
       3 psd
       3 pubkey
@@ -384,7 +385,6 @@
       4 jsonld
       4 libvpx
       4 lnk
-      4 log
       4 lua
       4 metallib
       4 nrm
@@ -571,8 +571,8 @@
      71 plist
      72 dat
      72 gitignore
-     73 rc
      73 xpi
+     75 rc
      78 crt
      78 s
      78 scss
@@ -581,7 +581,7 @@
      89 kt
      96 good
     100 cmake
-    105 lock
+    106 lock
     107 inc
     109 sdp
     113 m
@@ -628,43 +628,43 @@
     421 ipdl
     421 pem
     439 sha1
-    454 list
-    486 jsm
+    455 list
+    484 jsm
     597 gyp
     631 sjs
-    647 sh
+    646 sh
     663 hpp
     669 vert
     814 frag
     817 webidl
-    834 yml
-    835 toml
+    832 yml
+    836 toml
     857 ts
     964 htm
    1023 java
    1026 yaml
-   1123 mjs
+   1127 mjs
    1158 idl
    1215 xml
    1438 glif
    1459 css
    1592 md
    1748 headers
-   2024 rst
+   2027 rst
    2243 json
-   2331 build
+   2333 build
    2804 a
-   3612 xhtml
+   3614 xhtml
    4293 c
    4918 svg
    5228 cc
    5234 png
    5660 txt
-   7857 py
-   8908 rs
-   8995 cpp
+   7871 py
+   8907 rs
+   9001 cpp
   14573 xht
-  18392 h
-  25090 ini
-  87076 js
-  87972 html
+  18394 h
+  25082 ini
+  87093 js
+  88004 html
