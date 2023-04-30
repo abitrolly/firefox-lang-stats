@@ -506,10 +506,10 @@
      20 mdns
      20 rb
      20 sln
+     21 diff
      21 gradle
      21 options
      21 tmpl
-     22 diff
      22 jinja2
      22 xsl
      24 der
@@ -594,14 +594,14 @@
     162 conf
     164 woff
     166 dic
-    166 zip
+    167 zip
     168 bcmap
     184 m4s
     185 stderr
     198 ucm
     203 gif
+    206 snap
     207 bmp
-    207 snap
     216 S
     233 hh
     233 test
@@ -610,21 +610,21 @@
     252 vtt
     268 jpg
     274 ttf
-    280 ftl
+    281 ftl
     283 mp4
     284 mn
     292 gn
     297 ico
-    303 avif
+    305 avif
     322 woff2
     324 asm
     339 mm
-    371 jsm
-    392 map
+    369 jsm
+    393 map
     398 in
     414 certspec
-    421 patch
     421 pem
+    422 patch
     423 ipdl
     439 sha1
     455 list
@@ -636,33 +636,33 @@
     814 frag
     816 webidl
     837 toml
-    839 yml
+    838 yml
     857 ts
     964 htm
    1023 java
-   1029 yaml
+   1030 yaml
    1165 idl
    1215 xml
-   1252 mjs
+   1254 mjs
    1438 glif
-   1464 css
-   1599 md
+   1467 css
+   1600 md
    1807 headers
    2029 rst
-   2245 json
-   2326 build
+   2246 json
+   2325 build
    2804 a
-   3616 xhtml
+   3617 xhtml
    4226 c
-   4923 svg
+   4928 svg
    5201 cc
    5239 png
    5659 txt
-   7888 py
+   7939 py
    8754 cpp
    8911 rs
   14573 xht
-  18009 h
-  25399 ini
-  87191 js
-  88541 html
+  18010 h
+  25398 ini
+  87216 js
+  88547 html
