@@ -159,7 +159,6 @@
       1 mp2
       1 mycert2
       1 myspell
-      1 nojekyll
       1 noserc
       1 npmignore
       1 nss
@@ -503,10 +502,10 @@
      19 tbs
      19 vcproj
      20 cs
+     20 diff
      20 mdns
      20 rb
      20 sln
-     21 diff
      21 gradle
      21 options
      21 tmpl
@@ -586,7 +585,7 @@
     121 aff
     129 gni
     139 cfg
-    149 properties
+    148 properties
     153 webm
     155 fax
     157 jsx
@@ -610,7 +609,7 @@
     252 vtt
     268 jpg
     274 ttf
-    281 ftl
+    283 ftl
     283 mp4
     284 mn
     292 gn
@@ -619,12 +618,12 @@
     322 woff2
     324 asm
     339 mm
-    369 jsm
+    362 jsm
     393 map
     398 in
+    407 patch
     414 certspec
     421 pem
-    422 patch
     423 ipdl
     439 sha1
     455 list
@@ -634,23 +633,23 @@
     664 hpp
     669 vert
     814 frag
-    816 webidl
-    837 toml
-    838 yml
+    817 webidl
+    837 yml
+    838 toml
     857 ts
     964 htm
    1023 java
    1030 yaml
-   1165 idl
+   1166 idl
    1215 xml
-   1254 mjs
+   1275 mjs
    1438 glif
-   1467 css
-   1600 md
+   1474 css
+   1601 md
    1807 headers
-   2029 rst
+   2030 rst
    2246 json
-   2325 build
+   2327 build
    2804 a
    3617 xhtml
    4226 c
@@ -658,11 +657,11 @@
    5201 cc
    5239 png
    5659 txt
-   7939 py
-   8754 cpp
-   8911 rs
+   7968 py
+   8758 cpp
+   8918 rs
   14573 xht
-  18010 h
-  25398 ini
-  87216 js
-  88547 html
+  18012 h
+  25368 ini
+  87232 js
+  88550 html
