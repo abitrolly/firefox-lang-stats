@@ -137,7 +137,6 @@
       1 lldbinit
       1 loader
       1 locale
-      1 lz
       1 m4a
       1 make
       1 mako
@@ -194,7 +193,6 @@
       1 stabs
       1 stdcxx
       1 styl
-      1 stylelintignore
       1 stylelintrc
       1 svgz
       1 symlink
@@ -310,6 +308,7 @@
       2 sources
       2 star
       2 status
+      2 stylelintignore
       2 syms
       2 tag
       2 tbl
@@ -359,7 +358,7 @@
       3 url
       3 uxf
       3 version
-      3 vs2017
+      3 vs2019
       3 vue
       3 wrap
       3 xib
@@ -382,7 +381,6 @@
       4 jsonld
       4 libvpx
       4 lnk
-      4 lua
       4 metallib
       4 nrm
       4 pc
@@ -464,6 +462,7 @@
      10 exp
      10 hgignore
      10 mdb
+     10 pfb
      11 hash
      11 htaccess
      11 icu
@@ -482,7 +481,6 @@
      13 rtp
      13 ttx
      14 nib
-     14 pfb
      14 rdf
      14 text
      15 hxx
@@ -513,10 +511,10 @@
      22 xsl
      24 der
      24 filters
-     24 typed
      25 cur
      25 dll
      25 pdf
+     25 typed
      26 es5
      26 es6
      26 gitkeep
@@ -545,13 +543,13 @@
      43 template
      46 mp3
      49 key
-     49 pyi
      50 otf
      50 sqlite
      51 glsl
      52 configure
      53 cert
      53 err
+     53 pyi
      53 wat
      54 ogg
      54 pl
@@ -567,7 +565,7 @@
      70 ipdlh
      71 plist
      72 dat
-     72 gitignore
+     73 gitignore
      73 xpi
      78 crt
      78 rc
@@ -585,11 +583,11 @@
     121 aff
     129 gni
     139 cfg
-    148 properties
+    147 properties
     153 webm
     155 fax
-    157 jsx
     157 req
+    158 jsx
     162 conf
     164 woff
     166 dic
@@ -599,69 +597,69 @@
     185 stderr
     198 ucm
     203 gif
-    206 snap
+    205 snap
     207 bmp
     216 S
     233 hh
     233 test
     247 mk
-    250 manifest
+    249 manifest
     252 vtt
     268 jpg
     274 ttf
-    283 ftl
     283 mp4
+    284 jsm
     284 mn
+    286 ftl
     292 gn
     297 ico
     305 avif
     322 woff2
     324 asm
     339 mm
-    362 jsm
     393 map
     398 in
-    407 patch
+    411 patch
     414 certspec
     421 pem
     423 ipdl
     439 sha1
     455 list
     597 gyp
-    631 sjs
-    646 sh
+    632 sjs
+    647 sh
     664 hpp
     669 vert
     814 frag
-    817 webidl
+    816 webidl
     837 yml
     838 toml
-    857 ts
+    878 ts
     964 htm
    1023 java
-   1030 yaml
-   1166 idl
+   1032 yaml
+   1165 idl
    1215 xml
-   1275 mjs
+   1356 mjs
    1438 glif
    1474 css
-   1601 md
+   1602 md
    1807 headers
-   2030 rst
-   2246 json
-   2327 build
+   2032 rst
+   2248 json
+   2334 build
    2804 a
-   3617 xhtml
-   4226 c
-   4928 svg
-   5201 cc
+   3615 xhtml
+   4227 c
+   4929 svg
+   5207 cc
    5239 png
-   5659 txt
-   7968 py
-   8758 cpp
-   8918 rs
+   5660 txt
+   7985 py
+   8762 cpp
+   8919 rs
   14573 xht
-  18012 h
-  25368 ini
-  87232 js
-  88550 html
+  18022 h
+  25343 ini
+  87222 js
+  88594 html
