@@ -158,6 +158,7 @@
       1 mp2
       1 mycert2
       1 myspell
+      1 nojekyll
       1 noserc
       1 npmignore
       1 nss
@@ -193,7 +194,7 @@
       1 stabs
       1 stdcxx
       1 styl
-      1 stylelintrc
+      1 stylelintignore
       1 svgz
       1 symlink
       1 targets
@@ -308,7 +309,6 @@
       2 sources
       2 star
       2 status
-      2 stylelintignore
       2 syms
       2 tag
       2 tbl
@@ -562,9 +562,9 @@
      66 ogv
      67 rtcp
      68 wav
-     70 ipdlh
      71 plist
      72 dat
+     72 ipdlh
      73 gitignore
      73 xpi
      78 crt
@@ -573,18 +573,18 @@
      78 scss
      84 wrong
      88 sam
-     89 kt
+     90 kt
      96 good
      98 inc
     100 cmake
     106 lock
     109 sdp
-    113 m
+    114 m
     121 aff
     129 gni
     139 cfg
     147 properties
-    153 webm
+    154 webm
     155 fax
     157 req
     158 jsx
@@ -600,15 +600,15 @@
     205 snap
     207 bmp
     216 S
-    233 hh
     233 test
+    234 hh
+    246 jsm
     247 mk
     249 manifest
     252 vtt
     268 jpg
     274 ttf
     283 mp4
-    284 jsm
     284 mn
     286 ftl
     292 gn
@@ -618,48 +618,48 @@
     324 asm
     339 mm
     393 map
-    398 in
-    411 patch
+    404 in
+    409 patch
     414 certspec
     421 pem
-    423 ipdl
+    424 ipdl
     439 sha1
     455 list
-    597 gyp
+    598 gyp
     632 sjs
     647 sh
     664 hpp
     669 vert
     814 frag
     816 webidl
-    837 yml
-    838 toml
+    833 yml
+    840 toml
     878 ts
     964 htm
    1023 java
    1032 yaml
    1165 idl
    1215 xml
-   1356 mjs
+   1392 mjs
    1438 glif
    1474 css
    1602 md
    1807 headers
    2032 rst
    2248 json
-   2334 build
+   2336 build
    2804 a
-   3615 xhtml
+   3616 xhtml
    4227 c
-   4929 svg
-   5207 cc
+   4932 svg
+   5185 cc
    5239 png
-   5660 txt
-   7985 py
-   8762 cpp
-   8919 rs
+   5661 txt
+   7987 py
+   8765 cpp
+   8920 rs
   14573 xht
-  18022 h
-  25343 ini
-  87222 js
-  88594 html
+  18029 h
+  25333 ini
+  87258 js
+  88624 html
