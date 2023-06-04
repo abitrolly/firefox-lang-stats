@@ -491,10 +491,10 @@
      15 icns
      15 pyl
      15 res
+     16 diff
      16 icc
      17 am
      17 cxx
-     17 diff
      17 dsp
      17 dsw
      17 resource
@@ -527,14 +527,14 @@
      28 asis
      28 bat
      28 sksl
-     29 db
+     30 db
      32 bazel
      32 sug
-     34 opus
      35 crl
      35 gypi
+     35 opus
+     35 wasm
      36 keyspec
-     36 wasm
      37 cvsignore
      37 swift
      37 sxg
@@ -580,24 +580,25 @@
      96 good
      98 inc
      99 cmake
-    106 lock
+    105 lock
     109 sdp
     114 m
     121 aff
     129 gni
     136 cfg
-    147 properties
+    146 properties
     155 fax
     157 req
     158 jsx
     162 conf
     162 webm
+    164 jsm
     164 woff
     166 dic
     167 zip
     168 bcmap
+    179 stderr
     184 m4s
-    185 stderr
     198 ucm
     203 gif
     204 snap
@@ -605,15 +606,14 @@
     216 S
     233 test
     234 hh
-    237 jsm
     246 manifest
     247 mk
     252 vtt
     274 ttf
-    284 mn
-    289 ftl
+    283 mn
+    290 ftl
     292 gn
-    295 mp4
+    296 mp4
     297 ico
     302 jpg
     308 avif
@@ -621,48 +621,48 @@
     324 asm
     338 mm
     394 map
-    399 in
-    408 patch
+    398 in
+    409 patch
     414 certspec
     421 pem
     423 ipdl
     439 sha1
-    455 list
+    454 list
     598 gyp
-    632 sjs
+    637 sjs
     649 sh
     664 hpp
     669 vert
     814 frag
     817 webidl
-    828 yml
-    840 toml
-    878 ts
+    829 yml
+    832 toml
+    876 ts
     966 htm
    1023 java
-   1031 yaml
+   1033 yaml
    1164 idl
    1215 xml
-   1415 mjs
    1438 glif
-   1475 css
-   1604 md
+   1477 css
+   1492 mjs
+   1595 md
    1852 headers
    2029 rst
-   2253 json
-   2330 build
+   2247 json
+   2328 build
    2804 a
-   3602 xhtml
-   4227 c
+   3604 xhtml
+   4226 c
    4933 svg
-   5196 cc
-   5243 png
+   5195 cc
+   5246 png
    5664 txt
-   7972 py
-   8744 cpp
-   8926 rs
+   7976 py
+   8742 cpp
+   8870 rs
   14577 xht
-  18025 h
-  25612 ini
-  87329 js
-  89161 html
+  18023 h
+  25575 ini
+  87344 js
+  89174 html
