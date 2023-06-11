@@ -429,7 +429,6 @@
       7 APACHE
       7 ac
       7 beta
-      7 blb
       7 eslintignore
       7 har
       7 metal
@@ -444,6 +443,7 @@
       7 tar
       8 3
       8 aac
+      8 blb
       8 desktop
       8 grd
       8 hgignore
@@ -458,7 +458,6 @@
       9 jar
       9 pump
       9 strings
-      9 symbols
       9 xcconfig
      10 TXT
      10 dox
@@ -467,6 +466,7 @@
      10 flac
      10 mdb
      10 pfb
+     10 symbols
      11 hash
      11 htaccess
      11 icu
@@ -525,11 +525,11 @@
      26 webp
      27 mar
      28 asis
-     28 bat
      28 sksl
+     29 bat
      30 db
-     32 bazel
      32 sug
+     33 bazel
      35 crl
      35 gypi
      35 opus
@@ -558,17 +558,17 @@
      55 webmanifest
      57 hyf
      57 pydeps
+     58 ogg
      59 def
      59 mozbuild
-     59 ogg
      62 m4
      66 ogv
      67 rtcp
      71 plist
      72 dat
-     72 gitignore
      72 ipdlh
      72 wav
+     73 gitignore
      73 xpi
      75 rc
      78 crt
@@ -578,91 +578,91 @@
      88 sam
      90 kt
      96 good
+     98 cmake
      98 inc
-     99 cmake
-    105 lock
+    103 lock
     109 sdp
     114 m
     121 aff
     129 gni
     136 cfg
+    146 jsm
     146 properties
     155 fax
     157 req
     158 jsx
     162 conf
     162 webm
-    164 jsm
     164 woff
     166 dic
     167 zip
     168 bcmap
-    179 stderr
+    168 stderr
     184 m4s
     198 ucm
     203 gif
     204 snap
     207 bmp
     216 S
+    220 ftl
     233 test
     234 hh
     246 manifest
     247 mk
     252 vtt
     274 ttf
-    283 mn
-    290 ftl
+    282 mn
     292 gn
     296 mp4
-    297 ico
+    298 ico
     302 jpg
     308 avif
     322 woff2
     324 asm
     338 mm
     394 map
-    398 in
-    409 patch
+    397 in
     414 certspec
+    417 patch
     421 pem
-    423 ipdl
+    424 ipdl
     439 sha1
     454 list
     598 gyp
-    637 sjs
-    649 sh
+    640 sjs
+    643 sh
     664 hpp
     669 vert
     814 frag
     817 webidl
-    829 yml
-    832 toml
+    831 toml
+    831 yml
     876 ts
     966 htm
    1023 java
-   1033 yaml
-   1164 idl
+   1039 yaml
+   1165 idl
    1215 xml
    1438 glif
-   1477 css
-   1492 mjs
-   1595 md
-   1852 headers
-   2029 rst
-   2247 json
-   2328 build
+   1482 css
+   1518 mjs
+   1618 md
+   1854 headers
+   2032 rst
+   2242 json
+   2329 build
    2804 a
-   3604 xhtml
+   3603 xhtml
    4226 c
-   4933 svg
-   5195 cc
-   5246 png
+   4931 svg
+   5197 cc
+   5248 png
    5664 txt
-   7976 py
-   8742 cpp
-   8870 rs
-  14577 xht
-  18023 h
-  25575 ini
-  87344 js
-  89174 html
+   8015 py
+   8734 cpp
+   8953 rs
+  14573 xht
+  18015 h
+  25568 ini
+  87357 js
+  89202 html
