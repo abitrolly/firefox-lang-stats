@@ -161,7 +161,6 @@
       1 mp2
       1 mycert2
       1 myspell
-      1 nojekyll
       1 noserc
       1 npmignore
       1 nss
@@ -458,6 +457,7 @@
       9 jar
       9 pump
       9 strings
+      9 symbols
       9 xcconfig
      10 TXT
      10 dox
@@ -466,7 +466,6 @@
      10 flac
      10 mdb
      10 pfb
-     10 symbols
      11 hash
      11 htaccess
      11 icu
@@ -491,10 +490,10 @@
      15 icns
      15 pyl
      15 res
-     16 diff
      16 icc
      17 am
      17 cxx
+     17 diff
      17 dsp
      17 dsw
      17 resource
@@ -516,8 +515,8 @@
      24 der
      24 filters
      25 cur
-     25 dll
      25 pdf
+     26 dll
      26 es5
      26 es6
      26 gitkeep
@@ -586,32 +585,32 @@
     121 aff
     129 gni
     136 cfg
-    146 jsm
+    145 jsm
     146 properties
     155 fax
     157 req
     158 jsx
     162 conf
-    162 webm
     164 woff
     166 dic
     167 zip
     168 bcmap
     168 stderr
+    172 webm
     184 m4s
     198 ucm
     203 gif
     204 snap
     207 bmp
     216 S
-    220 ftl
+    221 ftl
     233 test
     234 hh
     246 manifest
     247 mk
     252 vtt
     274 ttf
-    282 mn
+    283 mn
     292 gn
     296 mp4
     298 ico
@@ -621,16 +620,16 @@
     324 asm
     338 mm
     394 map
-    397 in
+    398 in
     414 certspec
-    417 patch
+    420 patch
     421 pem
     424 ipdl
     439 sha1
     454 list
     598 gyp
     640 sjs
-    643 sh
+    641 sh
     664 hpp
     669 vert
     814 frag
@@ -640,29 +639,29 @@
     876 ts
     966 htm
    1023 java
-   1039 yaml
-   1165 idl
+   1042 yaml
+   1164 idl
    1215 xml
    1438 glif
-   1482 css
-   1518 mjs
-   1618 md
-   1854 headers
-   2032 rst
-   2242 json
-   2329 build
+   1483 css
+   1522 mjs
+   1622 md
+   1863 headers
+   2033 rst
+   2243 json
+   2331 build
    2804 a
-   3603 xhtml
+   3601 xhtml
    4226 c
    4931 svg
-   5197 cc
-   5248 png
-   5664 txt
-   8015 py
-   8734 cpp
+   5200 cc
+   5256 png
+   5665 txt
+   8011 py
+   8739 cpp
    8953 rs
-  14573 xht
-  18015 h
-  25568 ini
-  87357 js
-  89202 html
+  14572 xht
+  18020 h
+  25586 ini
+  87388 js
+  89355 html
