@@ -442,7 +442,6 @@
       7 tar
       8 3
       8 aac
-      8 blb
       8 desktop
       8 grd
       8 hgignore
@@ -457,7 +456,6 @@
       9 jar
       9 pump
       9 strings
-      9 symbols
       9 xcconfig
      10 TXT
      10 dox
@@ -466,6 +464,7 @@
      10 flac
      10 mdb
      10 pfb
+     10 symbols
      11 hash
      11 htaccess
      11 icu
@@ -511,6 +510,7 @@
      21 options
      22 jinja2
      22 xsl
+     23 blb
      23 dtd
      24 der
      24 filters
@@ -579,13 +579,13 @@
      96 good
      98 cmake
      98 inc
-    103 lock
+    102 lock
     109 sdp
+    110 jsm
     114 m
     121 aff
     129 gni
     136 cfg
-    145 jsm
     146 properties
     155 fax
     157 req
@@ -603,14 +603,14 @@
     204 snap
     207 bmp
     216 S
-    221 ftl
+    223 ftl
     233 test
     234 hh
     246 manifest
     247 mk
     252 vtt
-    274 ttf
-    283 mn
+    275 ttf
+    282 mn
     292 gn
     296 mp4
     298 ico
@@ -620,48 +620,48 @@
     324 asm
     338 mm
     394 map
-    398 in
+    397 in
     414 certspec
-    420 patch
-    421 pem
-    424 ipdl
+    422 ipdl
+    423 patch
+    423 pem
     439 sha1
     454 list
     598 gyp
-    640 sjs
-    641 sh
+    638 sjs
+    640 sh
     664 hpp
     669 vert
     814 frag
     817 webidl
-    831 toml
     831 yml
+    837 toml
     876 ts
-    966 htm
+    965 htm
    1023 java
-   1042 yaml
-   1164 idl
+   1040 yaml
+   1163 idl
    1215 xml
    1438 glif
-   1483 css
-   1522 mjs
-   1622 md
-   1863 headers
+   1484 css
+   1553 mjs
+   1631 md
+   1871 headers
    2033 rst
-   2243 json
-   2331 build
+   2253 json
+   2329 build
    2804 a
    3601 xhtml
    4226 c
    4931 svg
    5200 cc
-   5256 png
-   5665 txt
-   8011 py
-   8739 cpp
-   8953 rs
+   5271 png
+   5664 txt
+   7997 py
+   8753 cpp
+   8973 rs
   14572 xht
-  18020 h
-  25586 ini
-  87388 js
-  89355 html
+  18033 h
+  25658 ini
+  87436 js
+  89514 html
