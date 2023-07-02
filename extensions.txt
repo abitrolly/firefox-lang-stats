@@ -246,7 +246,6 @@
       2 Dockerfile
       2 MOZILLA
       2 Mozilla
-      2 OPT_IA64
       2 api
       2 apng
       2 appcache
@@ -254,7 +253,6 @@
       2 atom
       2 automation
       2 bar
-      2 bash
       2 bowerrc
       2 breakpad
       2 cgi
@@ -329,6 +327,7 @@
       2 y
       3 arcconfig
       3 awk
+      3 bash
       3 bz2
       3 cache
       3 cbproj
@@ -563,11 +562,11 @@
      62 m4
      66 ogv
      67 rtcp
+     71 dat
      71 plist
-     72 dat
-     72 ipdlh
      72 wav
      73 gitignore
+     73 ipdlh
      73 xpi
      75 rc
      78 crt
@@ -596,7 +595,7 @@
     167 zip
     168 bcmap
     168 stderr
-    172 webm
+    173 webm
     184 m4s
     198 ucm
     203 gif
@@ -610,7 +609,7 @@
     247 mk
     252 vtt
     275 ttf
-    282 mn
+    283 mn
     292 gn
     296 mp4
     298 ico
@@ -620,9 +619,9 @@
     324 asm
     338 mm
     394 map
-    397 in
+    396 in
     414 certspec
-    422 ipdl
+    421 ipdl
     423 patch
     423 pem
     439 sha1
@@ -633,35 +632,35 @@
     664 hpp
     669 vert
     814 frag
-    817 webidl
+    819 webidl
     831 yml
     837 toml
     876 ts
     965 htm
    1023 java
-   1040 yaml
+   1043 yaml
    1163 idl
    1215 xml
    1438 glif
-   1484 css
-   1553 mjs
+   1487 css
+   1562 mjs
    1631 md
-   1871 headers
-   2033 rst
-   2253 json
-   2329 build
+   1870 headers
+   2034 rst
+   2268 json
+   2328 build
    2804 a
-   3601 xhtml
-   4226 c
+   3598 xhtml
+   4229 c
    4931 svg
    5200 cc
-   5271 png
+   5284 png
    5664 txt
-   7997 py
+   7998 py
    8753 cpp
-   8973 rs
+   8974 rs
   14572 xht
-  18033 h
-  25658 ini
-  87436 js
-  89514 html
+  18037 h
+  25570 ini
+  88126 js
+  89576 html
