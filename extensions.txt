@@ -42,7 +42,6 @@
       1 analysis
       1 ani
       1 anim
-      1 annexb
       1 apk
       1 apngdis
       1 arm
@@ -245,6 +244,7 @@
       2 Dockerfile
       2 MOZILLA
       2 Mozilla
+      2 annexb
       2 api
       2 apng
       2 appcache
@@ -519,9 +519,9 @@
      26 es5
      26 es6
      26 gitkeep
-     26 typed
      26 webp
      27 mar
+     27 typed
      28 asis
      28 sksl
      29 bat
@@ -578,8 +578,8 @@
      96 good
      98 cmake
      98 inc
+    101 jsm
     102 lock
-    108 jsm
     109 sdp
     114 m
     121 aff
@@ -598,20 +598,20 @@
     174 webm
     184 m4s
     198 ucm
+    202 snap
     203 gif
-    203 snap
     207 bmp
     216 S
-    224 ftl
+    223 ftl
     233 test
-    234 hh
+    241 hh
     246 manifest
     247 mk
     252 vtt
-    275 ttf
-    283 mn
+    276 ttf
+    284 mn
     294 gn
-    296 mp4
+    297 mp4
     298 ico
     302 jpg
     308 avif
@@ -623,44 +623,44 @@
     414 certspec
     421 ipdl
     423 pem
-    427 patch
+    428 patch
     439 sha1
     454 list
     598 gyp
-    638 sh
+    637 sh
     638 sjs
     664 hpp
     669 vert
     814 frag
-    819 webidl
-    831 yml
-    838 toml
+    820 webidl
+    832 yml
+    840 toml
     876 ts
     965 htm
    1023 java
-   1045 yaml
+   1050 yaml
    1163 idl
    1215 xml
    1438 glif
-   1490 css
-   1571 mjs
-   1645 md
-   1870 headers
+   1497 css
+   1646 md
+   1701 mjs
+   1875 headers
    2034 rst
-   2274 json
+   2278 json
    2330 build
    2804 a
-   3598 xhtml
+   3597 xhtml
    4229 c
-   4938 svg
-   5208 cc
-   5286 png
+   4940 svg
+   5214 cc
+   5289 png
    5668 txt
-   8005 py
-   8759 cpp
-   8992 rs
+   8023 py
+   8764 cpp
+   8995 rs
   14572 xht
-  18048 h
-  25568 ini
-  88191 js
-  89632 html
+  18411 h
+  25593 ini
+  88094 js
+  89713 html
