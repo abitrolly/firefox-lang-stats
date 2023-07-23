@@ -518,12 +518,12 @@
      26 dll
      26 es5
      26 es6
-     26 gitkeep
      26 webp
+     27 gitkeep
      27 mar
-     27 typed
-     28 asis
      28 sksl
+     28 typed
+     29 asis
      29 bat
      30 db
      32 sug
@@ -538,18 +538,18 @@
      37 sxg
      38 exe
      39 proto
-     41 bin
      42 1
+     42 bin
      42 vcxproj
      43 template
      49 key
-     50 mp3
      50 otf
      51 glsl
      51 sqlite
      52 configure
      53 cert
      53 pyi
+     54 mp3
      54 pl
      55 err
      55 wat
@@ -565,9 +565,9 @@
      71 dat
      71 plist
      72 wav
-     73 gitignore
      73 ipdlh
      73 xpi
+     74 gitignore
      75 rc
      78 crt
      78 s
@@ -578,8 +578,8 @@
      96 good
      98 cmake
      98 inc
+    100 lock
     101 jsm
-    102 lock
     109 sdp
     114 m
     121 aff
@@ -589,7 +589,7 @@
     155 fax
     157 req
     158 jsx
-    162 conf
+    163 conf
     164 stderr
     164 woff
     166 dic
@@ -611,8 +611,8 @@
     276 ttf
     284 mn
     294 gn
-    297 mp4
     298 ico
+    298 mp4
     302 jpg
     308 avif
     322 woff2
@@ -623,44 +623,44 @@
     414 certspec
     421 ipdl
     423 pem
-    428 patch
+    432 patch
     439 sha1
     454 list
     598 gyp
     637 sh
-    638 sjs
+    639 sjs
     664 hpp
     669 vert
     814 frag
-    820 webidl
-    832 yml
-    840 toml
+    825 webidl
+    836 yml
+    845 toml
     876 ts
     965 htm
    1023 java
-   1050 yaml
-   1163 idl
+   1051 yaml
+   1165 idl
    1215 xml
    1438 glif
-   1497 css
-   1646 md
-   1701 mjs
-   1875 headers
-   2034 rst
-   2278 json
-   2330 build
+   1499 css
+   1657 md
+   1711 mjs
+   1877 headers
+   2037 rst
+   2284 json
+   2331 build
    2804 a
    3597 xhtml
    4229 c
-   4940 svg
+   4945 svg
    5214 cc
-   5289 png
-   5668 txt
-   8023 py
-   8764 cpp
-   8995 rs
+   5300 png
+   5679 txt
+   8085 py
+   8774 cpp
+   9006 rs
   14572 xht
-  18411 h
-  25593 ini
-  88094 js
-  89713 html
+  18422 h
+  25628 ini
+  88334 js
+  89894 html
