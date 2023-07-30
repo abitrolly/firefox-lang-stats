@@ -118,6 +118,7 @@
       1 hyph
       1 i386
       1 ics
+      1 ijg
       1 illegal_suffix
       1 imp
       1 include
@@ -254,6 +255,7 @@
       2 bar
       2 bowerrc
       2 breakpad
+      2 bz2
       2 cgi
       2 chain
       2 class
@@ -281,11 +283,9 @@
       2 hlsl
       2 icon
       2 ignore
-      2 ijg
       2 jsonlz4
       2 lds
       2 new
-      2 nix
       2 nlf
       2 nmake
       2 npmrc
@@ -328,7 +328,6 @@
       3 arcconfig
       3 awk
       3 bash
-      3 bz2
       3 cache
       3 cbproj
       3 cfs_period_us
@@ -344,6 +343,7 @@
       3 lst
       3 max
       3 natvis
+      3 nix
       3 pfx
       3 ps1
       3 psd
@@ -469,11 +469,11 @@
      11 icu
      11 p12
      11 tmpl
-     11 udl
      12 hbs
      12 jinja
      12 mak
      12 nsi
+     12 udl
      13 TTF
      13 bas
      13 editorconfig
@@ -503,10 +503,10 @@
      19 vcproj
      20 cs
      20 mdns
-     20 rb
      20 sln
      21 gradle
      21 options
+     21 rb
      22 jinja2
      22 xsl
      23 blb
@@ -522,9 +522,9 @@
      27 gitkeep
      27 mar
      28 sksl
-     28 typed
      29 asis
      29 bat
+     29 typed
      30 db
      32 sug
      33 bazel
@@ -534,14 +534,14 @@
      35 wasm
      36 keyspec
      37 cvsignore
-     37 swift
      37 sxg
      38 exe
      39 proto
+     40 swift
      42 1
      42 bin
      42 vcxproj
-     43 template
+     45 template
      49 key
      50 otf
      51 glsl
@@ -571,15 +571,16 @@
      75 rc
      78 crt
      78 s
-     78 scss
+     79 scss
      84 wrong
      88 sam
-     90 kt
+     90 avif
+     93 kt
      96 good
      98 cmake
      98 inc
-    100 lock
-    101 jsm
+    100 jsm
+    102 lock
     109 sdp
     114 m
     121 aff
@@ -588,12 +589,12 @@
     146 properties
     155 fax
     157 req
-    158 jsx
+    159 jsx
     163 conf
     164 stderr
     164 woff
     166 dic
-    167 zip
+    166 zip
     168 bcmap
     174 webm
     184 m4s
@@ -613,13 +614,12 @@
     294 gn
     298 ico
     298 mp4
-    302 jpg
-    308 avif
+    303 jpg
     322 woff2
     324 asm
     337 mm
     394 map
-    397 in
+    396 in
     414 certspec
     421 ipdl
     423 pem
@@ -634,33 +634,33 @@
     814 frag
     825 webidl
     836 yml
-    845 toml
-    876 ts
+    895 ts
     965 htm
+    972 toml
    1023 java
    1051 yaml
    1165 idl
-   1215 xml
+   1205 xml
    1438 glif
-   1499 css
-   1657 md
-   1711 mjs
+   1501 css
+   1658 md
+   1724 mjs
    1877 headers
-   2037 rst
-   2284 json
+   2044 rst
    2331 build
+   2341 json
    2804 a
-   3597 xhtml
+   3595 xhtml
    4229 c
-   4945 svg
-   5214 cc
+   4946 svg
+   5216 cc
    5300 png
    5679 txt
-   8085 py
+   8102 py
    8774 cpp
-   9006 rs
+   9049 rs
   14572 xht
-  18422 h
-  25628 ini
-  88334 js
-  89894 html
+  18423 h
+  25563 ini
+  88353 js
+  89912 html
