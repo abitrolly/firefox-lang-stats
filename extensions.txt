@@ -514,10 +514,10 @@
      24 der
      24 filters
      25 cur
-     25 pdf
      26 dll
      26 es5
      26 es6
+     26 pdf
      26 webp
      27 gitkeep
      27 mar
@@ -545,8 +545,8 @@
      49 key
      50 otf
      51 glsl
-     51 sqlite
      52 configure
+     52 sqlite
      53 cert
      53 pyi
      54 mp3
@@ -566,8 +566,8 @@
      71 plist
      72 wav
      73 ipdlh
-     73 xpi
      74 gitignore
+     74 xpi
      75 rc
      78 crt
      78 s
@@ -596,24 +596,24 @@
     166 dic
     166 zip
     168 bcmap
-    174 webm
+    175 webm
     184 m4s
+    189 S
     198 ucm
     202 snap
     203 gif
     207 bmp
-    216 S
-    223 ftl
+    224 ftl
     233 test
     241 hh
     246 manifest
     247 mk
     252 vtt
-    276 ttf
+    278 ttf
     284 mn
     294 gn
     298 ico
-    298 mp4
+    299 mp4
     303 jpg
     322 woff2
     324 asm
@@ -628,39 +628,39 @@
     454 list
     598 gyp
     637 sh
-    639 sjs
+    640 sjs
     664 hpp
     669 vert
     814 frag
     825 webidl
-    836 yml
+    838 yml
     895 ts
     965 htm
-    972 toml
-   1023 java
-   1051 yaml
-   1165 idl
+    982 toml
+   1024 java
+   1053 yaml
+   1164 idl
    1205 xml
    1438 glif
-   1501 css
-   1658 md
-   1724 mjs
-   1877 headers
-   2044 rst
-   2331 build
-   2341 json
+   1496 css
+   1686 md
+   1729 mjs
+   1887 headers
+   2045 rst
+   2332 build
+   2342 json
    2804 a
-   3595 xhtml
-   4229 c
-   4946 svg
-   5216 cc
+   3581 xhtml
+   4220 c
+   4948 svg
+   5221 cc
    5300 png
-   5679 txt
-   8102 py
+   5682 txt
+   8108 py
    8774 cpp
-   9049 rs
+   9108 rs
   14572 xht
-  18423 h
-  25563 ini
-  88353 js
-  89912 html
+  18416 h
+  25529 ini
+  88417 js
+  89956 html
