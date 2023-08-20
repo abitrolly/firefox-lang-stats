@@ -36,7 +36,6 @@
       1 UNIX
       1 VMS
       1 adm
-      1 adts
       1 allowlist
       1 amd64
       1 analysis
@@ -244,6 +243,7 @@
       2 Dockerfile
       2 MOZILLA
       2 Mozilla
+      2 adts
       2 annexb
       2 api
       2 apng
@@ -436,7 +436,6 @@
       7 rsa
       7 rsp
       7 storyboard
-      7 tar
       8 3
       8 aac
       8 coveragerc
@@ -448,6 +447,7 @@
       8 props
       8 rl
       8 settings
+      8 tar
       9 cjs
       9 gitattributes
       9 jar
@@ -565,11 +565,11 @@
      67 rtcp
      71 dat
      71 plist
-     72 gitignore
+     73 gitignore
      73 ipdlh
-     74 wav
      74 xpi
      75 rc
+     75 wav
      78 crt
      78 s
      79 scss
@@ -586,7 +586,7 @@
     114 m
     121 aff
     129 gni
-    135 cfg
+    136 cfg
     146 properties
     155 fax
     157 req
@@ -599,7 +599,7 @@
     168 bcmap
     174 webm
     184 m4s
-    188 S
+    190 S
     198 ucm
     203 gif
     207 bmp
@@ -615,7 +615,7 @@
     294 gn
     299 ico
     299 mp4
-    303 jpg
+    304 jpg
     322 woff2
     324 asm
     337 mm
@@ -624,11 +624,11 @@
     414 certspec
     421 ipdl
     423 pem
-    429 patch
+    428 patch
     439 sha1
     454 list
     598 gyp
-    639 sh
+    636 sh
     640 sjs
     669 vert
     775 hpp
@@ -638,30 +638,30 @@
     964 htm
    1007 ts
    1024 java
-   1048 toml
    1052 yaml
+   1077 toml
    1164 idl
    1205 xml
    1438 glif
-   1509 css
-   1716 md
-   1740 mjs
-   1884 headers
+   1517 css
+   1717 md
+   1747 mjs
+   1885 headers
    2045 rst
    2329 build
-   2395 json
+   2399 json
    2804 a
    3581 xhtml
-   4216 c
+   4217 c
    4948 svg
-   5221 cc
+   5220 cc
    5300 png
    5687 txt
-   8113 py
-   8779 cpp
-   9470 rs
+   8174 py
+   8784 cpp
+   9473 rs
   14572 xht
-  18743 h
-  25511 ini
-  88580 js
-  90098 html
+  18745 h
+  25383 ini
+  88641 js
+  90251 html
