@@ -624,9 +624,9 @@
     414 certspec
     421 ipdl
     423 pem
-    428 patch
+    429 patch
     439 sha1
-    454 list
+    455 list
     598 gyp
     636 sh
     640 sjs
@@ -635,10 +635,10 @@
     814 frag
     826 webidl
     837 yml
-    964 htm
+    961 htm
    1007 ts
    1024 java
-   1052 yaml
+   1054 yaml
    1077 toml
    1164 idl
    1205 xml
@@ -646,22 +646,22 @@
    1517 css
    1717 md
    1747 mjs
-   1885 headers
-   2045 rst
+   1886 headers
+   2046 rst
    2329 build
    2399 json
    2804 a
-   3581 xhtml
+   3582 xhtml
    4217 c
-   4948 svg
+   4950 svg
    5220 cc
-   5300 png
+   5303 png
    5687 txt
-   8174 py
+   8180 py
    8784 cpp
    9473 rs
   14572 xht
   18745 h
-  25383 ini
-  88641 js
-  90251 html
+  25405 ini
+  88652 js
+  90308 html
