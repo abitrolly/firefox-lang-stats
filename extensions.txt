@@ -559,7 +559,7 @@
      57 pydeps
      58 ogg
      59 def
-     59 mozbuild
+     60 mozbuild
      62 m4
      66 ogv
      67 rtcp
@@ -621,47 +621,47 @@
     337 mm
     394 map
     395 in
+    413 patch
     414 certspec
     421 ipdl
     423 pem
-    429 patch
     439 sha1
     455 list
     598 gyp
-    636 sh
-    640 sjs
+    637 sh
+    642 sjs
     669 vert
     775 hpp
     814 frag
     826 webidl
-    837 yml
+    841 yml
     961 htm
    1007 ts
    1024 java
-   1054 yaml
-   1077 toml
+   1055 yaml
+   1078 toml
    1164 idl
    1205 xml
    1438 glif
-   1517 css
-   1717 md
-   1747 mjs
+   1518 css
+   1716 md
+   1748 mjs
    1886 headers
-   2046 rst
+   2048 rst
    2329 build
    2399 json
    2804 a
    3582 xhtml
-   4217 c
-   4950 svg
+   4216 c
+   4951 svg
    5220 cc
-   5303 png
-   5687 txt
-   8180 py
-   8784 cpp
-   9473 rs
+   5308 png
+   5686 txt
+   8188 py
+   8787 cpp
+   9466 rs
   14572 xht
-  18745 h
-  25405 ini
-  88652 js
-  90308 html
+  18747 h
+  25394 ini
+  88655 js
+  90313 html
