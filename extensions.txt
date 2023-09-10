@@ -472,12 +472,11 @@
      12 hbs
      12 jinja
      12 mak
+     12 mozilla
      12 nsi
-     12 udl
      13 TTF
      13 bas
      13 editorconfig
-     13 mozilla
      13 postcard
      13 rtp
      13 ttx
@@ -485,6 +484,7 @@
      14 nib
      14 rdf
      14 text
+     14 udl
      15 hxx
      15 icns
      15 pyl
@@ -525,8 +525,8 @@
      28 sksl
      29 asis
      29 bat
-     29 typed
      30 db
+     31 typed
      32 sug
      33 bazel
      35 crl
@@ -557,8 +557,8 @@
      55 webmanifest
      57 hyf
      57 pydeps
-     58 ogg
      59 def
+     59 ogg
      60 mozbuild
      62 m4
      66 ogv
@@ -591,9 +591,9 @@
     155 fax
     157 req
     161 jsx
-    164 conf
     164 stderr
     164 woff
+    165 conf
     166 dic
     166 zip
     168 bcmap
@@ -603,7 +603,7 @@
     198 ucm
     203 gif
     207 bmp
-    224 ftl
+    225 ftl
     233 test
     241 hh
     246 manifest
@@ -621,47 +621,47 @@
     337 mm
     394 map
     395 in
-    413 patch
     414 certspec
+    414 patch
     421 ipdl
     423 pem
     439 sha1
     455 list
     598 gyp
-    637 sh
-    642 sjs
+    634 sh
+    643 sjs
     669 vert
     775 hpp
     814 frag
     826 webidl
-    841 yml
+    840 yml
     961 htm
    1007 ts
    1024 java
-   1055 yaml
-   1078 toml
-   1164 idl
+   1056 yaml
+   1080 toml
+   1165 idl
    1205 xml
    1438 glif
-   1518 css
-   1716 md
-   1748 mjs
+   1519 css
+   1715 md
+   1755 mjs
    1886 headers
-   2048 rst
-   2329 build
-   2399 json
+   2049 rst
+   2328 build
+   2411 json
    2804 a
    3582 xhtml
-   4216 c
-   4951 svg
-   5220 cc
-   5308 png
-   5686 txt
-   8188 py
-   8787 cpp
-   9466 rs
+   4217 c
+   4957 svg
+   5212 cc
+   5305 png
+   5684 txt
+   8195 py
+   8796 cpp
+   9478 rs
   14572 xht
-  18747 h
-  25394 ini
-  88655 js
-  90313 html
+  18742 h
+  25389 ini
+  88679 js
+  90318 html
