@@ -61,7 +61,6 @@
       1 cin
       1 client
       1 cmx
-      1 cnf
       1 committime
       1 cr3
       1 crlite
@@ -497,8 +496,8 @@
      17 resource
      18 aidl
      18 chromium
-     18 diff
      18 wbn
+     19 diff
      19 stun
      19 tbs
      19 vcproj
@@ -542,14 +541,14 @@
      42 1
      42 bin
      42 vcxproj
-     45 template
+     44 template
      49 key
      49 sqlite
      50 otf
      51 glsl
      52 configure
+     52 pyi
      53 cert
-     53 pyi
      54 mp3
      54 pl
      55 err
@@ -564,8 +563,8 @@
      66 ogv
      67 rtcp
      71 dat
+     71 gitignore
      71 plist
-     73 gitignore
      73 ipdlh
      74 xpi
      75 rc
@@ -575,9 +574,9 @@
      79 scss
      84 wrong
      88 sam
-     90 avif
-     93 kt
+     92 avif
      94 jsm
+     94 kt
      96 good
      98 cmake
      98 inc
@@ -609,7 +608,7 @@
     246 manifest
     247 mk
     252 vtt
-    254 snap
+    253 snap
     278 ttf
     284 mn
     294 gn
@@ -622,46 +621,46 @@
     394 map
     395 in
     414 certspec
-    414 patch
+    417 patch
     421 ipdl
-    423 pem
+    421 pem
     439 sha1
     455 list
     598 gyp
-    634 sh
-    643 sjs
+    631 sh
+    646 sjs
     669 vert
     775 hpp
     814 frag
     826 webidl
-    840 yml
+    829 yml
     961 htm
-   1007 ts
    1024 java
-   1056 yaml
-   1080 toml
-   1165 idl
+   1036 ts
+   1057 yaml
+   1163 idl
+   1202 toml
    1205 xml
    1438 glif
-   1519 css
+   1520 css
    1715 md
-   1755 mjs
-   1886 headers
-   2049 rst
+   1760 mjs
+   1889 headers
+   2034 rst
    2328 build
-   2411 json
+   2421 json
    2804 a
-   3582 xhtml
-   4217 c
-   4957 svg
-   5212 cc
+   3578 xhtml
+   4218 c
+   4953 svg
+   5213 cc
    5305 png
-   5684 txt
-   8195 py
-   8796 cpp
-   9478 rs
+   5685 txt
+   8179 py
+   8793 cpp
+   9488 rs
   14572 xht
-  18742 h
-  25389 ini
-  88679 js
-  90318 html
+  18735 h
+  25320 ini
+  88737 js
+  90606 html
