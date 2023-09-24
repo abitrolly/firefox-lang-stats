@@ -242,7 +242,6 @@
       2 Dockerfile
       2 MOZILLA
       2 Mozilla
-      2 adts
       2 annexb
       2 api
       2 apng
@@ -323,6 +322,7 @@
       2 with_android_deps
       2 xpt
       2 y
+      3 adts
       3 arcconfig
       3 awk
       3 bash
@@ -362,7 +362,6 @@
       3 xib
       3 xtb
       3 xyz
-      4 0
       4 3gp
       4 babelrc
       4 ber
@@ -387,6 +386,7 @@
       4 whl
       4 yamllint
       4 yapf
+      5 0
       5 MIT
       5 ca
       5 cbor
@@ -459,9 +459,9 @@
      10 dox
      10 ent
      10 exp
-     10 flac
      10 mdb
      10 pfb
+     11 flac
      11 hash
      11 htaccess
      11 icu
@@ -574,9 +574,9 @@
      79 scss
      84 wrong
      88 sam
-     92 avif
-     94 jsm
+     93 jsm
      94 kt
+     96 avif
      96 good
      98 cmake
      98 inc
@@ -613,54 +613,54 @@
     284 mn
     294 gn
     299 ico
-    299 mp4
+    300 mp4
     304 jpg
     322 woff2
     324 asm
     337 mm
+    394 in
     394 map
-    395 in
     414 certspec
-    417 patch
-    421 ipdl
     421 pem
+    422 ipdl
+    423 patch
     439 sha1
     455 list
     598 gyp
-    631 sh
+    633 sh
     646 sjs
     669 vert
     775 hpp
     814 frag
-    826 webidl
-    829 yml
+    827 webidl
+    831 yml
     961 htm
    1024 java
    1036 ts
    1057 yaml
    1163 idl
-   1202 toml
-   1205 xml
+   1208 xml
+   1435 toml
    1438 glif
-   1520 css
-   1715 md
-   1760 mjs
+   1521 css
+   1716 md
+   1762 mjs
    1889 headers
    2034 rst
    2328 build
-   2421 json
+   2425 json
    2804 a
    3578 xhtml
    4218 c
-   4953 svg
-   5213 cc
+   4955 svg
+   5214 cc
    5305 png
    5685 txt
-   8179 py
-   8793 cpp
-   9488 rs
+   8185 py
+   8801 cpp
+   9738 rs
   14572 xht
-  18735 h
-  25320 ini
-  88737 js
-  90606 html
+  18742 h
+  25089 ini
+  88755 js
+  90643 html
