@@ -526,19 +526,20 @@
      27 mar
      28 sksl
      29 asis
-     29 bat
      30 db
+     32 bat
      32 sug
-     33 bazel
      34 typed
      35 crl
      35 opus
      35 wasm
+     36 bazel
      36 gypi
      36 keyspec
      37 cvsignore
      37 sxg
      38 exe
+     38 sqlite
      39 proto
      40 swift
      42 1
@@ -546,7 +547,6 @@
      42 vcxproj
      44 template
      49 key
-     49 sqlite
      51 glsl
      52 configure
      52 otf
@@ -560,8 +560,8 @@
      57 hyf
      57 pydeps
      59 def
-     59 ogg
      60 mozbuild
+     60 ogg
      62 m4
      66 ogv
      67 rtcp
@@ -577,17 +577,17 @@
      79 scss
      84 wrong
      88 sam
-     92 jsm
-     93 kt
+     90 jsm
+     94 kt
      96 avif
      96 good
      98 cmake
-     98 inc
-    109 lock
+     99 inc
     109 sdp
+    110 lock
     114 m
     121 aff
-    129 gni
+    130 gni
     137 cfg
     146 properties
     155 fax
@@ -612,9 +612,9 @@
     247 mk
     252 snap
     252 vtt
-    279 ttf
-    284 mn
-    294 gn
+    280 ttf
+    285 mn
+    298 gn
     299 ico
     302 mp4
     304 jpg
@@ -623,47 +623,47 @@
     337 mm
     394 map
     396 in
+    404 patch
     414 certspec
     421 pem
     422 ipdl
-    422 patch
     439 sha1
-    454 list
-    598 gyp
+    455 list
+    599 gyp
     633 sh
     646 sjs
     669 vert
     775 hpp
     814 frag
-    827 webidl
-    832 yml
+    828 webidl
+    834 yml
     961 htm
-   1024 java
+   1025 java
    1048 ts
-   1061 yaml
-   1166 idl
+   1063 yaml
+   1170 idl
    1209 xml
    1438 glif
-   1522 css
-   1522 toml
-   1756 md
-   1766 mjs
-   1889 headers
-   2039 rst
-   2328 build
-   2436 json
+   1523 css
+   1654 toml
+   1757 md
+   1776 mjs
+   1891 headers
+   2040 rst
+   2329 build
+   2438 json
    2804 a
    3578 xhtml
-   4210 c
-   4964 svg
-   5214 cc
-   5310 png
-   5699 txt
-   8216 py
-   8807 cpp
-  10208 rs
+   4211 c
+   4965 svg
+   5285 cc
+   5311 png
+   5704 txt
+   8225 py
+   8809 cpp
+  10235 rs
   14572 xht
-  18749 h
-  25043 ini
-  88813 js
-  90819 html
+  18805 h
+  24942 ini
+  88845 js
+  90921 html
