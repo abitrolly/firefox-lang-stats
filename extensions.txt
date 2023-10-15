@@ -165,7 +165,6 @@
       1 nss
       1 o
       1 order
-      1 orig
       1 os4
       1 out
       1 pas
@@ -216,7 +215,7 @@
       1 utf16be
       1 v8
       1 visualizer
-      1 vpython
+      1 vpython3
       1 vs
       1 vsprops
       1 webapp
@@ -291,6 +290,7 @@
       2 nmake
       2 nvmrc
       2 old
+      2 orig
       2 override
       2 pac
       2 pb
@@ -317,7 +317,6 @@
       2 tst
       2 tt
       2 version
-      2 vpython3
       2 watchmanconfig
       2 win32
       2 with_android_deps
@@ -500,11 +499,11 @@
      18 aidl
      18 chromium
      18 wbn
-     19 diff
      19 stun
      19 tbs
      19 vcproj
      20 cs
+     20 diff
      20 mdns
      20 sln
      21 gradle
@@ -538,9 +537,9 @@
      36 keyspec
      37 cvsignore
      37 sxg
-     38 exe
      38 sqlite
      39 proto
+     40 exe
      40 swift
      42 1
      42 bin
@@ -567,11 +566,11 @@
      67 rtcp
      71 dat
      71 plist
-     73 gitignore
      73 ipdlh
+     74 gitignore
      74 xpi
      75 rc
-     75 wav
+     77 wav
      78 crt
      78 s
      79 scss
@@ -579,8 +578,8 @@
      88 sam
      90 jsm
      94 kt
-     96 avif
      96 good
+     97 avif
      98 cmake
      99 inc
     109 sdp
@@ -588,8 +587,8 @@
     114 m
     121 aff
     130 gni
-    137 cfg
-    146 properties
+    136 cfg
+    145 properties
     155 fax
     157 req
     161 jsx
@@ -599,7 +598,7 @@
     166 dic
     167 zip
     168 bcmap
-    174 webm
+    172 webm
     184 m4s
     188 S
     198 ucm
@@ -610,60 +609,60 @@
     241 hh
     246 manifest
     247 mk
-    252 snap
+    251 snap
     252 vtt
     280 ttf
     285 mn
-    298 gn
+    297 gn
     299 ico
-    302 mp4
     304 jpg
+    309 mp4
     322 woff2
     324 asm
     337 mm
-    394 map
-    396 in
-    404 patch
+    364 map
+    395 in
+    403 patch
     414 certspec
     421 pem
     422 ipdl
     439 sha1
     455 list
     599 gyp
-    633 sh
+    634 sh
     646 sjs
     669 vert
     775 hpp
     814 frag
     828 webidl
-    834 yml
+    835 yml
     961 htm
    1025 java
-   1048 ts
-   1063 yaml
+   1066 yaml
    1170 idl
    1209 xml
+   1214 ts
    1438 glif
    1523 css
-   1654 toml
-   1757 md
-   1776 mjs
+   1701 toml
+   1759 md
+   1784 mjs
    1891 headers
-   2040 rst
-   2329 build
-   2438 json
+   2041 rst
+   2331 build
+   2444 json
    2804 a
    3578 xhtml
-   4211 c
-   4965 svg
-   5285 cc
-   5311 png
-   5704 txt
-   8225 py
-   8809 cpp
-  10235 rs
+   4221 c
+   4966 svg
+   5286 cc
+   5324 png
+   5699 txt
+   8305 py
+   8817 cpp
+  10236 rs
   14572 xht
-  18805 h
-  24942 ini
-  88845 js
-  90921 html
+  18814 h
+  24921 ini
+  89011 js
+  90972 html
