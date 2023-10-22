@@ -337,7 +337,6 @@
       3 ivf
       3 jpeg
       3 l
-      3 log
       3 lst
       3 max
       3 natvis
@@ -394,7 +393,6 @@
       5 cbor
       5 chunk
       5 common
-      5 csv
       5 dict
       5 eventsource
       5 favdb
@@ -429,6 +427,7 @@
       7 ac
       7 eslintignore
       7 har
+      7 log
       7 msg
       7 pbxproj
       7 pcm
@@ -440,7 +439,9 @@
       8 3
       8 aac
       8 coveragerc
+      8 csv
       8 desktop
+      8 dfa
       8 grd
       8 hash
       8 hgignore
@@ -481,11 +482,11 @@
      13 postcard
      13 rtp
      13 ttx
-     14 gz
      14 nib
      14 rdf
      14 text
      14 udl
+     15 gz
      15 hxx
      15 icns
      15 pyl
@@ -566,8 +567,8 @@
      67 rtcp
      71 dat
      71 plist
+     72 gitignore
      73 ipdlh
-     74 gitignore
      74 xpi
      75 rc
      77 wav
@@ -582,8 +583,8 @@
      97 avif
      98 cmake
      99 inc
+    109 lock
     109 sdp
-    110 lock
     114 m
     121 aff
     130 gni
@@ -604,19 +605,19 @@
     198 ucm
     203 gif
     207 bmp
-    225 ftl
+    227 ftl
     233 test
     241 hh
     246 manifest
     247 mk
-    251 snap
+    249 snap
     252 vtt
     280 ttf
     285 mn
     297 gn
     299 ico
     304 jpg
-    309 mp4
+    311 mp4
     322 woff2
     324 asm
     337 mm
@@ -629,40 +630,40 @@
     439 sha1
     455 list
     599 gyp
-    634 sh
+    635 sh
     646 sjs
     669 vert
     775 hpp
     814 frag
     828 webidl
-    835 yml
+    829 yml
     961 htm
    1025 java
-   1066 yaml
+   1067 yaml
    1170 idl
    1209 xml
    1214 ts
    1438 glif
-   1523 css
-   1701 toml
-   1759 md
-   1784 mjs
+   1521 css
+   1730 toml
+   1761 md
+   1787 mjs
    1891 headers
    2041 rst
    2331 build
-   2444 json
+   2445 json
    2804 a
    3578 xhtml
    4221 c
-   4966 svg
-   5286 cc
+   4969 svg
+   5288 cc
    5324 png
-   5699 txt
-   8305 py
-   8817 cpp
-  10236 rs
+   5697 txt
+   8303 py
+   8824 cpp
+  10378 rs
   14572 xht
-  18814 h
-  24921 ini
-  89011 js
-  90972 html
+  18832 h
+  24899 ini
+  89027 js
+  90985 html
