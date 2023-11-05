@@ -402,7 +402,6 @@
       5 il
       5 install
       5 jshintrc
-      5 jxl
       5 ksh
       5 libaom
       5 mailmap
@@ -417,6 +416,7 @@
       6 com
       6 coverage
       6 eot
+      6 jxl
       6 kts
       6 metallib
       6 mf
@@ -503,12 +503,12 @@
      19 tbs
      19 vcproj
      20 cs
-     20 diff
      20 mdns
      20 sln
      21 gradle
      21 options
      21 rb
+     22 diff
      22 xsl
      23 blb
      23 dtd
@@ -562,11 +562,11 @@
      60 mozbuild
      60 ogg
      62 m4
-     66 ogv
+     63 ogv
      67 rtcp
      71 dat
      71 plist
-     73 gitignore
+     72 gitignore
      73 ipdlh
      74 xpi
      75 rc
@@ -575,7 +575,7 @@
      78 s
      79 scss
      84 wrong
-     88 jsm
+     86 jsm
      88 sam
      94 kt
      96 good
@@ -583,7 +583,7 @@
      98 cmake
     100 inc
     109 sdp
-    110 lock
+    111 lock
     113 m
     121 aff
     130 gni
@@ -594,8 +594,8 @@
     162 jsx
     164 stderr
     164 woff
-    166 conf
     166 dic
+    167 conf
     167 zip
     168 bcmap
     172 webm
@@ -609,10 +609,10 @@
     241 hh
     246 manifest
     247 mk
-    249 snap
+    248 snap
     252 vtt
     280 ttf
-    285 mn
+    286 mn
     297 gn
     299 ico
     304 jpg
@@ -625,7 +625,7 @@
     405 patch
     414 certspec
     421 pem
-    423 ipdl
+    422 ipdl
     439 sha1
     455 list
     599 gyp
@@ -636,33 +636,33 @@
     814 frag
     827 webidl
     827 yml
-    959 htm
+    961 htm
    1018 java
-   1069 yaml
-   1172 idl
+   1067 yaml
+   1173 idl
    1209 xml
    1214 ts
    1438 glif
-   1515 css
+   1514 css
    1760 md
    1783 toml
-   1789 mjs
+   1793 mjs
    1899 headers
-   2041 rst
-   2331 build
-   2445 json
+   2042 rst
+   2335 build
+   2447 json
    2804 a
    3577 xhtml
    4221 c
    4974 svg
-   5307 cc
-   5326 png
-   5700 txt
-   8318 py
-   8818 cpp
-  10318 rs
+   5308 cc
+   5328 png
+   5702 txt
+   8304 py
+   8822 cpp
+  10319 rs
   14572 xht
-  18832 h
-  24885 ini
-  89047 js
-  91169 html
+  18837 h
+  24914 ini
+  89249 js
+  91321 html
