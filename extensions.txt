@@ -159,6 +159,7 @@
       1 mp2
       1 mycert2
       1 myspell
+      1 nojekyll
       1 noserc
       1 npmignore
       1 nss
@@ -378,6 +379,7 @@
       4 jsonld
       4 libvpx
       4 lnk
+      4 nrm
       4 pc
       4 pxd
       4 stash
@@ -405,7 +407,6 @@
       5 libaom
       5 mailmap
       5 mpd
-      5 nrm
       5 nsh
       5 oga
       5 sfx
@@ -503,18 +504,18 @@
      19 tbs
      19 vcproj
      20 cs
-     20 diff
      20 mdns
      20 sln
      21 gradle
      21 options
      21 rb
+     22 diff
      22 xsl
      23 blb
      23 dtd
-     23 jinja2
      24 der
      24 filters
+     24 jinja2
      25 cur
      26 dll
      26 es5
@@ -570,9 +571,9 @@
      73 ipdlh
      74 xpi
      75 rc
-     77 wav
      78 crt
      78 s
+     78 wav
      79 scss
      83 jsm
      84 wrong
@@ -583,7 +584,7 @@
      98 cmake
     100 inc
     109 sdp
-    111 lock
+    110 lock
     113 m
     121 aff
     130 gni
@@ -604,7 +605,7 @@
     198 ucm
     203 gif
     207 bmp
-    228 ftl
+    231 ftl
     233 test
     241 hh
     246 manifest
@@ -619,50 +620,50 @@
     312 mp4
     322 woff2
     324 asm
-    337 mm
+    338 mm
     364 map
     395 in
     405 patch
     414 certspec
     421 pem
-    422 ipdl
+    423 ipdl
     439 sha1
     455 list
     599 gyp
     635 sh
     647 sjs
     669 vert
-    775 hpp
+    777 hpp
     814 frag
-    821 yml
+    822 yml
     829 webidl
     961 htm
-   1018 java
-   1066 yaml
+   1020 java
+   1070 yaml
    1172 idl
    1209 xml
    1214 ts
    1438 glif
    1515 css
-   1767 md
-   1781 toml
-   1796 mjs
+   1770 md
+   1785 toml
+   1798 mjs
    1900 headers
-   2042 rst
-   2335 build
-   2460 json
+   2044 rst
+   2336 build
+   2472 json
    2804 a
    3577 xhtml
-   4221 c
-   4973 svg
-   5307 cc
+   4223 c
+   4975 svg
+   5308 cc
    5328 png
-   5986 txt
-   8315 py
-   8823 cpp
-  10317 rs
+   5703 txt
+   8317 py
+   8825 cpp
+  10332 rs
   14572 xht
-  18838 h
-  24914 ini
-  89431 js
-  91377 html
+  18845 h
+  24899 ini
+  89447 js
+  91401 html
