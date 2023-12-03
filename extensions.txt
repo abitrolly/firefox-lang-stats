@@ -58,6 +58,7 @@
       1 blah
       1 bp
       1 browser
+      1 browserslistrc
       1 bs
       1 cin
       1 client
@@ -91,6 +92,7 @@
       1 extra
       1 fea
       1 feature
+      1 font
       1 fontified
       1 fragment
       1 freetype
@@ -173,6 +175,7 @@
       1 pkcs12spec
       1 pkg
       1 pm
+      1 prettierrc
       1 pri
       1 pth
       1 pxi
@@ -194,7 +197,6 @@
       1 stabs
       1 stdcxx
       1 styl
-      1 stylelintignore
       1 svgz
       1 symlink
       1 targets
@@ -207,6 +209,7 @@
       1 tlb
       1 trackerignore
       1 tsan
+      1 tsv
       1 tsx
       1 ttc
       1 unix
@@ -266,14 +269,12 @@
       2 dump
       2 el
       2 elm
-      2 eslintrc
       2 event_stream
       2 ext
       2 features
       2 filter
       2 flags
       2 flat
-      2 font
       2 foo
       2 fst
       2 geojson
@@ -299,7 +300,6 @@
       2 pgen
       2 php
       2 pif
-      2 prettierignore
       2 printvars
       2 pro
       2 pub
@@ -308,6 +308,7 @@
       2 sb
       2 so
       2 star
+      2 stylelintignore
       2 syms
       2 tag
       2 tbl
@@ -336,14 +337,13 @@
       3 gencc
       3 info
       3 ivf
-      3 jpeg
       3 l
       3 lst
       3 max
       3 natvis
       3 nix
-      3 npmrc
       3 pfx
+      3 prettierignore
       3 ps1
       3 psd
       3 pubkey
@@ -360,7 +360,6 @@
       3 url
       3 uxf
       3 vs2019
-      3 vue
       3 wrap
       3 xib
       3 xtb
@@ -375,14 +374,17 @@
       4 i
       4 in0
       4 in1
+      4 jpeg
       4 jsonld
       4 libvpx
       4 lnk
+      4 npmrc
       4 nrm
       4 pc
       4 pxd
       4 stash
       4 stdout
+      4 svelte
       4 sym
       4 whl
       4 yamllint
@@ -415,6 +417,7 @@
       6 com
       6 coverage
       6 eot
+      6 eslintrc
       6 kts
       6 metallib
       6 mf
@@ -426,7 +429,6 @@
       7 APACHE
       7 ac
       7 coveragerc
-      7 eslintignore
       7 har
       7 log
       7 msg
@@ -439,9 +441,9 @@
       7 storyboard
       8 3
       8 aac
-      8 csv
       8 desktop
       8 dfa
+      8 eslintignore
       8 grd
       8 hash
       8 hgignore
@@ -451,13 +453,14 @@
       8 rl
       8 settings
       8 tar
-      9 cjs
       9 jar
       9 metal
       9 pump
       9 strings
       9 xcconfig
      10 TXT
+     10 cjs
+     10 csv
      10 data
      10 dox
      10 ent
@@ -478,11 +481,11 @@
      12 nsi
      13 TTF
      13 bas
-     13 editorconfig
      13 postcard
      13 rtp
      13 symbols
      13 ttx
+     14 editorconfig
      14 nib
      14 rdf
      14 udl
@@ -511,9 +514,9 @@
      21 options
      21 rb
      22 diff
-     22 xsl
      23 blb
      23 dtd
+     23 xsl
      24 der
      24 filters
      24 jinja2
@@ -523,11 +526,11 @@
      26 es6
      26 pdf
      26 webp
+     27 asis
      27 mar
      28 sksl
-     29 gitkeep
-     30 asis
      30 db
+     30 gitkeep
      32 sug
      35 bat
      35 crl
@@ -547,6 +550,7 @@
      42 bin
      42 vcxproj
      44 template
+     44 vue
      50 key
      51 glsl
      52 configure
@@ -570,43 +574,43 @@
      71 plist
      73 ipdlh
      74 xpi
-     75 gitignore
      75 rc
      78 s
      79 crt
      79 scss
      79 wav
-     82 jsm
+     81 jsm
+     83 gitignore
      84 wrong
      88 sam
-     95 kt
      96 avif
      96 good
+     96 kt
      98 cmake
     100 inc
-    108 lock
+    109 lock
     109 sdp
     113 m
     121 aff
     130 gni
     136 cfg
-    144 properties
+    143 properties
     155 fax
     157 req
-    160 jsx
     164 stderr
     164 woff
     166 dic
     167 zip
     168 bcmap
-    168 conf
+    169 conf
     172 webm
     184 m4s
     188 S
     198 ucm
     203 gif
     207 bmp
-    232 ftl
+    230 jsx
+    233 ftl
     233 test
     241 hh
     247 mk
@@ -614,57 +618,57 @@
     248 snap
     252 vtt
     280 ttf
-    286 mn
+    287 mn
     297 gn
-    299 ico
-    305 jpg
+    306 ico
+    310 jpg
     312 mp4
     322 woff2
     324 asm
     338 mm
-    364 map
-    395 in
-    407 patch
-    414 certspec
-    421 pem
+    389 map
+    396 in
+    411 patch
+    418 certspec
     423 ipdl
+    425 pem
     439 sha1
     455 list
     599 gyp
-    639 sh
-    647 sjs
+    640 sh
+    649 sjs
     669 vert
     777 hpp
     814 frag
-    826 yml
     830 webidl
+    836 yml
     961 htm
    1021 java
-   1075 yaml
-   1175 idl
-   1211 xml
-   1225 ts
+   1077 yaml
+   1174 idl
+   1212 xml
+   1251 ts
    1438 glif
-   1518 css
-   1772 md
-   1807 mjs
-   1902 headers
-   1921 toml
-   2053 rst
-   2342 build
+   1693 css
+   1810 md
+   1828 mjs
+   1900 headers
+   2050 toml
+   2054 rst
+   2344 build
    2804 a
-   2860 json
-   3579 xhtml
+   2992 json
+   3578 xhtml
    4224 c
-   4973 svg
-   5325 cc
-   5377 png
-   5702 txt
-   8348 py
-   8828 cpp
-  10357 rs
+   5000 svg
+   5326 cc
+   5401 png
+   5714 txt
+   8356 py
+   8829 cpp
+  10362 rs
   14575 xht
-  18859 h
-  24905 ini
-  89565 js
-  91690 html
+  18863 h
+  24794 ini
+  89998 js
+  91771 html
