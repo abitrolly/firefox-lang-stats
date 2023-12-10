@@ -175,6 +175,7 @@
       1 pkcs12spec
       1 pkg
       1 pm
+      1 postcard
       1 prettierrc
       1 pri
       1 pth
@@ -224,7 +225,6 @@
       1 webrender
       1 webrtc
       1 webvtt
-      1 wgsl
       1 word
       1 wxs
       1 xcf
@@ -292,7 +292,6 @@
       2 nmake
       2 nvmrc
       2 old
-      2 orig
       2 override
       2 pac
       2 pb
@@ -320,6 +319,7 @@
       2 tt
       2 version
       2 watchmanconfig
+      2 wgsl
       2 win32
       2 with_android_deps
       2 xpt
@@ -342,6 +342,7 @@
       3 max
       3 natvis
       3 nix
+      3 orig
       3 pfx
       3 prettierignore
       3 ps1
@@ -441,6 +442,7 @@
       7 storyboard
       8 3
       8 aac
+      8 data
       8 desktop
       8 dfa
       8 eslintignore
@@ -461,7 +463,6 @@
      10 TXT
      10 cjs
      10 csv
-     10 data
      10 dox
      10 ent
      10 exp
@@ -481,7 +482,6 @@
      12 nsi
      13 TTF
      13 bas
-     13 postcard
      13 rtp
      13 symbols
      13 ttx
@@ -524,15 +524,14 @@
      26 dll
      26 es5
      26 es6
-     26 pdf
      26 webp
      27 asis
      27 mar
+     27 pdf
      28 sksl
      30 db
      30 gitkeep
      32 sug
-     35 bat
      35 crl
      35 opus
      35 typed
@@ -540,6 +539,7 @@
      36 bazel
      36 gypi
      36 keyspec
+     37 bat
      37 cvsignore
      37 sxg
      38 sqlite
@@ -573,14 +573,13 @@
      71 dat
      71 plist
      73 ipdlh
-     74 xpi
      75 rc
+     75 scss
+     75 xpi
      78 s
      79 crt
-     79 scss
      79 wav
      81 jsm
-     83 gitignore
      84 wrong
      88 sam
      96 avif
@@ -588,8 +587,9 @@
      96 kt
      98 cmake
     100 inc
-    109 lock
+    102 gitignore
     109 sdp
+    111 lock
     113 m
     121 aff
     130 gni
@@ -600,26 +600,26 @@
     164 stderr
     164 woff
     166 dic
-    167 zip
     168 bcmap
+    168 zip
     169 conf
     172 webm
     184 m4s
     188 S
     198 ucm
-    203 gif
+    204 gif
     207 bmp
-    230 jsx
-    233 ftl
+    210 jsx
     233 test
+    234 ftl
     241 hh
     247 mk
     248 manifest
-    248 snap
     252 vtt
+    254 snap
     280 ttf
     287 mn
-    297 gn
+    298 gn
     306 ico
     310 jpg
     312 mp4
@@ -628,7 +628,7 @@
     338 mm
     389 map
     396 in
-    411 patch
+    413 patch
     418 certspec
     423 ipdl
     425 pem
@@ -638,37 +638,37 @@
     640 sh
     649 sjs
     669 vert
-    777 hpp
+    790 hpp
     814 frag
-    830 webidl
-    836 yml
+    832 webidl
+    837 yml
     961 htm
    1021 java
-   1077 yaml
+   1078 yaml
    1174 idl
    1212 xml
-   1251 ts
+   1269 ts
    1438 glif
-   1693 css
-   1810 md
-   1828 mjs
+   1692 css
+   1815 md
+   1839 mjs
    1900 headers
-   2050 toml
-   2054 rst
-   2344 build
+   2054 toml
+   2140 rst
+   2345 build
    2804 a
-   2992 json
+   2996 json
    3578 xhtml
-   4224 c
+   4231 c
    5000 svg
    5326 cc
-   5401 png
+   5403 png
    5714 txt
-   8356 py
-   8829 cpp
-  10362 rs
+   8363 py
+   8846 cpp
+  10378 rs
   14575 xht
-  18863 h
-  24794 ini
-  89998 js
-  91771 html
+  18915 h
+  24725 ini
+  90033 js
+  91807 html
