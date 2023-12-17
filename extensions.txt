@@ -105,7 +105,6 @@
       1 gnu
       1 gpg
       1 grdp
-      1 groupproj
       1 haz_shell
       1 hdr
       1 hgempty
@@ -329,7 +328,6 @@
       3 awk
       3 bash
       3 cache
-      3 cbproj
       3 cfs_period_us
       3 cfs_quota_us
       3 gcc
@@ -362,6 +360,7 @@
       3 uxf
       3 vs2019
       3 wrap
+      3 xcconfig
       3 xib
       3 xtb
       3 xyz
@@ -410,9 +409,12 @@
       5 mpd
       5 nsh
       5 oga
+      5 pbxproj
+      5 pump
       5 sfx
       5 sub
       5 targ
+      6 ac
       6 avifs
       6 cmd
       6 com
@@ -428,12 +430,10 @@
       6 t
       6 ver
       7 APACHE
-      7 ac
       7 coveragerc
       7 har
       7 log
       7 msg
-      7 pbxproj
       7 pcm
       7 pod
       7 pyx
@@ -457,9 +457,7 @@
       8 tar
       9 jar
       9 metal
-      9 pump
       9 strings
-      9 xcconfig
      10 TXT
      10 cjs
      10 csv
@@ -475,6 +473,7 @@
      11 icu
      11 p12
      11 tmpl
+     11 vcproj
      12 hbs
      12 jinja
      12 mak
@@ -493,28 +492,27 @@
      15 icns
      15 pyl
      15 res
+     16 am
      16 gz
      16 icc
      16 text
-     17 am
      17 cxx
      17 dsp
      17 dsw
      17 resource
      18 aidl
      18 chromium
+     18 sln
      18 wbn
      19 stun
      19 tbs
-     19 vcproj
      20 cs
      20 mdns
-     20 sln
      21 gradle
      21 options
      21 rb
-     22 diff
      23 blb
+     23 diff
      23 dtd
      23 xsl
      24 der
@@ -524,13 +522,13 @@
      26 dll
      26 es5
      26 es6
-     26 webp
      27 asis
      27 mar
      27 pdf
+     27 webp
      28 sksl
-     30 db
      30 gitkeep
+     31 db
      32 sug
      35 crl
      35 opus
@@ -565,17 +563,17 @@
      57 hyf
      57 pydeps
      59 def
+     60 m4
      60 mozbuild
      60 ogg
-     62 m4
      63 ogv
      67 rtcp
+     69 plist
      71 dat
-     71 plist
      73 ipdlh
      75 rc
-     75 scss
      75 xpi
+     76 scss
      78 s
      79 crt
      79 wav
@@ -585,16 +583,16 @@
      96 avif
      96 good
      96 kt
-     98 cmake
+     97 cmake
     100 inc
     102 gitignore
     109 sdp
-    111 lock
+    112 lock
     113 m
     121 aff
     130 gni
     136 cfg
-    143 properties
+    142 properties
     155 fax
     157 req
     164 stderr
@@ -609,25 +607,25 @@
     198 ucm
     204 gif
     207 bmp
-    210 jsx
+    213 jsx
     233 test
-    234 ftl
+    238 ftl
     241 hh
     247 mk
-    248 manifest
     252 vtt
     254 snap
+    260 manifest
     280 ttf
-    287 mn
+    288 mn
     298 gn
     306 ico
     310 jpg
-    312 mp4
+    315 mp4
     322 woff2
     324 asm
     338 mm
     389 map
-    396 in
+    395 in
     413 patch
     418 certspec
     423 ipdl
@@ -635,40 +633,40 @@
     439 sha1
     455 list
     599 gyp
-    640 sh
+    639 sh
     649 sjs
     669 vert
-    790 hpp
+    807 hpp
     814 frag
     832 webidl
-    837 yml
+    839 yml
     961 htm
    1021 java
-   1078 yaml
-   1174 idl
+   1077 yaml
+   1175 idl
    1212 xml
    1269 ts
    1438 glif
-   1692 css
-   1815 md
+   1693 css
+   1817 md
    1839 mjs
-   1900 headers
-   2054 toml
+   1902 headers
    2140 rst
-   2345 build
+   2151 toml
+   2346 build
    2804 a
-   2996 json
+   3003 json
    3578 xhtml
-   4231 c
-   5000 svg
-   5326 cc
-   5403 png
-   5714 txt
-   8363 py
-   8846 cpp
-  10378 rs
+   4230 c
+   5008 svg
+   5258 cc
+   5404 png
+   5711 txt
+   8358 py
+   8854 cpp
+  10409 rs
   14575 xht
-  18915 h
-  24725 ini
-  90033 js
-  91807 html
+  18891 h
+  24732 ini
+  90156 js
+  92090 html
