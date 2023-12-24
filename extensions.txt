@@ -340,7 +340,6 @@
       3 max
       3 natvis
       3 nix
-      3 orig
       3 pfx
       3 prettierignore
       3 ps1
@@ -527,8 +526,8 @@
      27 pdf
      27 webp
      28 sksl
+     29 db
      30 gitkeep
-     31 db
      32 sug
      35 crl
      35 opus
@@ -590,7 +589,7 @@
     112 lock
     113 m
     121 aff
-    130 gni
+    131 gni
     136 cfg
     142 properties
     155 fax
@@ -609,14 +608,14 @@
     207 bmp
     213 jsx
     233 test
-    238 ftl
+    239 ftl
     241 hh
     247 mk
     252 vtt
     254 snap
     260 manifest
     280 ttf
-    288 mn
+    289 mn
     298 gn
     306 ico
     310 jpg
@@ -626,7 +625,7 @@
     338 mm
     389 map
     395 in
-    413 patch
+    416 patch
     418 certspec
     423 ipdl
     425 pem
@@ -638,35 +637,35 @@
     669 vert
     807 hpp
     814 frag
-    832 webidl
-    839 yml
+    833 webidl
+    862 yml
     961 htm
    1021 java
-   1077 yaml
+   1078 yaml
    1175 idl
    1212 xml
-   1269 ts
+   1274 ts
    1438 glif
    1693 css
-   1817 md
+   1816 md
    1839 mjs
    1902 headers
-   2140 rst
-   2151 toml
+   2143 rst
+   2150 toml
    2346 build
    2804 a
-   3003 json
-   3578 xhtml
-   4230 c
-   5008 svg
+   3004 json
+   3576 xhtml
+   4233 c
+   5010 svg
    5258 cc
-   5404 png
-   5711 txt
-   8358 py
-   8854 cpp
-  10409 rs
+   5413 png
+   5710 txt
+   8375 py
+   8866 cpp
+  10408 rs
   14575 xht
-  18891 h
-  24732 ini
-  90156 js
-  92090 html
+  18903 h
+  24731 ini
+  90170 js
+  92117 html
