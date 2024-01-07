@@ -157,6 +157,7 @@
       1 moz
       1 mp
       1 mp2
+      1 mts
       1 mycert2
       1 myspell
       1 nojekyll
@@ -291,6 +292,7 @@
       2 nmake
       2 nvmrc
       2 old
+      2 orig
       2 override
       2 pac
       2 pb
@@ -339,7 +341,6 @@
       3 lst
       3 max
       3 natvis
-      3 nix
       3 pfx
       3 prettierignore
       3 ps1
@@ -377,6 +378,7 @@
       4 jsonld
       4 libvpx
       4 lnk
+      4 nix
       4 npmrc
       4 nrm
       4 pc
@@ -533,10 +535,10 @@
      35 opus
      35 typed
      35 wasm
-     36 bazel
      36 gypi
      36 keyspec
      37 bat
+     37 bazel
      37 cvsignore
      37 sxg
      38 sqlite
@@ -561,7 +563,7 @@
      55 webmanifest
      57 hyf
      57 pydeps
-     59 def
+     60 def
      60 m4
      60 mozbuild
      60 ogg
@@ -586,29 +588,29 @@
     100 inc
     102 gitignore
     109 sdp
-    112 lock
     113 m
+    114 lock
     121 aff
     131 gni
     136 cfg
     142 properties
     155 fax
     157 req
-    164 stderr
     164 woff
     166 dic
     168 bcmap
     168 zip
     169 conf
     172 webm
+    173 stderr
     184 m4s
     188 S
     198 ucm
     204 gif
     207 bmp
-    213 jsx
+    214 jsx
     233 test
-    239 ftl
+    240 ftl
     241 hh
     247 mk
     252 vtt
@@ -624,48 +626,48 @@
     324 asm
     338 mm
     389 map
-    395 in
-    416 patch
+    396 in
+    417 patch
     418 certspec
     423 ipdl
     425 pem
     439 sha1
-    455 list
+    456 list
     599 gyp
     639 sh
-    649 sjs
+    648 sjs
     669 vert
     807 hpp
     814 frag
     833 webidl
-    862 yml
+    866 yml
     961 htm
    1021 java
-   1078 yaml
+   1079 yaml
    1175 idl
    1212 xml
-   1274 ts
+   1277 ts
    1438 glif
    1693 css
-   1816 md
-   1839 mjs
-   1902 headers
+   1818 md
+   1849 mjs
+   1903 headers
    2143 rst
-   2150 toml
-   2346 build
+   2173 toml
+   2348 build
    2804 a
-   3004 json
+   3014 json
    3576 xhtml
-   4233 c
-   5010 svg
+   4239 c
+   5012 svg
    5258 cc
    5413 png
-   5710 txt
-   8375 py
-   8868 cpp
-  10408 rs
+   5711 txt
+   8376 py
+   8883 cpp
+  10424 rs
   14575 xht
-  18904 h
-  24729 ini
+  18924 h
+  25053 ini
   90174 js
-  92124 html
+  92539 html
