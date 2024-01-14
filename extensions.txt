@@ -525,9 +525,9 @@
      26 es6
      27 asis
      27 mar
-     27 pdf
-     27 webp
+     28 pdf
      28 sksl
+     28 webp
      29 db
      30 gitkeep
      32 sug
@@ -589,7 +589,7 @@
     102 gitignore
     109 sdp
     113 m
-    114 lock
+    115 lock
     121 aff
     131 gni
     136 cfg
@@ -617,11 +617,11 @@
     254 snap
     260 manifest
     280 ttf
-    289 mn
+    290 mn
     298 gn
     306 ico
-    310 jpg
     315 mp4
+    316 jpg
     322 woff2
     324 asm
     338 mm
@@ -643,31 +643,31 @@
     866 yml
     961 htm
    1021 java
-   1079 yaml
+   1081 yaml
    1175 idl
    1212 xml
    1277 ts
    1438 glif
    1693 css
-   1818 md
-   1849 mjs
+   1821 md
+   1845 mjs
    1903 headers
-   2143 rst
-   2173 toml
-   2348 build
+   2144 rst
+   2214 toml
+   2350 build
    2804 a
-   3014 json
+   3058 json
    3576 xhtml
-   4239 c
+   4238 c
    5012 svg
    5258 cc
-   5413 png
-   5711 txt
-   8376 py
-   8883 cpp
-  10424 rs
+   5417 png
+   5712 txt
+   8381 py
+   8882 cpp
+  10429 rs
   14575 xht
   18924 h
-  25053 ini
-  90174 js
-  92539 html
+  25041 ini
+  90217 js
+  92594 html
