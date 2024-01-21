@@ -179,6 +179,7 @@
       1 prettierrc
       1 pri
       1 pth
+      1 pump
       1 pxi
       1 pylintrc
       1 raw
@@ -338,6 +339,7 @@
       3 info
       3 ivf
       3 l
+      3 libvpx
       3 lst
       3 max
       3 natvis
@@ -376,7 +378,6 @@
       4 in1
       4 jpeg
       4 jsonld
-      4 libvpx
       4 lnk
       4 nix
       4 npmrc
@@ -397,7 +398,6 @@
       5 cbor
       5 chunk
       5 common
-      5 dict
       5 eventsource
       5 favdb
       5 guess
@@ -405,13 +405,11 @@
       5 install
       5 jshintrc
       5 ksh
-      5 libaom
       5 mailmap
       5 mpd
       5 nsh
       5 oga
       5 pbxproj
-      5 pump
       5 sfx
       5 sub
       5 targ
@@ -420,6 +418,7 @@
       6 cmd
       6 com
       6 coverage
+      6 dict
       6 eot
       6 eslintrc
       6 kts
@@ -433,6 +432,7 @@
       7 APACHE
       7 coveragerc
       7 har
+      7 libaom
       7 log
       7 msg
       7 pcm
@@ -455,19 +455,19 @@
       8 props
       8 rl
       8 settings
-      8 tar
       9 jar
       9 metal
       9 strings
+      9 tar
      10 TXT
      10 cjs
      10 csv
-     10 dox
      10 ent
      10 exp
      10 gitattributes
      10 jxl
      10 mdb
+     10 mozilla
      10 pfb
      11 flac
      11 htaccess
@@ -475,10 +475,10 @@
      11 p12
      11 tmpl
      11 vcproj
+     12 dox
      12 hbs
      12 jinja
      12 mak
-     12 mozilla
      12 nsi
      13 TTF
      13 bas
@@ -569,12 +569,12 @@
      60 ogg
      63 ogv
      67 rtcp
-     69 plist
+     68 plist
      71 dat
      73 ipdlh
      75 rc
-     75 xpi
      76 scss
+     77 xpi
      78 s
      79 crt
      79 wav
@@ -584,27 +584,27 @@
      96 avif
      96 good
      96 kt
-     97 cmake
-    100 inc
+    101 inc
+    102 cmake
     102 gitignore
     109 sdp
     113 m
-    115 lock
+    116 lock
     121 aff
     131 gni
-    136 cfg
+    137 cfg
     142 properties
     155 fax
     157 req
     164 woff
     166 dic
+    166 zip
     168 bcmap
-    168 zip
     169 conf
     172 webm
     173 stderr
     184 m4s
-    188 S
+    187 S
     198 ucm
     204 gif
     207 bmp
@@ -612,7 +612,7 @@
     233 test
     240 ftl
     241 hh
-    247 mk
+    246 mk
     252 vtt
     254 snap
     260 manifest
@@ -622,52 +622,52 @@
     306 ico
     315 mp4
     316 jpg
+    319 asm
     322 woff2
-    324 asm
     338 mm
-    389 map
-    396 in
-    417 patch
+    390 map
+    402 in
     418 certspec
-    423 ipdl
+    418 patch
     425 pem
+    428 ipdl
     439 sha1
     456 list
     599 gyp
-    639 sh
+    641 sh
     648 sjs
     669 vert
     807 hpp
     814 frag
-    833 webidl
-    866 yml
+    834 webidl
+    869 yml
     961 htm
    1021 java
-   1081 yaml
+   1082 yaml
    1175 idl
    1212 xml
    1277 ts
    1438 glif
    1693 css
-   1821 md
-   1845 mjs
-   1903 headers
-   2144 rst
-   2214 toml
-   2350 build
+   1828 md
+   1847 mjs
+   1904 headers
+   2149 rst
+   2212 toml
+   2349 build
    2804 a
-   3058 json
-   3576 xhtml
-   4238 c
-   5012 svg
-   5258 cc
-   5417 png
-   5712 txt
-   8381 py
+   3062 json
+   3575 xhtml
+   4380 c
+   5044 svg
+   5324 cc
+   5427 png
+   5714 txt
+   8404 py
    8882 cpp
-  10429 rs
+  10420 rs
   14575 xht
-  18924 h
-  25041 ini
-  90217 js
-  92594 html
+  19007 h
+  25098 ini
+  90237 js
+  92651 html
