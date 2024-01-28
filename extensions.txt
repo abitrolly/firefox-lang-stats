@@ -452,6 +452,7 @@
       8 hgignore
       8 m3u8
       8 morph
+      8 mozilla
       8 props
       8 rl
       8 settings
@@ -467,7 +468,6 @@
      10 gitattributes
      10 jxl
      10 mdb
-     10 mozilla
      10 pfb
      11 flac
      11 htaccess
@@ -488,11 +488,11 @@
      14 editorconfig
      14 nib
      14 rdf
-     14 udl
      15 hxx
      15 icns
      15 pyl
      15 res
+     15 udl
      16 am
      16 gz
      16 icc
@@ -509,9 +509,9 @@
      19 tbs
      20 cs
      20 mdns
-     21 gradle
      21 options
      21 rb
+     22 gradle
      23 blb
      23 diff
      23 dtd
@@ -534,9 +534,9 @@
      35 crl
      35 opus
      35 typed
-     35 wasm
      36 gypi
      36 keyspec
+     36 wasm
      37 bat
      37 bazel
      37 cvsignore
@@ -575,21 +575,21 @@
      75 rc
      76 scss
      77 xpi
+     78 jsm
      78 s
      79 crt
      79 wav
-     81 jsm
      84 wrong
      88 sam
      96 avif
      96 good
-     96 kt
+     98 kt
     101 inc
     102 cmake
-    102 gitignore
+    103 gitignore
     109 sdp
     113 m
-    116 lock
+    115 lock
     121 aff
     131 gni
     137 cfg
@@ -598,7 +598,7 @@
     157 req
     164 woff
     166 dic
-    166 zip
+    167 zip
     168 bcmap
     169 conf
     172 webm
@@ -610,7 +610,7 @@
     207 bmp
     214 jsx
     233 test
-    240 ftl
+    241 ftl
     241 hh
     246 mk
     252 vtt
@@ -621,8 +621,8 @@
     298 gn
     306 ico
     315 mp4
-    316 jpg
     319 asm
+    319 jpg
     322 woff2
     338 mm
     390 map
@@ -631,10 +631,10 @@
     418 patch
     425 pem
     428 ipdl
-    439 sha1
+    440 sha1
     456 list
     599 gyp
-    641 sh
+    640 sh
     648 sjs
     669 vert
     807 hpp
@@ -642,32 +642,32 @@
     834 webidl
     869 yml
     961 htm
-   1021 java
-   1082 yaml
-   1175 idl
+   1022 java
+   1084 yaml
+   1174 idl
    1212 xml
    1277 ts
    1438 glif
-   1693 css
-   1828 md
-   1847 mjs
+   1691 css
+   1831 md
+   1856 mjs
    1904 headers
    2149 rst
-   2212 toml
-   2349 build
+   2230 toml
+   2351 build
    2804 a
-   3062 json
-   3575 xhtml
-   4380 c
+   3069 json
+   3576 xhtml
+   4379 c
    5044 svg
-   5324 cc
-   5427 png
+   5327 cc
+   5428 png
    5714 txt
-   8404 py
-   8882 cpp
-  10420 rs
+   8427 py
+   8880 cpp
+  10427 rs
   14575 xht
-  19007 h
-  25098 ini
-  90237 js
-  92651 html
+  19006 h
+  25080 ini
+  90282 js
+  92702 html
