@@ -292,7 +292,6 @@
       2 nlf
       2 nmake
       2 old
-      2 orig
       2 override
       2 pac
       2 pb
@@ -443,7 +442,6 @@
       7 storyboard
       8 3
       8 aac
-      8 data
       8 desktop
       8 dfa
       8 eslintignore
@@ -508,10 +506,10 @@
      19 stun
      19 tbs
      20 cs
+     20 gradle
      20 mdns
      21 options
      21 rb
-     22 gradle
      23 blb
      23 diff
      23 dtd
@@ -550,9 +548,9 @@
      42 vcxproj
      44 template
      44 vue
+     48 jsm
      50 key
      51 glsl
-     51 jsm
      52 configure
      52 otf
      52 pyi
@@ -583,14 +581,15 @@
      88 sam
      96 avif
      96 good
-     99 kt
-    101 inc
+     98 kt
     102 cmake
     102 gitignore
+    102 inc
     109 sdp
     113 m
-    115 lock
+    116 lock
     121 aff
+    130 data
     131 gni
     137 cfg
     142 properties
@@ -604,11 +603,11 @@
     172 webm
     173 stderr
     184 m4s
-    196 S
+    192 S
     198 ucm
     204 gif
     207 bmp
-    214 jsx
+    218 jsx
     233 test
     241 ftl
     241 hh
@@ -628,13 +627,13 @@
     390 map
     402 in
     418 certspec
-    418 patch
+    419 patch
     425 pem
     428 ipdl
     440 sha1
     456 list
     599 gyp
-    639 sh
+    640 sh
     650 sjs
     669 vert
     807 hpp
@@ -643,31 +642,31 @@
     872 yml
     961 htm
    1023 java
-   1084 yaml
+   1091 yaml
    1176 idl
-   1212 xml
+   1210 xml
    1293 ts
    1438 glif
-   1691 css
-   1840 md
-   1886 mjs
+   1690 css
+   1847 md
+   1903 mjs
    1904 headers
    2152 rst
-   2250 toml
-   2351 build
+   2257 toml
+   2354 build
    2804 a
-   3092 json
+   3095 json
    3573 xhtml
-   4384 c
-   5050 svg
+   4381 c
+   5052 svg
    5323 cc
    5435 png
    5721 txt
-   8439 py
-   8885 cpp
-  10477 rs
+   8443 py
+   8887 cpp
+  10515 rs
   14575 xht
-  19027 h
-  25131 ini
-  90592 js
-  92809 html
+  19028 h
+  25102 ini
+  90612 js
+  92836 html
