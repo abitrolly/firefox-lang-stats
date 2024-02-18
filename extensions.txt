@@ -390,6 +390,7 @@
       4 whl
       4 yamllint
       4 yapf
+      4 zst
       5 MIT
       5 bzl
       5 ca
@@ -532,13 +533,14 @@
      35 crl
      35 opus
      35 typed
+     36 bat
      36 gypi
      36 keyspec
      36 wasm
-     37 bat
      37 bazel
      37 cvsignore
      37 sxg
+     38 jsm
      38 sqlite
      40 exe
      40 proto
@@ -548,7 +550,6 @@
      42 vcxproj
      44 template
      44 vue
-     48 jsm
      50 key
      51 glsl
      52 configure
@@ -609,7 +610,7 @@
     207 bmp
     218 jsx
     233 test
-    241 ftl
+    240 ftl
     241 hh
     246 mk
     252 vtt
@@ -622,23 +623,23 @@
     316 mp4
     319 asm
     319 jpg
-    322 woff2
+    323 woff2
     338 mm
     390 map
     402 in
     418 certspec
-    419 patch
+    420 patch
     425 pem
     428 ipdl
     440 sha1
     456 list
     599 gyp
-    640 sh
+    642 sh
     650 sjs
     669 vert
     807 hpp
     814 frag
-    834 webidl
+    835 webidl
     872 yml
     961 htm
    1023 java
@@ -647,26 +648,26 @@
    1210 xml
    1293 ts
    1438 glif
-   1690 css
-   1847 md
-   1903 mjs
-   1904 headers
-   2152 rst
-   2257 toml
-   2354 build
+   1691 css
+   1849 md
+   1908 headers
+   1927 mjs
+   2155 rst
+   2258 toml
+   2353 build
    2804 a
-   3095 json
+   3097 json
    3573 xhtml
    4381 c
-   5052 svg
-   5323 cc
-   5435 png
-   5721 txt
-   8443 py
-   8887 cpp
+   5056 svg
+   5324 cc
+   5464 png
+   5720 txt
+   8454 py
+   8890 cpp
   10515 rs
   14575 xht
-  19028 h
-  25102 ini
-  90612 js
-  92836 html
+  19031 h
+  25128 ini
+  90627 js
+  92945 html
