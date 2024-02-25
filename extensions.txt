@@ -358,7 +358,6 @@
       3 tab
       3 url
       3 uxf
-      3 vs2019
       3 wrap
       3 xcconfig
       3 xib
@@ -569,7 +568,7 @@
      60 ogg
      63 ogv
      67 rtcp
-     68 plist
+     70 plist
      71 dat
      73 ipdlh
      75 rc
@@ -588,7 +587,7 @@
     102 inc
     109 sdp
     113 m
-    116 lock
+    117 lock
     121 aff
     130 data
     131 gni
@@ -614,25 +613,25 @@
     241 hh
     246 mk
     252 vtt
-    254 snap
+    253 snap
     260 manifest
     280 ttf
-    290 mn
-    298 gn
+    291 mn
+    299 gn
     306 ico
     316 mp4
     319 asm
     319 jpg
     323 woff2
-    338 mm
+    342 mm
     390 map
-    402 in
+    403 in
     418 certspec
-    420 patch
+    421 patch
     425 pem
     428 ipdl
     440 sha1
-    456 list
+    457 list
     599 gyp
     642 sh
     650 sjs
@@ -640,34 +639,34 @@
     807 hpp
     814 frag
     835 webidl
-    872 yml
+    875 yml
     961 htm
    1023 java
    1091 yaml
-   1176 idl
+   1175 idl
    1210 xml
    1293 ts
    1438 glif
    1691 css
-   1849 md
+   1853 md
    1908 headers
-   1927 mjs
-   2155 rst
-   2258 toml
-   2353 build
+   1936 mjs
+   2156 rst
+   2262 toml
+   2364 build
    2804 a
-   3097 json
+   3105 json
    3573 xhtml
-   4381 c
-   5056 svg
-   5324 cc
-   5464 png
-   5720 txt
-   8454 py
-   8890 cpp
-  10515 rs
+   4383 c
+   5060 svg
+   5318 cc
+   5466 png
+   5719 txt
+   8469 py
+   8891 cpp
+  10513 rs
   14575 xht
-  19031 h
-  25128 ini
-  90627 js
-  92945 html
+  19027 h
+  25159 ini
+  90633 js
+  93004 html
