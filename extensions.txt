@@ -533,12 +533,12 @@
      35 typed
      36 bat
      36 gypi
+     36 jsm
      36 keyspec
      36 wasm
      37 bazel
      37 cvsignore
      37 sxg
-     38 jsm
      38 sqlite
      40 exe
      40 proto
@@ -580,13 +580,13 @@
      88 sam
      96 avif
      96 good
-     98 kt
+     99 kt
     102 cmake
     102 gitignore
     102 inc
     109 sdp
     113 m
-    117 lock
+    116 lock
     121 aff
     130 data
     131 gni
@@ -606,9 +606,9 @@
     198 ucm
     205 gif
     207 bmp
-    218 jsx
+    216 jsx
     233 test
-    240 ftl
+    241 ftl
     241 hh
     246 mk
     252 vtt
@@ -622,50 +622,50 @@
     319 asm
     319 jpg
     323 woff2
-    343 mm
+    351 mm
     390 map
     403 in
+    417 patch
     418 certspec
-    418 patch
     425 pem
     428 ipdl
     440 sha1
     457 list
     599 gyp
     639 sh
-    650 sjs
+    651 sjs
     669 vert
     809 hpp
     814 frag
-    835 webidl
-    875 yml
-    945 htm
+    838 webidl
+    877 yml
+    937 htm
    1023 java
-   1090 yaml
-   1174 idl
+   1091 yaml
+   1173 idl
    1210 xml
-   1293 ts
+   1292 ts
    1438 glif
    1692 css
    1853 md
    1907 headers
-   1939 mjs
-   2159 rst
-   2264 toml
-   2364 build
+   1946 mjs
+   2161 rst
+   2269 toml
+   2367 build
    2804 a
-   3111 json
-   3572 xhtml
-   4378 c
-   5066 svg
-   5318 cc
-   5470 png
+   3108 json
+   3552 xhtml
+   4382 c
+   5068 svg
+   5319 cc
+   5472 png
    5713 txt
-   8487 py
-   8884 cpp
-  10542 rs
-  14575 xht
-  19014 h
-  25191 ini
-  90719 js
-  93152 html
+   8500 py
+   8896 cpp
+  10547 rs
+  13304 xht
+  19029 h
+  25233 ini
+  90762 js
+  93286 html
