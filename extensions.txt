@@ -66,6 +66,7 @@
       1 cmx
       1 codecov
       1 committime
+      1 containerignore
       1 cr3
       1 crlite
       1 csproj
@@ -529,9 +530,9 @@
      28 asis
      28 sksl
      30 pdf
+     32 jsm
      32 sug
      35 crl
-     35 jsm
      35 opus
      35 typed
      36 db
@@ -574,7 +575,7 @@
      72 ipdlh
      74 plist
      74 rc
-     77 xpi
+     74 xpi
      78 s
      79 scss
      79 wav
@@ -590,7 +591,7 @@
     113 m
     118 pro
     119 gitignore
-    119 lock
+    120 lock
     121 aff
     130 data
     131 gni
@@ -615,12 +616,12 @@
     233 test
     234 properties
     242 hh
-    243 ftl
+    244 ftl
     247 mk
     252 vtt
     253 snap
     260 manifest
-    293 mn
+    294 mn
     299 gn
     299 ttf
     308 ico
@@ -628,51 +629,51 @@
     319 mp4
     324 jpg
     324 woff2
-    350 mm
+    351 mm
     380 ipdl
     390 map
     404 in
     418 certspec
-    425 patch
     428 pem
+    429 patch
     440 sha1
     457 list
     599 gyp
-    651 sh
     651 sjs
+    653 sh
     669 vert
     809 hpp
     814 frag
-    841 webidl
-    909 htm
-    933 yml
+    842 webidl
+    897 htm
+    937 yml
    1040 java
    1119 yaml
    1172 idl
    1298 ts
    1438 glif
-   1734 css
+   1739 css
    1910 headers
-   1976 mjs
-   2094 md
+   2000 mjs
+   2097 md
    2167 rst
-   2282 toml
-   2369 build
+   2285 toml
+   2371 build
    2804 a
-   3211 json
-   3551 xhtml
-   3964 kt
-   4385 c
-   5092 svg
+   3215 json
+   3552 xhtml
+   3965 kt
+   4388 c
+   5094 svg
    5325 cc
-   5659 png
+   5660 png
    5726 txt
-   6432 xml
-   8607 py
-   8873 cpp
+   6431 xml
+   8617 py
+   8881 cpp
   10634 rs
   13310 xht
-  18999 h
-  25268 ini
-  91025 js
-  93556 html
+  19011 h
+  25369 ini
+  91106 js
+  93716 html
