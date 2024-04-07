@@ -190,6 +190,7 @@
       1 remarkrc
       1 req_orig
       1 rpc
+      1 rsa
       1 rust
       1 sample
       1 script1
@@ -332,6 +333,7 @@
       3 arcconfig
       3 awk
       3 bash
+      3 br
       3 cache
       3 cfs_period_us
       3 cfs_quota_us
@@ -424,11 +426,10 @@
       6 eot
       6 eslintrc
       6 metallib
-      6 mf
       6 mov
+      6 ogv
       6 pbxproj
       6 sed
-      6 sf
       6 t
       6 ver
       7 APACHE
@@ -442,7 +443,6 @@
       7 pcm
       7 pod
       7 pyx
-      7 rsa
       7 rsp
       7 storyboard
       8 3
@@ -541,12 +541,12 @@
      37 bazel
      37 cvsignore
      37 sxg
-     38 sqlite
      39 bat
+     39 sqlite
      40 exe
-     41 proto
      42 1
      42 bin
+     42 proto
      42 vcxproj
      44 swift
      44 vue
@@ -558,6 +558,7 @@
      52 pyi
      53 cert
      54 configure
+     54 ogg
      55 err
      55 pl
      55 wat
@@ -567,15 +568,13 @@
      57 pydeps
      59 m4
      60 def
-     60 ogg
      61 mozbuild
-     63 ogv
      67 rtcp
      71 dat
      72 ipdlh
+     73 xpi
      74 plist
      74 rc
-     74 xpi
      78 s
      79 scss
      79 wav
@@ -605,10 +604,10 @@
     168 zip
     169 conf
     173 stderr
-    173 webm
     182 S
     184 m4s
     185 webp
+    187 webm
     198 ucm
     207 gif
     208 bmp
@@ -616,16 +615,16 @@
     233 test
     234 properties
     242 hh
-    244 ftl
+    243 ftl
     247 mk
     252 vtt
     253 snap
     260 manifest
-    294 mn
+    296 mn
     299 gn
     299 ttf
     308 ico
-    319 asm
+    317 asm
     319 mp4
     324 jpg
     324 woff2
@@ -635,45 +634,45 @@
     404 in
     418 certspec
     428 pem
-    429 patch
+    433 patch
     440 sha1
-    457 list
+    456 list
     599 gyp
-    651 sjs
+    652 sjs
     653 sh
     669 vert
     809 hpp
     814 frag
-    842 webidl
+    844 webidl
     897 htm
-    937 yml
-   1040 java
-   1119 yaml
-   1172 idl
-   1298 ts
+    938 yml
+   1042 java
+   1121 yaml
+   1174 idl
+   1300 ts
    1438 glif
-   1739 css
-   1910 headers
-   2000 mjs
-   2097 md
-   2167 rst
-   2285 toml
-   2371 build
+   1736 css
+   1913 headers
+   2005 mjs
+   2099 md
+   2169 rst
+   2290 toml
+   2369 build
    2804 a
-   3215 json
-   3552 xhtml
-   3965 kt
-   4388 c
+   3214 json
+   3537 xhtml
+   3972 kt
+   4391 c
    5094 svg
-   5325 cc
-   5660 png
-   5726 txt
-   6431 xml
-   8617 py
-   8881 cpp
-  10634 rs
-  13310 xht
-  19011 h
-  25369 ini
-  91106 js
-  93716 html
+   5326 cc
+   5675 png
+   5727 txt
+   6522 xml
+   8621 py
+   8885 cpp
+  10641 rs
+  13312 xht
+  19018 h
+  25396 ini
+  91158 js
+  93808 html
