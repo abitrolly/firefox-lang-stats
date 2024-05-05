@@ -101,6 +101,7 @@
       1 fontified
       1 fragment
       1 freetype
+      1 fuchsia
       1 fx
       1 gclient
       1 gclient_entries
@@ -164,7 +165,6 @@
       1 mts
       1 mycert2
       1 myspell
-      1 nojekyll
       1 noserc
       1 npmignore
       1 nss
@@ -404,7 +404,6 @@
       5 cbor
       5 chunk
       5 common
-      5 env
       5 eventsource
       5 favdb
       5 guess
@@ -486,9 +485,9 @@
      12 mak
      12 markdown
      12 nsi
-     12 p12
      13 TTF
      13 bas
+     13 p12
      13 rtp
      13 symbols
      13 ttx
@@ -506,10 +505,11 @@
      17 dsp
      17 dsw
      17 editorconfig
+     17 env
      17 resource
-     17 udl
      18 aidl
      18 sln
+     18 udl
      18 wbn
      19 stun
      19 tbs
@@ -547,9 +547,9 @@
      40 bat
      40 exe
      40 sqlite
-     42 1
      42 proto
      42 vcxproj
+     43 1
      44 vue
      44 wasm
      46 swift
@@ -568,15 +568,15 @@
      56 webmanifest
      57 hyf
      57 pydeps
+     59 def
      59 m4
-     60 def
      61 mozbuild
      67 rtcp
      71 dat
      72 ipdlh
      72 xpi
+     73 rc
      74 plist
-     74 rc
      78 s
      79 wav
      80 crt
@@ -604,8 +604,7 @@
     168 bcmap
     168 zip
     169 gradle
-    172 conf
-    173 stderr
+    173 conf
     184 S
     184 m4s
     185 webp
@@ -616,66 +615,67 @@
     223 jsx
     233 test
     234 properties
-    241 ftl
+    240 ftl
     242 hh
     248 mk
     252 vtt
     253 snap
     260 bin
     263 manifest
-    297 mn
+    296 mn
     299 gn
-    306 ttf
+    307 ttf
     310 ico
-    317 asm
+    318 asm
     324 jpg
     324 woff2
+    326 stderr
     335 mp4
-    354 mm
+    353 mm
     382 ipdl
     390 map
     407 in
     418 certspec
-    427 pem
+    428 pem
     433 patch
     440 sha1
     457 list
     599 gyp
-    653 sh
-    654 sjs
+    641 sh
+    655 sjs
     669 vert
     810 hpp
     814 frag
     846 webidl
     897 htm
-   1011 yml
+   1016 yml
    1041 java
-   1126 yaml
-   1177 idl
+   1128 yaml
+   1178 idl
    1438 glif
    1562 ts
-   1741 css
-   1915 headers
-   2017 mjs
-   2122 md
+   1740 css
+   1918 headers
+   2019 mjs
+   2110 md
    2232 rst
-   2303 toml
-   2374 build
+   2308 toml
+   2386 build
    2804 a
-   3221 json
+   3226 json
    3538 xhtml
-   4025 kt
-   4406 c
+   4037 kt
+   4393 c
    5114 svg
    5329 cc
-   5681 png
+   5676 png
    5733 txt
-   6650 xml
-   8731 py
-   8897 cpp
-  10735 rs
-  13314 xht
-  19065 h
-  26268 ini
-  92708 js
-  94311 html
+   6639 xml
+   8732 py
+   8901 cpp
+  10802 rs
+  13312 xht
+  19103 h
+  26288 ini
+  92759 js
+  94418 html
