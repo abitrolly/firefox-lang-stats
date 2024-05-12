@@ -41,7 +41,6 @@
       1 adm
       1 allowlist
       1 amd64
-      1 analysis
       1 ani
       1 anim
       1 apk
@@ -230,6 +229,7 @@
       1 webrender
       1 webrtc
       1 webvtt
+      1 win32
       1 word
       1 wxs
       1 xcf
@@ -277,7 +277,6 @@
       2 elm
       2 event_stream
       2 ext
-      2 features
       2 filter
       2 flags
       2 flat
@@ -287,7 +286,6 @@
       2 gitmodules
       2 globals
       2 go
-      2 hide
       2 hlsl
       2 icon
       2 ignore
@@ -311,6 +309,7 @@
       2 saves
       2 sb
       2 so
+      2 sources
       2 star
       2 stylelintignore
       2 syms
@@ -326,7 +325,6 @@
       2 version
       2 watchmanconfig
       2 wgsl
-      2 win32
       2 with_android_deps
       2 xpt
       2 y
@@ -356,7 +354,6 @@
       3 pubkey
       3 ron
       3 rss
-      3 sources
       3 spec
       3 sql
       3 status
@@ -556,10 +553,10 @@
      47 template
      50 key
      53 cert
-     53 glsl
      53 otf
      53 pyi
      54 configure
+     54 glsl
      54 ogg
      54 pl
      55 err
@@ -580,8 +577,8 @@
      78 s
      79 wav
      80 crt
-     80 scss
      81 MockMaker
+     81 scss
      84 wrong
      88 sam
      96 good
@@ -590,8 +587,8 @@
     108 avif
     109 sdp
     112 m
-    119 lock
     119 pro
+    120 lock
     121 aff
     121 gitignore
     130 data
@@ -603,7 +600,7 @@
     166 dic
     168 bcmap
     168 zip
-    169 gradle
+    170 gradle
     173 conf
     184 S
     184 m4s
@@ -612,10 +609,10 @@
     198 ucm
     207 gif
     208 bmp
-    223 jsx
+    224 jsx
     233 test
     234 properties
-    240 ftl
+    241 ftl
     242 hh
     248 mk
     252 vtt
@@ -634,48 +631,48 @@
     353 mm
     382 ipdl
     390 map
-    407 in
+    403 in
     418 certspec
     428 pem
     433 patch
     440 sha1
-    457 list
+    456 list
     599 gyp
-    641 sh
+    639 sh
     655 sjs
     669 vert
-    810 hpp
+    812 hpp
     814 frag
     846 webidl
     897 htm
-   1016 yml
+   1035 yml
    1041 java
-   1128 yaml
-   1178 idl
+   1145 yaml
+   1177 idl
    1438 glif
    1562 ts
-   1740 css
+   1741 css
    1918 headers
-   2019 mjs
-   2110 md
-   2232 rst
-   2308 toml
-   2386 build
+   2038 mjs
+   2111 md
+   2234 rst
+   2309 toml
+   2387 build
    2804 a
-   3226 json
-   3538 xhtml
-   4037 kt
-   4393 c
-   5114 svg
+   3225 json
+   3533 xhtml
+   4047 kt
+   4361 c
+   5115 svg
    5329 cc
    5676 png
-   5733 txt
-   6639 xml
-   8732 py
-   8901 cpp
-  10802 rs
+   5734 txt
+   6640 xml
+   8735 py
+   8898 cpp
+  10805 rs
   13312 xht
-  19103 h
-  26288 ini
-  92759 js
-  94418 html
+  19077 h
+  26260 ini
+  92733 js
+  94482 html
