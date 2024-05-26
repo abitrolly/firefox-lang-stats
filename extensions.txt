@@ -60,6 +60,7 @@
       1 browser
       1 browserslistrc
       1 bs
+      1 bzlmod
       1 cgi
       1 cin
       1 client
@@ -116,6 +117,7 @@
       1 hgrc
       1 hgtags
       1 hin
+      1 hook
       1 host
       1 hunspell
       1 hyph
@@ -431,7 +433,6 @@
       6 t
       6 ver
       7 APACHE
-      7 bzl
       7 coveragerc
       7 har
       7 kts
@@ -446,6 +447,7 @@
       7 storyboard
       8 3
       8 aac
+      8 bzl
       8 desktop
       8 dfa
       8 eslintignore
@@ -540,7 +542,7 @@
      36 keyspec
      37 cvsignore
      37 sxg
-     38 bazel
+     39 bazel
      40 bat
      40 exe
      40 sqlite
@@ -557,16 +559,16 @@
      53 pyi
      54 configure
      54 glsl
-     54 ogg
      54 pl
      55 err
+     55 ogg
      55 wat
      56 mp3
      56 webmanifest
      57 hyf
      57 pydeps
+     58 m4
      59 def
-     59 m4
      61 mozbuild
      67 rtcp
      71 dat
@@ -588,8 +590,8 @@
     109 sdp
     112 m
     119 pro
-    120 lock
     121 aff
+    121 lock
     122 gitignore
     130 data
     130 gni
@@ -605,7 +607,7 @@
     184 S
     184 m4s
     185 webp
-    187 webm
+    188 webm
     198 ucm
     207 gif
     208 bmp
@@ -618,13 +620,13 @@
     252 vtt
     253 snap
     260 bin
-    263 manifest
-    297 mn
-    299 gn
-    307 ttf
+    260 manifest
+    296 gn
+    296 mn
+    308 ttf
     310 ico
     319 asm
-    324 jpg
+    321 jpg
     324 woff2
     326 stderr
     335 mp4
@@ -639,40 +641,40 @@
     456 list
     599 gyp
     639 sh
-    656 sjs
+    657 sjs
     669 vert
     812 hpp
     814 frag
     846 webidl
     897 htm
    1043 java
-   1054 yml
+   1056 yml
    1147 yaml
-   1177 idl
+   1176 idl
    1438 glif
    1567 ts
    1745 css
-   1920 headers
-   2046 mjs
-   2109 md
+   1914 headers
+   2049 mjs
+   2105 md
    2234 rst
-   2308 toml
+   2305 toml
    2398 build
    2804 a
    3227 json
-   3533 xhtml
-   4036 kt
+   3534 xhtml
+   4040 kt
    4367 c
    5115 svg
    5317 cc
-   5704 png
+   5703 png
    5734 txt
    6637 xml
-   8713 py
-   8928 cpp
-  10808 rs
+   8718 py
+   8937 cpp
+  10769 rs
   13312 xht
-  19135 h
-  26317 ini
-  92768 js
-  94642 html
+  19139 h
+  26361 ini
+  92790 js
+  94783 html
