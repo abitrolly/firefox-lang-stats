@@ -365,7 +365,6 @@
       3 tab
       3 url
       3 uxf
-      3 whl
       3 wrap
       3 xcconfig
       3 xib
@@ -394,6 +393,7 @@
       4 stdout
       4 svelte
       4 sym
+      4 whl
       4 yamllint
       4 yapf
       4 zst
@@ -486,7 +486,6 @@
      12 nsi
      13 TTF
      13 bas
-     13 p12
      13 rtp
      13 symbols
      13 ttx
@@ -514,6 +513,7 @@
      19 tbs
      20 cs
      20 mdns
+     20 p12
      21 options
      21 rb
      23 blb
@@ -536,7 +536,6 @@
      33 sksl
      35 crl
      35 opus
-     35 typed
      36 db
      36 gypi
      36 keyspec
@@ -556,27 +555,28 @@
      50 key
      53 cert
      53 otf
-     53 pyi
      54 configure
      54 glsl
      54 pl
      55 err
+     55 m4
      55 ogg
      55 wat
      56 mp3
      56 webmanifest
      57 hyf
      57 pydeps
-     58 m4
-     59 def
+     58 def
      61 mozbuild
+     61 pyi
+     63 typed
      67 rtcp
      71 dat
      72 ipdlh
      72 xpi
      73 rc
+     73 s
      74 plist
-     78 s
      79 wav
      80 crt
      81 MockMaker
@@ -585,7 +585,7 @@
      88 sam
      96 good
     102 cmake
-    103 inc
+    104 inc
     108 avif
     109 sdp
     112 m
@@ -626,55 +626,55 @@
     308 ttf
     310 ico
     319 asm
-    321 jpg
+    320 jpg
     324 woff2
     326 stderr
     335 mp4
-    353 mm
+    354 mm
     382 ipdl
     390 map
     402 in
     418 certspec
     428 pem
-    438 patch
+    436 patch
     439 sha1
     456 list
     599 gyp
-    639 sh
-    657 sjs
+    635 sh
+    659 sjs
     669 vert
     812 hpp
     814 frag
     846 webidl
     897 htm
    1043 java
-   1056 yml
+   1066 yml
    1147 yaml
    1176 idl
    1438 glif
    1567 ts
-   1745 css
-   1914 headers
-   2049 mjs
-   2105 md
+   1749 css
+   1896 headers
+   2056 mjs
+   2106 md
    2234 rst
-   2305 toml
-   2398 build
+   2308 toml
+   2396 build
    2804 a
-   3227 json
+   3229 json
    3534 xhtml
-   4040 kt
-   4367 c
-   5115 svg
+   4049 kt
+   4357 c
+   5117 svg
    5317 cc
    5703 png
-   5734 txt
-   6637 xml
-   8718 py
+   5739 txt
+   6636 xml
+   8779 py
    8937 cpp
-  10769 rs
+  10775 rs
   13312 xht
-  19139 h
-  26361 ini
-  92790 js
-  94783 html
+  19150 h
+  26342 ini
+  92834 js
+  94825 html
