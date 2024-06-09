@@ -23,7 +23,6 @@
       1 JPG
       1 LGPLv3
       1 LIB
-      1 LICENSE
       1 MAC
       1 MD
       1 ME
@@ -253,6 +252,7 @@
       2 2
       2 BSD
       2 Dockerfile
+      2 LICENSE
       2 Mozilla
       2 RuleSetProvider
       2 annexb
@@ -487,9 +487,9 @@
      13 TTF
      13 bas
      13 rtp
-     13 symbols
      13 ttx
      14 rdf
+     14 symbols
      15 chromium
      15 hxx
      15 icns
@@ -557,9 +557,9 @@
      53 otf
      54 configure
      54 glsl
+     54 m4
      54 pl
      55 err
-     55 m4
      55 ogg
      55 wat
      56 mp3
@@ -580,7 +580,7 @@
      79 wav
      80 crt
      81 MockMaker
-     81 scss
+     82 scss
      84 wrong
      88 sam
      96 good
@@ -603,7 +603,7 @@
     168 bcmap
     168 zip
     170 gradle
-    174 conf
+    175 conf
     184 S
     184 m4s
     185 webp
@@ -611,10 +611,10 @@
     198 ucm
     207 gif
     208 bmp
-    224 jsx
+    227 jsx
+    233 properties
     233 test
-    234 properties
-    241 ftl
+    242 ftl
     242 hh
     248 mk
     252 vtt
@@ -626,55 +626,55 @@
     308 ttf
     310 ico
     319 asm
-    320 jpg
-    324 woff2
+    322 jpg
     326 stderr
+    332 woff2
     335 mp4
     354 mm
     382 ipdl
     390 map
     402 in
-    418 certspec
-    428 pem
-    436 patch
+    423 certspec
+    432 pem
+    438 patch
     439 sha1
     456 list
     599 gyp
     635 sh
-    659 sjs
+    661 sjs
     669 vert
     812 hpp
     814 frag
-    846 webidl
+    847 webidl
     897 htm
    1043 java
-   1066 yml
-   1147 yaml
-   1176 idl
+   1075 yml
+   1152 yaml
+   1179 idl
    1438 glif
    1567 ts
-   1749 css
-   1896 headers
-   2056 mjs
-   2106 md
-   2234 rst
-   2308 toml
-   2396 build
-   2804 a
-   3229 json
+   1745 css
+   1900 headers
+   2063 mjs
+   2112 md
+   2236 rst
+   2315 toml
+   2404 build
+   2803 a
+   3232 json
    3534 xhtml
    4049 kt
-   4357 c
-   5117 svg
-   5317 cc
+   4359 c
+   5134 svg
+   5319 cc
    5703 png
-   5739 txt
-   6636 xml
-   8779 py
-   8937 cpp
-  10775 rs
+   5737 txt
+   6637 xml
+   8789 py
+   8941 cpp
+  10799 rs
   13312 xht
-  19150 h
-  26342 ini
-  92834 js
-  94825 html
+  19157 h
+  26279 ini
+  92878 js
+  94822 html
