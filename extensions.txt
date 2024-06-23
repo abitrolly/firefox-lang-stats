@@ -38,6 +38,7 @@
       1 VMS
       1 adjust_token
       1 adm
+      1 afdesign
       1 allowlist
       1 amd64
       1 ani
@@ -60,6 +61,7 @@
       1 browserslistrc
       1 bs
       1 bzlmod
+      1 cff
       1 cgi
       1 cin
       1 client
@@ -83,6 +85,7 @@
       1 dsstore
       1 duh
       1 dummy
+      1 dump
       1 egg
       1 empty
       1 errors
@@ -106,7 +109,6 @@
       1 gclient_entries
       1 gdbinit
       1 git
-      1 gitblameignore
       1 gnu
       1 gpg
       1 grdp
@@ -274,7 +276,6 @@
       2 dmg
       2 doxy_template
       2 dpr
-      2 dump
       2 el
       2 elm
       2 event_stream
@@ -338,6 +339,7 @@
       3 cache
       3 cfs_period_us
       3 cfs_quota_us
+      3 flake8
       3 gcc
       3 gdl
       3 gencc
@@ -375,7 +377,6 @@
       4 ber
       4 enrollment
       4 esgrammar
-      4 flake8
       4 golden
       4 graffle
       4 in0
@@ -480,12 +481,12 @@
      12 dox
      12 hbs
      12 jar
-     12 jinja
      12 mak
      12 markdown
      12 nsi
      13 TTF
      13 bas
+     13 jinja
      13 rtp
      13 ttx
      14 rdf
@@ -540,8 +541,8 @@
      36 keyspec
      37 cvsignore
      37 sxg
+     38 bat
      39 bazel
-     40 bat
      40 exe
      40 sqlite
      42 proto
@@ -553,14 +554,15 @@
      46 swift
      47 template
      50 key
+     51 m4
      53 cert
      53 otf
      54 configure
      54 glsl
-     54 m4
      54 pl
      55 err
      55 ogg
+     55 pyi
      55 wat
      56 mp3
      56 webmanifest
@@ -568,40 +570,39 @@
      57 pydeps
      58 def
      61 mozbuild
-     61 pyi
      63 typed
      67 rtcp
      71 dat
+     71 xpi
      72 ipdlh
-     72 xpi
      73 rc
      73 s
      74 plist
      79 wav
      80 crt
+     80 scss
      81 MockMaker
-     82 scss
      84 wrong
      88 sam
      96 good
     102 cmake
-    104 inc
+    103 gitignore
+    103 inc
     108 avif
     109 sdp
     112 m
     119 pro
-    120 lock
     121 aff
-    122 gitignore
-    130 data
+    122 lock
     130 gni
-    139 cfg
+    137 cfg
+    146 data
     155 fax
     157 req
     164 woff
     166 dic
     168 bcmap
-    168 zip
+    169 zip
     170 gradle
     175 conf
     184 m4s
@@ -611,16 +612,16 @@
     198 ucm
     207 gif
     208 bmp
-    227 jsx
+    226 jsx
     233 properties
     233 test
     242 ftl
     242 hh
     248 mk
     252 vtt
-    253 snap
     260 bin
     260 manifest
+    264 snap
     296 gn
     297 mn
     308 ttf
@@ -630,51 +631,51 @@
     326 stderr
     332 woff2
     335 mp4
-    353 mm
+    351 mm
     382 ipdl
     390 map
-    402 in
+    400 in
     423 certspec
     432 pem
     439 sha1
-    442 patch
+    440 patch
     456 list
     599 gyp
-    643 sh
-    661 sjs
+    648 sh
+    662 sjs
     669 vert
-    813 hpp
     814 frag
-    849 webidl
-    892 htm
+    821 hpp
+    846 webidl
+    884 htm
    1043 java
-   1075 yml
-   1152 yaml
-   1177 idl
+   1081 yml
+   1156 yaml
+   1180 idl
    1438 glif
-   1568 ts
-   1750 css
-   1900 headers
-   2073 mjs
-   2111 md
-   2237 rst
-   2315 toml
+   1571 ts
+   1755 css
+   1902 headers
+   2124 md
+   2161 rst
+   2203 mjs
+   2318 toml
    2406 build
    2803 a
-   3232 json
+   3234 json
    3534 xhtml
-   4055 kt
-   4363 c
-   5137 svg
+   4068 kt
+   4358 c
+   5141 svg
    5339 cc
-   5703 png
-   5737 txt
-   6638 xml
-   8790 py
-   8947 cpp
-  10777 rs
+   5697 png
+   5713 txt
+   6636 xml
+   8749 py
+   8939 cpp
+  10837 rs
   13312 xht
-  19176 h
-  26274 ini
-  92926 js
-  94896 html
+  19206 h
+  26258 ini
+  92306 js
+  95004 html
