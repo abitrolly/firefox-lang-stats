@@ -553,8 +553,8 @@
      44 wasm
      46 swift
      47 template
-     50 key
-     51 m4
+     50 m4
+     51 key
      53 cert
      53 otf
      54 configure
@@ -580,8 +580,8 @@
      74 plist
      79 wav
      80 crt
-     80 scss
      81 MockMaker
+     81 scss
      84 wrong
      88 sam
      96 good
@@ -593,16 +593,16 @@
     112 m
     119 pro
     121 aff
-    122 lock
+    121 lock
     130 gni
     137 cfg
     146 data
     155 fax
     157 req
+    160 zip
     164 woff
     166 dic
     168 bcmap
-    169 zip
     170 gradle
     175 conf
     184 m4s
@@ -612,7 +612,7 @@
     198 ucm
     207 gif
     208 bmp
-    226 jsx
+    229 jsx
     233 properties
     233 test
     242 ftl
@@ -622,10 +622,10 @@
     260 bin
     260 manifest
     264 snap
+    270 ico
     296 gn
     297 mn
     308 ttf
-    311 ico
     319 asm
     322 jpg
     326 stderr
@@ -641,41 +641,41 @@
     440 patch
     456 list
     599 gyp
-    648 sh
-    662 sjs
+    649 sh
+    664 sjs
     669 vert
     814 frag
     821 hpp
     846 webidl
-    884 htm
+    882 htm
    1043 java
    1081 yml
    1156 yaml
    1180 idl
    1438 glif
    1571 ts
-   1755 css
-   1902 headers
-   2124 md
-   2161 rst
-   2203 mjs
-   2318 toml
-   2406 build
+   1757 css
+   1903 headers
+   2128 md
+   2163 rst
+   2210 mjs
+   2321 toml
+   2407 build
    2803 a
-   3234 json
+   3237 json
    3534 xhtml
-   4068 kt
+   4072 kt
    4358 c
-   5141 svg
-   5339 cc
-   5697 png
+   5149 svg
+   5336 cc
+   5693 png
    5713 txt
-   6636 xml
-   8749 py
-   8939 cpp
-  10837 rs
+   6673 xml
+   8762 py
+   8948 cpp
+  10850 rs
   13312 xht
-  19206 h
-  26258 ini
-  92306 js
-  95004 html
+  19209 h
+  26161 ini
+  92369 js
+  95130 html
