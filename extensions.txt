@@ -203,6 +203,7 @@
       1 sig
       1 signature
       1 sigs
+      1 sources
       1 stabs
       1 stdcxx
       1 styl
@@ -312,7 +313,6 @@
       2 saves
       2 sb
       2 so
-      2 sources
       2 star
       2 stylelintignore
       2 syms
@@ -399,6 +399,7 @@
       4 yapf
       4 zst
       5 MIT
+      5 ac
       5 ca
       5 cbor
       5 chunk
@@ -419,7 +420,6 @@
       5 sub
       5 targ
       6 0
-      6 ac
       6 avifs
       6 cmd
       6 com
@@ -489,6 +489,7 @@
      13 jinja
      13 rtp
      13 ttx
+     14 am
      14 rdf
      14 symbols
      15 chromium
@@ -496,7 +497,6 @@
      15 icns
      15 pyl
      15 res
-     16 am
      16 gz
      16 icc
      16 text
@@ -616,8 +616,8 @@
     233 properties
     233 test
     242 ftl
-    242 hh
-    248 mk
+    244 hh
+    247 mk
     252 vtt
     260 bin
     260 manifest
@@ -632,7 +632,7 @@
     332 woff2
     335 mp4
     351 mm
-    382 ipdl
+    383 ipdl
     390 map
     400 in
     423 certspec
@@ -641,41 +641,41 @@
     440 patch
     456 list
     599 gyp
-    649 sh
-    664 sjs
+    648 sh
+    665 sjs
     669 vert
     814 frag
     821 hpp
     846 webidl
     882 htm
    1043 java
-   1081 yml
+   1082 yml
    1156 yaml
-   1180 idl
+   1181 idl
    1438 glif
    1571 ts
-   1757 css
-   1903 headers
+   1755 css
+   1905 headers
    2128 md
-   2163 rst
-   2210 mjs
-   2321 toml
+   2168 rst
+   2217 mjs
+   2323 toml
    2407 build
    2803 a
-   3237 json
-   3534 xhtml
-   4072 kt
+   3238 json
+   3536 xhtml
+   4084 kt
    4358 c
-   5149 svg
-   5336 cc
+   5151 svg
+   5337 cc
    5693 png
    5713 txt
    6673 xml
    8762 py
-   8948 cpp
+   8950 cpp
   10850 rs
   13312 xht
-  19209 h
+  19213 h
   26161 ini
-  92369 js
-  95130 html
+  92386 js
+  95162 html
