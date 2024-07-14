@@ -466,12 +466,12 @@
       9 tar
      10 TXT
      10 cjs
-     10 csv
      10 ent
      10 exp
      10 jxl
      10 mdb
      10 pfb
+     11 csv
      11 flac
      11 gitattributes
      11 htaccess
@@ -581,13 +581,13 @@
      79 wav
      80 crt
      81 MockMaker
-     81 scss
+     82 scss
      84 wrong
      88 sam
      96 good
     102 cmake
     103 gitignore
-    103 inc
+    104 inc
     108 avif
     109 sdp
     112 m
@@ -596,7 +596,7 @@
     121 lock
     130 gni
     137 cfg
-    146 data
+    153 data
     155 fax
     157 req
     160 zip
@@ -608,11 +608,11 @@
     184 m4s
     185 S
     185 webp
-    196 webm
+    197 webm
     198 ucm
     207 gif
     208 bmp
-    229 jsx
+    230 jsx
     233 properties
     233 test
     242 ftl
@@ -630,7 +630,7 @@
     322 jpg
     326 stderr
     332 woff2
-    335 mp4
+    336 mp4
     351 mm
     383 ipdl
     390 map
@@ -638,44 +638,44 @@
     423 certspec
     432 pem
     439 sha1
-    440 patch
-    456 list
+    445 patch
+    475 list
     599 gyp
     648 sh
-    665 sjs
+    667 sjs
     669 vert
     814 frag
     821 hpp
-    846 webidl
-    882 htm
+    845 webidl
+    846 htm
    1043 java
-   1082 yml
-   1156 yaml
-   1181 idl
+   1084 yml
+   1157 yaml
+   1183 idl
    1438 glif
    1571 ts
-   1755 css
-   1905 headers
-   2128 md
+   1756 css
+   1906 headers
+   2136 md
    2168 rst
-   2217 mjs
-   2323 toml
+   2219 mjs
+   2338 toml
    2407 build
    2803 a
-   3238 json
-   3536 xhtml
-   4084 kt
-   4358 c
-   5151 svg
+   3248 json
+   3537 xhtml
+   4092 kt
+   4357 c
+   5155 svg
    5337 cc
    5693 png
-   5713 txt
-   6673 xml
-   8762 py
-   8950 cpp
-  10850 rs
+   5730 txt
+   6674 xml
+   8766 py
+   8951 cpp
+  10869 rs
   13312 xht
-  19213 h
-  26161 ini
-  92386 js
-  95162 html
+  19224 h
+  26078 ini
+  90412 js
+  95265 html
