@@ -86,6 +86,7 @@
       1 duh
       1 dummy
       1 dump
+      1 ecc
       1 egg
       1 empty
       1 errors
@@ -566,11 +567,11 @@
      55 wat
      56 mp3
      56 webmanifest
-     57 hyf
      57 pydeps
      58 def
+     58 hyf
      61 mozbuild
-     63 typed
+     64 typed
      67 rtcp
      68 s
      71 dat
@@ -585,7 +586,7 @@
      84 wrong
      88 sam
      96 good
-    102 cmake
+    103 cmake
     104 gitignore
     104 inc
     108 avif
@@ -593,29 +594,29 @@
     112 m
     119 pro
     121 aff
-    121 lock
+    122 lock
     130 gni
-    137 cfg
+    136 cfg
     153 data
     155 fax
     157 req
-    160 zip
+    162 zip
     164 woff
-    166 dic
+    167 dic
     168 bcmap
     170 gradle
     175 conf
     184 m4s
     185 S
     185 webp
-    197 webm
     198 ucm
+    198 webm
     207 gif
     208 bmp
     231 jsx
     233 properties
     233 test
-    243 ftl
+    244 ftl
     244 hh
     247 mk
     252 vtt
@@ -633,49 +634,49 @@
     336 mp4
     351 mm
     383 ipdl
-    390 map
-    399 in
+    398 in
+    407 map
     423 certspec
-    432 pem
+    433 pem
     439 sha1
-    444 patch
+    446 patch
     475 list
     599 gyp
-    646 sh
+    649 sh
     669 vert
-    671 sjs
+    672 sjs
     814 frag
     821 hpp
-    845 webidl
-    846 htm
+    831 htm
+    853 webidl
    1043 java
-   1081 yml
+   1078 yml
    1158 yaml
    1183 idl
    1438 glif
    1577 ts
-   1762 css
-   1906 headers
-   2135 md
-   2168 rst
-   2223 mjs
-   2341 toml
-   2407 build
+   1765 css
+   1907 headers
+   2136 md
+   2170 rst
+   2234 mjs
+   2343 toml
+   2408 build
    2803 a
-   3192 json
+   3194 json
    3537 xhtml
-   4106 kt
+   4116 kt
    4333 c
    5168 svg
-   5338 cc
-   5693 png
-   5730 txt
+   5340 cc
+   5694 png
+   5728 txt
    6679 xml
-   8769 py
-   8951 cpp
-  10877 rs
+   8763 py
+   8967 cpp
+  10886 rs
   13312 xht
-  19199 h
-  26150 ini
-  90482 js
-  95413 html
+  19211 h
+  26157 ini
+  90518 js
+  95491 html
