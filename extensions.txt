@@ -532,8 +532,8 @@
      27 jinja2
      27 mar
      28 asis
-     31 pdf
      32 jsm
+     32 pdf
      32 sug
      33 sksl
      35 crl
@@ -554,19 +554,19 @@
      44 wasm
      46 swift
      47 template
-     49 m4
+     48 m4
      51 key
      53 cert
      53 otf
      53 pl
      54 glsl
-     55 configure
      55 err
      55 ogg
      55 pyi
      55 wat
      56 mp3
      56 webmanifest
+     57 configure
      57 pydeps
      58 def
      58 hyf
@@ -594,7 +594,7 @@
     112 m
     119 pro
     121 aff
-    122 lock
+    123 lock
     130 gni
     136 cfg
     153 data
@@ -634,49 +634,49 @@
     336 mp4
     351 mm
     383 ipdl
-    398 in
+    402 in
     407 map
     423 certspec
-    433 pem
+    434 pem
     439 sha1
     446 patch
     475 list
     599 gyp
-    649 sh
+    651 sh
     669 vert
-    672 sjs
+    673 sjs
     814 frag
     821 hpp
     831 htm
     853 webidl
-   1043 java
+   1042 java
    1078 yml
-   1158 yaml
+   1157 yaml
    1183 idl
    1438 glif
    1577 ts
-   1765 css
-   1907 headers
-   2136 md
-   2170 rst
-   2234 mjs
-   2343 toml
+   1766 css
+   1908 headers
+   2135 md
+   2171 rst
+   2237 mjs
+   2338 toml
    2408 build
    2803 a
-   3194 json
+   3120 json
    3537 xhtml
    4116 kt
    4333 c
-   5168 svg
+   5174 svg
    5340 cc
-   5694 png
+   5697 png
    5728 txt
-   6679 xml
-   8763 py
-   8967 cpp
-  10886 rs
-  13312 xht
-  19211 h
-  26157 ini
-  90518 js
-  95491 html
+   6680 xml
+   8771 py
+   8968 cpp
+  10928 rs
+  13308 xht
+  19214 h
+  26201 ini
+  90776 js
+  95591 html
