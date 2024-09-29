@@ -526,13 +526,13 @@
      34 pdf
      35 crl
      36 db
+     36 exe
      36 gypi
      36 keyspec
      37 cvsignore
      37 sxg
      38 bat
      39 bazel
-     40 exe
      42 1
      42 sqlite
      42 vcxproj
@@ -578,11 +578,11 @@
     104 gitignore
     104 inc
     109 sdp
-    111 avif
+    112 avif
     112 m
     118 pro
     121 aff
-    124 lock
+    126 lock
     130 gni
     136 cfg
     153 data
@@ -598,17 +598,17 @@
     185 webp
     186 S
     198 ucm
-    198 webm
+    200 webm
     208 bmp
     209 gif
     226 mk
     232 properties
     233 test
-    234 jsx
+    237 jsx
     244 hh
     246 ftl
     252 vtt
-    260 manifest
+    259 manifest
     262 bin
     262 snap
     264 ico
@@ -619,52 +619,52 @@
     322 jpg
     332 stderr
     332 woff2
-    336 mp4
+    339 mp4
     354 mm
     384 ipdl
     401 in
     403 map
     431 certspec
     437 sha1
-    445 patch
+    446 patch
     450 pem
-    475 list
+    476 list
     599 gyp
-    650 sh
+    649 sh
     669 vert
-    679 sjs
+    680 sjs
     786 htm
     814 frag
     821 hpp
     860 webidl
-   1042 java
-   1105 yml
-   1175 yaml
-   1188 idl
+   1041 java
+   1106 yml
+   1180 yaml
+   1190 idl
    1438 glif
    1640 ts
-   1756 css
-   1899 headers
-   2144 md
-   2175 rst
-   2273 mjs
-   2352 toml
-   2419 build
+   1759 css
+   1909 headers
+   2158 md
+   2177 rst
+   2274 mjs
+   2368 toml
+   2420 build
    2803 a
-   3122 json
+   3133 json
    3537 xhtml
-   4131 kt
+   4139 kt
    4334 c
-   5175 svg
+   5198 svg
    5352 cc
-   5716 png
-   5741 txt
-   6636 xml
-   8899 py
-   8994 cpp
-  11111 rs
+   5743 txt
+   5745 png
+   6637 xml
+   8902 py
+   8995 cpp
+  11279 rs
   13309 xht
-  19267 h
-  25820 ini
-  91236 js
-  96275 html
+  19269 h
+  25700 ini
+  91279 js
+  96322 html
