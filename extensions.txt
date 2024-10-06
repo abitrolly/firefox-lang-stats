@@ -431,7 +431,6 @@
       7 msg
       7 pcm
       7 pod
-      7 pyx
       7 storyboard
       8 3
       8 aac
@@ -439,17 +438,18 @@
       8 dfa
       8 file
       8 grd
-      8 hash
       8 hgignore
       8 m3u8
       8 morph
       8 mozilla
       8 nib
       8 props
+      8 pyx
       8 rl
       8 rsp
       8 settings
       9 APACHE
+      9 hash
       9 metal
       9 strings
       9 tar
@@ -489,6 +489,7 @@
      15 res
      16 icc
      16 text
+     16 udl
      17 cxx
      17 dsp
      17 dsw
@@ -497,15 +498,14 @@
      17 resource
      18 aidl
      18 sln
-     18 udl
      18 wbn
      19 stun
      19 tbs
      20 cs
      20 mdns
      20 p12
-     21 options
      21 rb
+     22 options
      23 blb
      23 der
      23 dtd
@@ -525,11 +525,11 @@
      33 sksl
      34 pdf
      35 crl
+     36 cvsignore
      36 db
      36 exe
      36 gypi
      36 keyspec
-     37 cvsignore
      37 sxg
      38 bat
      39 bazel
@@ -543,11 +543,10 @@
      46 swift
      47 m4
      47 template
-     51 pyi
      52 key
+     52 pl
      53 cert
      53 otf
-     53 pl
      54 glsl
      55 err
      55 ogg
@@ -555,13 +554,14 @@
      56 mp3
      56 webmanifest
      57 configure
+     57 def
      57 pydeps
-     58 def
      58 hyf
      61 mozbuild
-     64 typed
+     64 pyi
+     65 s
      67 rtcp
-     67 s
+     71 typed
      71 xpi
      72 dat
      72 ipdlh
@@ -582,9 +582,9 @@
     112 m
     118 pro
     121 aff
+    126 cfg
     126 lock
     130 gni
-    136 cfg
     153 data
     155 fax
     157 req
@@ -601,70 +601,70 @@
     200 webm
     208 bmp
     209 gif
-    226 mk
-    232 properties
+    225 mk
     233 test
     237 jsx
+    240 properties
     244 hh
     246 ftl
     252 vtt
-    259 manifest
-    262 bin
+    260 manifest
     262 snap
+    263 bin
     264 ico
-    296 gn
     296 mn
+    297 gn
     308 ttf
     319 asm
     322 jpg
     332 stderr
     332 woff2
-    339 mp4
-    354 mm
+    340 mp4
+    355 mm
     384 ipdl
-    401 in
+    394 in
     403 map
     431 certspec
     437 sha1
-    446 patch
     450 pem
-    476 list
+    462 patch
+    479 list
     599 gyp
-    649 sh
+    650 sh
     669 vert
-    680 sjs
+    682 sjs
     786 htm
     814 frag
     821 hpp
     860 webidl
    1041 java
    1106 yml
-   1180 yaml
+   1186 yaml
    1190 idl
    1438 glif
    1640 ts
    1759 css
    1909 headers
    2158 md
-   2177 rst
-   2274 mjs
-   2368 toml
-   2420 build
+   2168 rst
+   2283 mjs
+   2369 toml
+   2417 build
    2803 a
    3133 json
    3537 xhtml
-   4139 kt
-   4334 c
-   5198 svg
-   5352 cc
-   5743 txt
-   5745 png
-   6637 xml
-   8902 py
-   8995 cpp
-  11279 rs
+   4143 kt
+   4315 c
+   5235 svg
+   5365 cc
+   5729 txt
+   5770 png
+   6648 xml
+   8997 cpp
+   9389 py
+  11280 rs
   13309 xht
-  19269 h
-  25700 ini
-  91279 js
-  96322 html
+  19277 h
+  25704 ini
+  91332 js
+  96348 html
