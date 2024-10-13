@@ -217,7 +217,6 @@
       1 webapp
       1 webrender
       1 webrtc
-      1 webvtt
       1 win32
       1 word
       1 wxs
@@ -353,6 +352,7 @@
       3 tab
       3 url
       3 uxf
+      3 webvtt
       3 wrap
       3 xcconfig
       3 xib
@@ -523,8 +523,8 @@
      32 jsm
      32 sug
      33 sksl
-     34 pdf
      35 crl
+     35 pdf
      36 cvsignore
      36 db
      36 exe
@@ -584,21 +584,21 @@
     121 aff
     126 cfg
     126 lock
-    130 gni
+    133 gni
     153 data
     155 fax
     157 req
     164 woff
-    166 zip
     167 dic
+    167 zip
     168 bcmap
     168 gradle
     177 conf
     184 m4s
     185 webp
-    186 S
+    189 S
     198 ucm
-    200 webm
+    201 webm
     208 bmp
     209 gif
     225 mk
@@ -613,21 +613,21 @@
     263 bin
     264 ico
     296 mn
-    297 gn
+    301 gn
     308 ttf
     319 asm
     322 jpg
     332 stderr
     332 woff2
-    340 mp4
+    341 mp4
     355 mm
     384 ipdl
-    394 in
+    393 in
     403 map
     431 certspec
     437 sha1
     450 pem
-    462 patch
+    470 patch
     479 list
     599 gyp
     650 sh
@@ -638,33 +638,33 @@
     821 hpp
     860 webidl
    1041 java
-   1106 yml
-   1186 yaml
+   1134 yml
    1190 idl
+   1190 yaml
    1438 glif
    1640 ts
-   1759 css
-   1909 headers
-   2158 md
-   2168 rst
-   2283 mjs
+   1766 css
+   1911 headers
+   2164 md
+   2169 rst
+   2286 mjs
    2369 toml
-   2417 build
+   2419 build
    2803 a
-   3133 json
+   3134 json
    3537 xhtml
-   4143 kt
-   4315 c
-   5235 svg
+   4153 kt
+   4317 c
+   5238 svg
    5365 cc
-   5729 txt
-   5770 png
-   6648 xml
-   8997 cpp
-   9389 py
-  11280 rs
+   5724 txt
+   5774 png
+   6694 xml
+   9002 cpp
+   9400 py
+  11281 rs
   13309 xht
-  19277 h
-  25704 ini
-  91332 js
-  96348 html
+  19288 h
+  25806 ini
+  91429 js
+  96496 html
