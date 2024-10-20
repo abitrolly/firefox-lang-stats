@@ -257,6 +257,7 @@
       2 coffee
       2 crx
       2 csr
+      2 delta
       2 dmg
       2 doxy_template
       2 dpr
@@ -467,7 +468,6 @@
      11 vcproj
      12 cjs
      12 dox
-     12 flac
      12 hbs
      12 jar
      12 mak
@@ -475,6 +475,7 @@
      12 nsi
      13 TTF
      13 bas
+     13 flac
      13 jinja
      13 rtp
      13 ttx
@@ -583,7 +584,7 @@
     118 pro
     121 aff
     126 cfg
-    126 lock
+    128 lock
     133 gni
     153 data
     155 fax
@@ -593,7 +594,7 @@
     167 zip
     168 bcmap
     168 gradle
-    177 conf
+    178 conf
     184 m4s
     185 webp
     189 S
@@ -616,13 +617,13 @@
     301 gn
     308 ttf
     319 asm
-    322 jpg
+    323 jpg
     332 stderr
     332 woff2
     341 mp4
-    355 mm
-    384 ipdl
-    393 in
+    356 mm
+    383 ipdl
+    394 in
     403 map
     431 certspec
     437 sha1
@@ -632,39 +633,39 @@
     599 gyp
     650 sh
     669 vert
-    682 sjs
-    786 htm
+    684 sjs
+    785 htm
     814 frag
     821 hpp
     860 webidl
    1041 java
-   1134 yml
-   1190 idl
-   1190 yaml
+   1138 yml
+   1191 idl
+   1200 yaml
    1438 glif
-   1640 ts
-   1766 css
+   1642 ts
+   1776 css
    1911 headers
-   2164 md
+   2165 md
    2169 rst
-   2286 mjs
-   2369 toml
+   2294 mjs
+   2371 toml
    2419 build
    2803 a
-   3134 json
-   3537 xhtml
-   4153 kt
+   3136 json
+   3539 xhtml
+   4157 kt
    4317 c
-   5238 svg
+   5243 svg
    5365 cc
-   5724 txt
-   5774 png
-   6694 xml
-   9002 cpp
-   9400 py
-  11281 rs
+   5723 txt
+   5878 png
+   6712 xml
+   9000 cpp
+   9408 py
+  11285 rs
   13309 xht
-  19288 h
-  25806 ini
-  91429 js
-  96496 html
+  19286 h
+  25785 ini
+  91462 js
+  96554 html
