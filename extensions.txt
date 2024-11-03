@@ -48,6 +48,7 @@
       1 cff
       1 cgi
       1 cin
+      1 clang_complete
       1 client
       1 cmx
       1 cnf
@@ -271,7 +272,6 @@
       2 foo
       2 fst
       2 geojson
-      2 gitmodules
       2 globals
       2 go
       2 hlsl
@@ -311,7 +311,6 @@
       2 ttc
       2 version
       2 watchmanconfig
-      2 wgsl
       2 with_android_deps
       2 xpt
       2 y
@@ -327,6 +326,7 @@
       3 gcc
       3 gdl
       3 gencc
+      3 gitmodules
       3 i
       3 info
       3 ivf
@@ -374,7 +374,6 @@
       4 lnk
       4 nix
       4 npmrc
-      4 nrm
       4 pc
       4 pxd
       4 stash
@@ -401,6 +400,7 @@
       5 ksh
       5 mailmap
       5 mpd
+      5 nrm
       5 nsh
       5 oga
       5 ogv
@@ -449,6 +449,7 @@
       8 rl
       8 rsp
       8 settings
+      8 wgsl
       9 APACHE
       9 hash
       9 metal
@@ -482,13 +483,13 @@
      14 am
      14 rdf
      14 symbols
-     15 chromium
      15 gz
      15 hxx
      15 icns
      15 pyl
      15 res
      15 udl
+     16 chromium
      16 icc
      16 text
      17 cxx
@@ -505,6 +506,7 @@
      20 cs
      20 mdns
      20 p12
+     21 diff
      21 rb
      23 blb
      23 der
@@ -513,7 +515,6 @@
      24 filters
      24 xsl
      25 cur
-     25 diff
      26 dll
      26 es5
      26 es6
@@ -554,9 +555,9 @@
      55 wat
      56 mp3
      56 webmanifest
-     57 configure
      57 def
      57 pydeps
+     58 configure
      58 hyf
      61 mozbuild
      64 pyi
@@ -576,8 +577,8 @@
      88 sam
      96 good
     103 cmake
-    104 gitignore
     104 inc
+    105 gitignore
     109 sdp
     112 avif
     112 m
@@ -594,7 +595,7 @@
     168 bcmap
     168 gradle
     168 zip
-    178 conf
+    179 conf
     184 m4s
     185 webp
     189 S
@@ -605,7 +606,7 @@
     225 mk
     233 test
     237 jsx
-    241 properties
+    240 properties
     244 hh
     246 ftl
     252 vtt
@@ -621,51 +622,51 @@
     332 stderr
     332 woff2
     341 mp4
-    356 mm
+    357 mm
     383 ipdl
-    394 in
+    393 in
     403 map
     431 certspec
     437 sha1
     450 pem
-    475 patch
     479 list
+    479 patch
     599 gyp
-    650 sh
+    649 sh
     669 vert
     685 sjs
     785 htm
     814 frag
-    821 hpp
+    822 hpp
     860 webidl
    1041 java
-   1139 yml
+   1141 yml
    1191 idl
-   1205 yaml
+   1207 yaml
    1438 glif
    1642 ts
-   1777 css
-   1909 headers
-   2169 md
-   2171 rst
-   2302 mjs
-   2372 toml
-   2419 build
+   1770 css
+   1914 headers
+   2168 rst
+   2173 md
+   2304 mjs
+   2376 toml
+   2468 build
    2803 a
-   3139 json
+   3141 json
    3540 xhtml
-   4159 kt
-   4317 c
-   5248 svg
-   5365 cc
-   5724 txt
-   5909 png
+   4172 kt
+   4319 c
+   5249 svg
+   5379 cc
+   5971 png
+   6050 txt
    6715 xml
-   9008 cpp
-   9410 py
-  11299 rs
+   9025 cpp
+   9400 py
+  11310 rs
   13309 xht
-  19300 h
-  25790 ini
-  91518 js
-  96792 html
+  19332 h
+  25821 ini
+  91536 js
+  96844 html
