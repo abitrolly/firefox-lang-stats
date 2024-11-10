@@ -421,7 +421,6 @@
       6 sct
       6 sctspec
       6 sed
-      6 t
       6 ver
       7 TXT
       7 eslintignore
@@ -483,12 +482,12 @@
      14 am
      14 rdf
      14 symbols
+     14 udl
      15 gz
      15 hxx
      15 icns
      15 pyl
      15 res
-     15 udl
      16 chromium
      16 icc
      16 text
@@ -565,13 +564,13 @@
      67 rtcp
      71 typed
      71 xpi
-     72 dat
      72 ipdlh
      73 crt
+     73 dat
      73 rc
      75 plist
      80 MockMaker
-     82 scss
+     83 scss
      84 wrong
      86 wav
      88 sam
@@ -598,17 +597,17 @@
     179 conf
     184 m4s
     185 webp
-    189 S
+    195 S
     198 ucm
     201 webm
     208 bmp
     209 gif
     225 mk
     233 test
-    237 jsx
+    238 jsx
     240 properties
     244 hh
-    246 ftl
+    248 ftl
     252 vtt
     262 snap
     263 bin
@@ -632,41 +631,41 @@
     479 list
     479 patch
     599 gyp
-    649 sh
+    650 sh
     669 vert
     685 sjs
     785 htm
     814 frag
     822 hpp
     860 webidl
-   1041 java
-   1141 yml
-   1191 idl
-   1207 yaml
+   1042 java
+   1152 yml
+   1192 idl
+   1211 yaml
    1438 glif
-   1642 ts
-   1770 css
-   1914 headers
-   2168 rst
-   2173 md
-   2304 mjs
-   2376 toml
-   2468 build
+   1646 ts
+   1772 css
+   1911 headers
+   2165 rst
+   2177 md
+   2306 mjs
+   2378 toml
+   2469 build
    2803 a
-   3141 json
-   3540 xhtml
-   4172 kt
-   4319 c
-   5249 svg
-   5379 cc
-   5971 png
-   6050 txt
-   6715 xml
-   9025 cpp
-   9400 py
-  11310 rs
+   3146 json
+   3541 xhtml
+   4183 kt
+   4322 c
+   5250 svg
+   5380 cc
+   5972 png
+   6051 txt
+   6717 xml
+   9033 cpp
+   9465 py
+  11318 rs
   13309 xht
-  19332 h
-  25821 ini
-  91536 js
-  96844 html
+  19340 h
+  25843 ini
+  91567 js
+  96923 html
