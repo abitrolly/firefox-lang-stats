@@ -527,11 +527,11 @@
      32 sug
      33 sksl
      35 crl
-     35 pdf
      36 cvsignore
      36 db
      36 exe
      36 gypi
+     36 pdf
      37 keyspec
      37 sxg
      38 bat
@@ -578,8 +578,8 @@
      88 sam
      96 good
     103 cmake
+    104 inc
     105 gitignore
-    105 inc
     109 m
     109 sdp
     112 avif
@@ -598,20 +598,20 @@
     168 zip
     180 conf
     184 m4s
-    185 webp
-    195 S
+    184 webp
+    196 S
     198 ucm
     202 webm
     208 bmp
     209 gif
     225 mk
+    228 snap
     233 test
-    239 jsx
+    240 jsx
     240 properties
     244 hh
-    247 ftl
+    246 ftl
     252 vtt
-    262 snap
     263 bin
     263 manifest
     265 ico
@@ -619,11 +619,11 @@
     300 gn
     308 ttf
     318 asm
-    323 jpg
+    324 jpg
     332 woff2
     333 stderr
     341 mp4
-    357 mm
+    358 mm
     385 ipdl
     391 in
     403 map
@@ -642,32 +642,32 @@
     860 webidl
    1042 java
    1169 yml
-   1193 idl
-   1213 yaml
+   1195 idl
+   1214 yaml
    1438 glif
    1649 ts
    1776 css
-   1911 headers
-   2173 rst
-   2196 md
-   2314 mjs
-   2384 toml
+   1913 headers
+   2181 rst
+   2198 md
+   2318 mjs
+   2385 toml
    2495 build
    2803 a
-   3159 json
-   3539 xhtml
-   4237 kt
-   4322 c
+   3160 json
+   3540 xhtml
+   4268 kt
+   4323 c
    5255 svg
    5347 cc
-   5997 png
-   6043 txt
-   6726 xml
+   6005 png
+   6044 txt
+   6764 xml
    9058 cpp
-   9554 py
-  11440 rs
+   9561 py
+  11441 rs
   13309 xht
-  19350 h
-  26097 ini
-  91667 js
-  97140 html
+  19359 h
+  26104 ini
+  91654 js
+  97172 html
