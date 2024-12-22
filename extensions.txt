@@ -242,6 +242,7 @@
       2 LICENSE
       2 Mozilla
       2 RuleSetProvider
+      2 adoc
       2 annexb
       2 api
       2 apng
@@ -250,6 +251,7 @@
       2 atom
       2 automation
       2 bar
+      2 bash
       2 bowerrc
       2 breakpad
       2 chain
@@ -306,7 +308,6 @@
       2 texi
       2 tiff
       2 tokens
-      2 tpl
       2 tst
       2 tt
       2 ttc
@@ -319,7 +320,6 @@
       3 adts
       3 arcconfig
       3 awk
-      3 bash
       3 br
       3 cache
       3 cfs_period_us
@@ -353,6 +353,7 @@
       3 supp
       3 swf
       3 tab
+      3 tpl
       3 url
       3 uxf
       3 webvtt
@@ -509,10 +510,10 @@
      20 mdns
      20 p12
      21 diff
-     21 rb
+     22 rb
      23 blb
-     23 der
      23 dtd
+     23 jsm
      24 filters
      24 xsl
      25 cur
@@ -521,12 +522,12 @@
      26 es6
      26 jinja2
      27 gitkeep
-     27 jsm
      27 mar
      28 asis
      32 sug
      33 sksl
      35 crl
+     35 der
      36 cvsignore
      36 db
      36 exe
@@ -566,9 +567,9 @@
      67 rtcp
      70 xpi
      73 crt
-     73 dat
      73 ipdlh
      73 rc
+     74 dat
      74 typed
      75 plist
      81 MockMaker
@@ -586,7 +587,7 @@
     119 pro
     121 aff
     126 cfg
-    130 lock
+    132 lock
     133 gni
     153 data
     155 fax
@@ -608,12 +609,12 @@
     228 snap
     233 test
     241 properties
-    242 jsx
+    243 jsx
     244 hh
     246 ftl
     252 vtt
-    263 bin
     263 manifest
+    264 bin
     265 ico
     296 mn
     300 gn
@@ -621,53 +622,53 @@
     318 asm
     324 jpg
     332 woff2
-    333 stderr
+    337 stderr
     341 mp4
     358 mm
-    385 ipdl
+    386 ipdl
     391 in
     403 map
     434 certspec
     437 sha1
-    453 pem
-    478 patch
+    462 pem
     479 list
+    479 patch
     599 gyp
-    659 sh
+    662 sh
     669 vert
-    687 sjs
-    782 htm
+    692 sjs
+    778 htm
     814 frag
     822 hpp
-    860 webidl
+    861 webidl
    1042 java
-   1172 yml
-   1199 idl
-   1224 yaml
+   1175 yml
+   1201 idl
+   1228 yaml
    1438 glif
-   1649 ts
+   1653 ts
    1776 css
-   1924 headers
+   1926 headers
    2181 rst
-   2200 md
-   2328 mjs
-   2386 toml
-   2495 build
+   2210 md
+   2348 mjs
+   2404 toml
+   2498 build
    2803 a
-   3160 json
+   3186 json
    3542 xhtml
-   4264 kt
+   4274 kt
    4328 c
-   5255 svg
+   5259 svg
    5347 cc
-   6005 png
-   6044 txt
-   6784 xml
-   9061 cpp
-   9569 py
-  11443 rs
+   6004 png
+   6051 txt
+   6785 xml
+   9072 cpp
+   9571 py
+  11682 rs
   13309 xht
-  19368 h
-  26202 ini
-  91702 js
-  97338 html
+  19380 h
+  26304 ini
+  93603 js
+  97564 html
