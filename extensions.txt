@@ -550,8 +550,8 @@
      52 pl
      53 cert
      53 key
-     53 otf
      54 glsl
+     54 otf
      55 err
      55 wat
      56 mp3
@@ -632,7 +632,7 @@
     437 sha1
     462 pem
     479 list
-    479 patch
+    480 patch
     599 gyp
     662 sh
     669 vert
@@ -657,7 +657,7 @@
    2803 a
    3186 json
    3542 xhtml
-   4274 kt
+   4273 kt
    4328 c
    5259 svg
    5347 cc
@@ -669,6 +669,6 @@
   11682 rs
   13309 xht
   19380 h
-  26304 ini
-  93603 js
-  97564 html
+  26299 ini
+  93609 js
+  97572 html
