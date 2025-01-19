@@ -45,7 +45,6 @@
       1 browserslistrc
       1 bs
       1 bz2
-      1 bzlmod
       1 cff
       1 cgi
       1 cin
@@ -224,6 +223,7 @@
       1 wxs
       1 xcf
       1 xclangspec
+      1 xcprivacy
       1 xcscheme
       1 xcworkspacedata
       1 xlf
@@ -255,6 +255,7 @@
       2 bash
       2 bowerrc
       2 breakpad
+      2 bzlmod
       2 chain
       2 class
       2 coffee
@@ -353,7 +354,6 @@
       3 sup
       3 supp
       3 swf
-      3 tab
       3 tpl
       3 url
       3 uxf
@@ -384,6 +384,7 @@
       4 stdout
       4 svelte
       4 sym
+      4 tab
       4 whl
       4 yamllint
       4 yapf
@@ -484,10 +485,10 @@
      13 jinja
      13 options
      13 rtp
+     13 symbols
      13 ttx
      14 am
      14 rdf
-     14 symbols
      15 gz
      15 hxx
      15 icns
@@ -533,11 +534,11 @@
      36 db
      36 exe
      36 gypi
-     36 pdf
      37 keyspec
+     37 pdf
      37 sxg
      38 bat
-     39 bazel
+     40 bazel
      42 1
      42 sqlite
      42 vcxproj
@@ -574,25 +575,26 @@
      75 plist
      76 dat
      82 MockMaker
-     83 scss
+     84 scss
      84 wrong
      86 wav
      88 sam
      96 good
     103 cmake
     105 gitignore
-    106 inc
+    105 inc
     108 m
     109 sdp
     112 avif
     120 pro
     121 aff
     126 cfg
-    131 lock
     133 gni
     153 data
+    153 lock
     155 fax
     157 req
+    164 webp
     164 woff
     167 dic
     168 bcmap
@@ -600,7 +602,6 @@
     170 gradle
     180 conf
     184 m4s
-    184 webp
     197 S
     198 ucm
     204 webm
@@ -610,9 +611,9 @@
     228 snap
     233 test
     242 properties
-    243 jsx
     244 hh
     246 ftl
+    246 jsx
     252 vtt
     263 manifest
     264 bin
@@ -621,9 +622,9 @@
     299 gn
     308 ttf
     318 asm
-    324 jpg
+    325 jpg
     332 woff2
-    341 mp4
+    342 mp4
     343 stderr
     358 mm
     386 ipdl
@@ -633,43 +634,43 @@
     438 sha1
     462 pem
     479 list
-    535 patch
+    531 patch
     603 gyp
     662 sh
     669 vert
     692 sjs
-    778 htm
+    776 htm
     814 frag
     822 hpp
     862 webidl
    1042 java
    1178 yml
-   1201 idl
-   1233 yaml
+   1202 idl
+   1238 yaml
    1438 glif
    1655 ts
-   1777 css
-   1927 headers
-   2184 rst
-   2212 md
-   2349 mjs
-   2407 toml
-   2499 build
+   1779 css
+   1934 headers
+   2191 rst
+   2215 md
+   2356 mjs
+   2406 toml
+   2618 build
    2803 a
    3190 json
    3543 xhtml
-   4244 kt
-   4263 c
-   5259 svg
-   5353 cc
-   6005 png
-   6051 txt
-   6772 xml
-   9087 cpp
-   9579 py
-  11686 rs
+   4195 kt
+   4264 c
+   5272 svg
+   5375 cc
+   6006 png
+   6052 txt
+   6773 xml
+   9091 cpp
+   9583 py
+  11687 rs
   13309 xht
-  19331 h
-  26373 ini
-  93812 js
-  97938 html
+  19352 h
+  26410 ini
+  93866 js
+  98033 html
