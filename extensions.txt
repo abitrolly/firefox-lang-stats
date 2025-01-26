@@ -149,7 +149,6 @@
       1 mozlz4
       1 mp
       1 mp2
-      1 mts
       1 mycert2
       1 myspell
       1 noserc
@@ -285,6 +284,7 @@
       2 lds
       2 locale
       2 modulemap
+      2 mts
       2 new
       2 nlf
       2 nmake
@@ -322,7 +322,6 @@
       3 adts
       3 arcconfig
       3 awk
-      3 br
       3 cache
       3 cfs_period_us
       3 cfs_quota_us
@@ -367,6 +366,7 @@
       4 BSD
       4 babelrc
       4 ber
+      4 br
       4 enrollment
       4 esgrammar
       4 golden
@@ -388,7 +388,6 @@
       4 whl
       4 yamllint
       4 yapf
-      4 zst
       5 MIT
       5 ac
       5 ca
@@ -396,6 +395,8 @@
       5 chunk
       5 common
       5 desktop
+      5 eslintignore
+      5 eslintrc
       5 eventsource
       5 favdb
       5 guess
@@ -412,6 +413,7 @@
       5 sfx
       5 sub
       5 targ
+      5 zst
       6 avifs
       6 cmd
       6 com
@@ -419,7 +421,6 @@
       6 coveragerc
       6 dict
       6 eot
-      6 eslintrc
       6 metallib
       6 mov
       6 pbxproj
@@ -428,7 +429,6 @@
       6 sed
       6 ver
       7 TXT
-      7 eslintignore
       7 har
       7 kts
       7 libaom
@@ -454,24 +454,24 @@
       8 settings
       8 wgsl
       9 APACHE
-      9 hash
       9 metal
       9 strings
       9 tar
      10 0
      10 ent
      10 exp
+     10 hash
      10 jxl
      10 mdb
      10 mozilla
      10 pfb
+     11 cjs
      11 csv
      11 gitattributes
      11 htaccess
      11 icu
      11 tmpl
      11 vcproj
-     12 cjs
      12 dox
      12 hbs
      12 jar
@@ -489,12 +489,12 @@
      13 ttx
      14 am
      14 rdf
-     15 gz
      15 hxx
      15 icns
      15 pyl
      15 res
      16 chromium
+     16 gz
      16 icc
      16 text
      17 cxx
@@ -515,7 +515,6 @@
      22 rb
      23 blb
      23 dtd
-     23 jsm
      24 filters
      24 xsl
      25 cur
@@ -525,7 +524,7 @@
      26 jinja2
      27 gitkeep
      27 mar
-     28 asis
+     29 asis
      32 sug
      33 sksl
      35 crl
@@ -564,16 +563,16 @@
      58 configure
      58 hyf
      61 mozbuild
-     64 pyi
+     63 pyi
      65 s
      67 rtcp
-     70 xpi
+     71 xpi
      73 crt
      73 ipdlh
      73 rc
-     74 typed
+     75 dat
      75 plist
-     76 dat
+     77 typed
      82 MockMaker
      84 scss
      84 wrong
@@ -612,65 +611,65 @@
     233 test
     242 properties
     244 hh
-    246 ftl
-    246 jsx
+    245 jsx
+    247 ftl
     252 vtt
     263 manifest
     264 bin
     265 ico
-    296 mn
+    297 mn
     299 gn
     308 ttf
     318 asm
     325 jpg
     332 woff2
     342 mp4
-    343 stderr
+    348 stderr
     358 mm
     386 ipdl
-    391 in
+    398 in
     403 map
     434 certspec
     438 sha1
     462 pem
     479 list
-    531 patch
+    530 patch
     603 gyp
-    662 sh
+    661 sh
     669 vert
-    692 sjs
-    776 htm
+    694 sjs
+    759 htm
     814 frag
     822 hpp
     862 webidl
    1042 java
-   1178 yml
-   1202 idl
+   1184 yml
+   1204 idl
    1238 yaml
    1438 glif
-   1655 ts
+   1665 ts
    1779 css
-   1934 headers
-   2191 rst
-   2215 md
-   2356 mjs
-   2406 toml
-   2618 build
+   1938 headers
+   2186 rst
+   2221 md
+   2357 mjs
+   2411 toml
+   2616 build
    2803 a
-   3190 json
+   3197 json
    3543 xhtml
-   4195 kt
-   4264 c
-   5272 svg
+   4206 kt
+   4268 c
+   5271 svg
    5375 cc
-   6006 png
-   6052 txt
-   6773 xml
-   9091 cpp
-   9583 py
-  11687 rs
+   5984 png
+   6066 txt
+   6774 xml
+   9095 cpp
+   9647 py
+  11742 rs
   13309 xht
-  19352 h
-  26410 ini
-  93866 js
-  98033 html
+  19359 h
+  26460 ini
+  92467 js
+  98134 html
