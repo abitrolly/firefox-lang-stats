@@ -130,7 +130,6 @@
       1 ll
       1 lldbinit
       1 loader
-      1 m4a
       1 make
       1 mako
       1 man
@@ -283,6 +282,7 @@
       2 jsonlz4
       2 lds
       2 locale
+      2 m4a
       2 modulemap
       2 mts
       2 new
@@ -544,7 +544,7 @@
      43 opus
      43 proto
      44 vue
-     44 wasm
+     45 wasm
      46 swift
      47 m4
      47 template
@@ -556,13 +556,13 @@
      55 err
      55 wat
      56 mp3
-     56 ogg
      56 webmanifest
      57 def
+     57 ogg
      57 pydeps
      58 configure
      58 hyf
-     61 mozbuild
+     62 mozbuild
      63 pyi
      65 s
      67 rtcp
@@ -619,11 +619,11 @@
     265 ico
     297 mn
     299 gn
-    308 ttf
+    309 ttf
     318 asm
     325 jpg
     332 woff2
-    342 mp4
+    344 mp4
     348 stderr
     358 mm
     386 ipdl
@@ -633,43 +633,43 @@
     438 sha1
     462 pem
     479 list
-    530 patch
+    534 patch
     603 gyp
     661 sh
     669 vert
-    694 sjs
-    759 htm
+    696 sjs
+    738 htm
     814 frag
     822 hpp
     862 webidl
    1042 java
-   1184 yml
+   1185 yml
    1204 idl
-   1238 yaml
+   1245 yaml
    1438 glif
    1665 ts
-   1779 css
+   1742 css
    1938 headers
-   2186 rst
-   2221 md
-   2357 mjs
-   2411 toml
-   2616 build
+   2190 rst
+   2226 md
+   2354 mjs
+   2412 toml
+   2624 build
    2803 a
-   3197 json
-   3543 xhtml
-   4206 kt
+   3195 json
+   3544 xhtml
+   4248 kt
    4268 c
-   5271 svg
-   5375 cc
+   5269 svg
+   5399 cc
    5984 png
-   6066 txt
-   6774 xml
+   6065 txt
+   6771 xml
    9095 cpp
-   9647 py
+   9654 py
   11742 rs
-  13309 xht
-  19359 h
-  26460 ini
-  92467 js
-  98134 html
+  13311 xht
+  19455 h
+  26469 ini
+  92504 js
+  98254 html
