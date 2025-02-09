@@ -203,7 +203,6 @@
       1 tlb
       1 trackerignore
       1 tsan
-      1 tsv
       1 tsx
       1 unix
       1 unknown
@@ -437,6 +436,7 @@
       7 pcm
       7 pod
       7 storyboard
+      7 tsv
       8 3
       8 aac
       8 bzl
@@ -478,6 +478,7 @@
      12 mak
      12 markdown
      12 nsi
+     12 symbols
      12 udl
      13 TTF
      13 bas
@@ -485,7 +486,6 @@
      13 jinja
      13 options
      13 rtp
-     13 symbols
      13 ttx
      14 am
      14 rdf
@@ -574,8 +574,8 @@
      75 plist
      77 typed
      82 MockMaker
-     84 scss
      84 wrong
+     85 scss
      86 wav
      88 sam
      96 good
@@ -611,14 +611,14 @@
     233 test
     242 properties
     244 hh
-    245 jsx
+    246 jsx
     247 ftl
     252 vtt
+    262 bin
     263 manifest
-    264 bin
     265 ico
     297 mn
-    299 gn
+    298 gn
     309 ttf
     318 asm
     325 jpg
@@ -633,43 +633,43 @@
     438 sha1
     462 pem
     479 list
-    534 patch
+    539 patch
     603 gyp
     661 sh
     669 vert
     696 sjs
-    738 htm
+    723 htm
     814 frag
     822 hpp
     862 webidl
-   1042 java
-   1185 yml
+   1045 java
+   1187 yml
    1204 idl
-   1245 yaml
+   1251 yaml
    1438 glif
    1665 ts
-   1742 css
+   1740 css
    1938 headers
    2190 rst
-   2226 md
-   2354 mjs
-   2412 toml
-   2624 build
+   2227 md
+   2360 mjs
+   2415 toml
+   2625 build
    2803 a
    3195 json
    3544 xhtml
-   4248 kt
-   4268 c
-   5269 svg
-   5399 cc
-   5984 png
+   4251 kt
+   4269 c
+   5277 svg
+   5404 cc
+   5926 png
    6065 txt
-   6771 xml
+   6687 xml
    9095 cpp
-   9654 py
-  11742 rs
+   9623 py
+  11750 rs
   13311 xht
-  19455 h
-  26469 ini
-  92504 js
-  98254 html
+  19470 h
+  26475 ini
+  92560 js
+  98313 html
