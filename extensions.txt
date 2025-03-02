@@ -282,6 +282,7 @@
       2 m4a
       2 modulemap
       2 new
+      2 nix
       2 nlf
       2 nmake
       2 old
@@ -371,7 +372,6 @@
       4 jpeg
       4 jsonld
       4 lnk
-      4 nix
       4 npmrc
       4 pc
       4 pxd
@@ -477,7 +477,6 @@
      13 flac
      13 jinja
      13 nsi
-     13 options
      13 rtp
      13 tsv
      13 ttx
@@ -485,6 +484,7 @@
      14 rdf
      15 hxx
      15 icns
+     15 options
      15 pyl
      15 res
      16 chromium
@@ -528,9 +528,9 @@
      36 exe
      36 gypi
      37 keyspec
-     37 pdf
      37 sxg
      38 bat
+     38 pdf
      40 bazel
      42 1
      42 sqlite
@@ -554,8 +554,8 @@
      57 def
      57 ogg
      57 pydeps
-     58 configure
      58 hyf
+     59 configure
      62 mozbuild
      63 pyi
      65 s
@@ -588,10 +588,10 @@
     156 lock
     157 req
     164 woff
+    166 gradle
     166 webp
     167 dic
     168 bcmap
-    168 gradle
     168 zip
     180 conf
     184 m4s
@@ -621,49 +621,49 @@
     348 stderr
     360 mm
     387 ipdl
-    402 in
+    399 in
     403 map
     434 certspec
     438 sha1
     458 pem
-    479 list
-    541 patch
+    480 list
+    542 patch
     603 gyp
-    658 sh
+    647 sh
     669 vert
-    696 sjs
-    707 htm
+    697 sjs
+    703 htm
     814 frag
     822 hpp
     863 webidl
    1033 java
-   1183 yml
+   1195 yml
    1206 idl
-   1257 yaml
+   1256 yaml
    1438 glif
-   1678 ts
-   1747 css
+   1681 ts
+   1754 css
    1938 headers
-   2191 rst
-   2227 md
-   2374 mjs
-   2411 toml
-   2625 build
+   2194 rst
+   2230 md
+   2379 mjs
+   2421 toml
+   2624 build
    2803 a
-   3192 json
+   3193 json
    3542 xhtml
    4272 c
-   4272 kt
-   5285 svg
-   5404 cc
-   6059 png
+   4295 kt
+   5276 svg
+   5406 cc
+   6058 png
    6064 txt
-   6695 xml
-   9085 cpp
-   9619 py
-  11709 rs
+   6708 xml
+   9084 cpp
+   9640 py
+  11704 rs
   13311 xht
-  19457 h
-  26515 ini
-  92401 js
-  98478 html
+  19451 h
+  26468 ini
+  92450 js
+  98628 html
