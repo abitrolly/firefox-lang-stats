@@ -254,7 +254,6 @@
       2 chain
       2 class
       2 coffee
-      2 crx
       2 csr
       2 delta
       2 dirs
@@ -323,6 +322,7 @@
       3 cache
       3 cfs_period_us
       3 cfs_quota_us
+      3 crx
       3 gcc
       3 gdl
       3 gencc
@@ -538,8 +538,8 @@
      43 opus
      43 proto
      44 vue
-     45 wasm
      46 swift
+     46 wasm
      47 m4
      47 template
      52 pl
@@ -574,7 +574,7 @@
      88 sam
      96 good
     103 cmake
-    104 gitignore
+    105 gitignore
     105 inc
     108 m
     109 sdp
@@ -600,38 +600,38 @@
     204 webm
     210 bmp
     211 gif
+    214 snap
     225 mk
-    228 snap
     233 test
     242 properties
     245 hh
     246 jsx
-    247 ftl
+    248 ftl
     252 vtt
     261 bin
-    267 ico
-    279 manifest
-    296 mn
+    268 ico
+    280 manifest
+    297 mn
     298 gn
     309 ttf
     319 asm
     332 woff2
-    333 jpg
-    344 mp4
+    345 mp4
     348 stderr
     360 mm
     387 ipdl
-    399 in
-    403 map
+    400 in
+    404 map
     434 certspec
     438 sha1
     458 pem
     480 list
-    542 patch
+    559 patch
     603 gyp
-    647 sh
+    649 sh
     669 vert
-    697 sjs
+    677 jpg
+    698 sjs
     703 htm
     814 frag
     822 hpp
@@ -639,31 +639,31 @@
    1033 java
    1195 yml
    1206 idl
-   1256 yaml
+   1259 yaml
    1438 glif
-   1681 ts
-   1754 css
-   1938 headers
+   1682 ts
+   1760 css
+   1939 headers
    2194 rst
-   2230 md
-   2379 mjs
-   2421 toml
-   2624 build
+   2231 md
+   2422 toml
+   2465 mjs
+   2623 build
    2803 a
-   3193 json
-   3542 xhtml
-   4272 c
-   4295 kt
+   3196 json
+   3539 xhtml
+   4276 c
+   4306 kt
    5276 svg
-   5406 cc
-   6058 png
-   6064 txt
-   6708 xml
-   9084 cpp
-   9640 py
-  11704 rs
+   5410 cc
+   6059 png
+   6071 txt
+   6709 xml
+   9083 cpp
+   9659 py
+  11705 rs
   13311 xht
-  19451 h
-  26468 ini
-  92450 js
-  98628 html
+  19460 h
+  26302 ini
+  92314 js
+  98654 html
