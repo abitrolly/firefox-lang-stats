@@ -121,6 +121,7 @@
       1 jsonp
       1 keep
       1 keystore
+      1 lalrpop
       1 ld
       1 lex
       1 linux
@@ -149,10 +150,10 @@
       1 mp2
       1 mycert2
       1 myspell
+      1 nojekyll
       1 noserc
       1 npmignore
       1 nss
-      1 o
       1 order
       1 os4
       1 out
@@ -280,10 +281,12 @@
       2 locale
       2 m4a
       2 modulemap
+      2 mts
       2 new
       2 nix
       2 nlf
       2 nmake
+      2 o
       2 old
       2 onnx
       2 override
@@ -334,7 +337,6 @@
       3 libvpx
       3 lst
       3 max
-      3 mts
       3 natvis
       3 nvmrc
       3 pfx
@@ -488,7 +490,6 @@
      15 pyl
      15 res
      16 chromium
-     16 icc
      16 text
      17 cxx
      17 dsp
@@ -496,6 +497,7 @@
      17 editorconfig
      17 env
      17 gz
+     17 icc
      17 resource
      18 aidl
      18 sln
@@ -521,6 +523,7 @@
      29 asis
      32 sug
      33 sksl
+     33 wit
      35 crl
      35 der
      36 cvsignore
@@ -574,23 +577,23 @@
      88 sam
      96 good
     103 cmake
+    104 inc
     105 gitignore
-    105 inc
     108 m
     109 sdp
-    114 avif
-    120 pro
+    116 avif
     121 aff
+    121 pro
     126 cfg
     133 gni
     153 data
     155 fax
-    156 lock
     157 req
+    158 lock
     164 woff
-    166 gradle
     166 webp
     167 dic
+    167 gradle
     168 bcmap
     168 zip
     180 conf
@@ -603,15 +606,15 @@
     214 snap
     225 mk
     233 test
-    242 properties
+    240 properties
     245 hh
-    246 jsx
-    248 ftl
+    247 jsx
+    249 ftl
     252 vtt
     261 bin
     268 ico
-    280 manifest
-    297 mn
+    279 manifest
+    296 mn
     298 gn
     309 ttf
     319 asm
@@ -626,9 +629,9 @@
     438 sha1
     458 pem
     480 list
-    559 patch
+    561 patch
     603 gyp
-    649 sh
+    651 sh
     669 vert
     677 jpg
     698 sjs
@@ -636,34 +639,34 @@
     814 frag
     822 hpp
     863 webidl
-   1033 java
-   1195 yml
-   1206 idl
-   1259 yaml
+   1034 java
+   1196 yml
+   1205 idl
+   1258 yaml
    1438 glif
-   1682 ts
-   1760 css
+   1684 ts
+   1762 css
    1939 headers
    2194 rst
-   2231 md
-   2422 toml
-   2465 mjs
-   2623 build
-   2803 a
-   3196 json
-   3539 xhtml
-   4276 c
-   4306 kt
+   2234 md
+   2424 toml
+   2475 mjs
+   2620 build
+   2804 a
+   3205 json
+   3540 xhtml
+   4277 c
+   4326 kt
    5276 svg
    5410 cc
-   6059 png
-   6071 txt
-   6709 xml
-   9083 cpp
-   9659 py
-  11705 rs
+   6060 png
+   6072 txt
+   6716 xml
+   9082 cpp
+   9694 py
+  11821 rs
   13311 xht
-  19460 h
-  26302 ini
-  92314 js
-  98654 html
+  19457 h
+  26321 ini
+  92322 js
+  98706 html
