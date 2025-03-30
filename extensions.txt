@@ -571,13 +571,13 @@
      77 typed
      82 MockMaker
      84 wrong
-     85 scss
+     87 scss
      87 wav
      88 sam
      96 good
     103 cmake
-    104 inc
     105 gitignore
+    105 inc
     108 m
     109 sdp
     116 avif
@@ -588,7 +588,7 @@
     153 data
     155 fax
     157 req
-    161 lock
+    162 lock
     164 woff
     166 webp
     167 dic
@@ -605,10 +605,10 @@
     214 snap
     225 mk
     233 test
-    240 properties
-    245 hh
-    247 jsx
-    249 ftl
+    239 properties
+    248 hh
+    251 ftl
+    252 jsx
     252 vtt
     261 bin
     267 ico
@@ -622,7 +622,7 @@
     348 stderr
     360 mm
     387 ipdl
-    399 in
+    401 in
     404 map
     434 certspec
     438 sha1
@@ -633,39 +633,39 @@
     651 sh
     669 vert
     677 jpg
-    698 sjs
+    699 sjs
     703 htm
     814 frag
     822 hpp
-    863 webidl
+    865 webidl
    1034 java
-   1201 yml
    1206 idl
-   1260 yaml
+   1207 yml
+   1262 yaml
    1438 glif
-   1686 ts
-   1766 css
-   1957 headers
-   2195 rst
-   2237 md
-   2430 toml
-   2476 mjs
-   2620 build
+   1688 ts
+   1767 css
+   1967 headers
+   2196 rst
+   2238 md
+   2433 toml
+   2480 mjs
+   2622 build
    2804 a
    3202 json
    3536 xhtml
    4278 c
-   4333 kt
-   5277 svg
-   5410 cc
-   6072 png
-   6139 txt
-   6718 xml
-   9085 cpp
-   9718 py
-  11832 rs
+   4353 kt
+   5278 svg
+   5413 cc
+   6074 png
+   6141 txt
+   6722 xml
+   9096 cpp
+   9723 py
+  11834 rs
   13311 xht
-  19463 h
-  26473 ini
-  92382 js
-  98954 html
+  19473 h
+  26474 ini
+  92587 js
+  99052 html
