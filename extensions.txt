@@ -113,6 +113,7 @@
       1 include
       1 inf
       1 inl
+      1 j2
       1 jnlp
       1 jscsrc
       1 jsi
@@ -532,7 +533,7 @@
      37 sxg
      38 bat
      38 m4
-     38 pdf
+     39 pdf
      40 bazel
      42 1
      42 sqlite
@@ -587,15 +588,15 @@
     153 data
     155 fax
     157 req
-    161 webp
-    165 woff
+    162 webp
     166 gradle
+    166 woff
     167 dic
     168 bcmap
     168 zip
     183 conf
-    184 lock
     184 m4s
+    186 lock
     197 S
     198 ucm
     204 webm
@@ -604,8 +605,8 @@
     215 snap
     225 mk
     233 test
-    239 properties
-    248 hh
+    237 properties
+    249 hh
     252 vtt
     259 jsx
     262 bin
@@ -616,55 +617,55 @@
     310 ttf
     319 asm
     332 woff2
-    345 mp4
+    346 mp4
     348 stderr
-    360 mm
-    381 ftl
+    359 mm
+    383 ftl
     388 ipdl
-    399 in
+    400 in
     404 map
     434 certspec
     439 sha1
     459 pem
     481 list
-    570 patch
+    571 patch
     604 gyp
-    653 sh
+    649 sh
     669 vert
     677 jpg
     700 htm
-    707 sjs
+    708 sjs
     814 frag
     822 hpp
-    862 webidl
+    863 webidl
    1035 java
    1209 idl
    1221 yml
-   1289 yaml
+   1291 yaml
    1438 glif
-   1686 ts
-   1766 css
+   1688 ts
+   1763 css
    1966 headers
-   2195 rst
-   2254 md
+   2193 rst
+   2256 md
    2458 toml
-   2511 mjs
+   2516 mjs
    2627 build
    2804 a
-   3274 json
+   3277 json
    3538 xhtml
    4279 c
-   4389 kt
-   5194 svg
-   5418 cc
-   6085 png
-   6150 txt
-   6944 xml
-   9089 cpp
-   9748 py
-  12023 rs
+   4402 kt
+   5193 svg
+   5419 cc
+   6133 png
+   6153 txt
+   6948 xml
+   9094 cpp
+   9735 py
+  11969 rs
   13311 xht
-  19480 h
-  26593 ini
-  92712 js
-  99404 html
+  19549 h
+  26583 ini
+  92728 js
+  99431 html
