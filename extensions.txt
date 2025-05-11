@@ -149,6 +149,7 @@
       1 mp2
       1 mycert2
       1 myspell
+      1 ndjson
       1 nojekyll
       1 noserc
       1 npmignore
@@ -504,6 +505,7 @@
      19 stun
      19 tbs
      20 cs
+     20 dll
      20 mdns
      20 p12
      22 rb
@@ -513,7 +515,6 @@
      24 filters
      25 cur
      25 jinja2
-     26 dll
      26 es5
      26 es6
      26 xsl
@@ -536,10 +537,10 @@
      39 pdf
      40 bazel
      42 1
-     42 sqlite
      42 vcxproj
      43 opus
      43 proto
+     43 sqlite
      44 vue
      46 swift
      46 wasm
@@ -552,13 +553,13 @@
      55 otf
      55 wat
      56 webmanifest
-     57 configure
      57 def
      57 mp3
      57 ogg
      57 pydeps
+     58 configure
      58 hyf
-     62 mozbuild
+     63 mozbuild
      63 pyi
      65 s
      67 rtcp
@@ -576,7 +577,7 @@
      90 scss
      96 good
     103 cmake
-    107 inc
+    108 inc
     108 m
     109 gitignore
     109 sdp
@@ -588,19 +589,19 @@
     153 data
     155 fax
     157 req
-    162 webp
     166 gradle
     166 woff
     167 dic
+    167 webp
     168 bcmap
     168 zip
-    183 conf
+    184 conf
     184 m4s
-    186 lock
+    193 lock
     197 S
     198 ucm
     204 webm
-    210 bmp
+    211 bmp
     211 gif
     215 snap
     225 mk
@@ -609,7 +610,7 @@
     249 hh
     252 vtt
     259 jsx
-    262 bin
+    263 bin
     267 ico
     279 manifest
     296 gn
@@ -620,7 +621,7 @@
     346 mp4
     348 stderr
     359 mm
-    383 ftl
+    381 ftl
     388 ipdl
     400 in
     404 map
@@ -628,7 +629,7 @@
     439 sha1
     459 pem
     481 list
-    571 patch
+    573 patch
     604 gyp
     649 sh
     669 vert
@@ -639,33 +640,33 @@
     822 hpp
     863 webidl
    1035 java
-   1209 idl
-   1221 yml
+   1210 idl
+   1227 yml
    1291 yaml
    1438 glif
-   1688 ts
-   1763 css
-   1966 headers
+   1690 ts
+   1766 css
+   1949 headers
    2193 rst
-   2256 md
-   2458 toml
-   2516 mjs
-   2627 build
+   2258 md
+   2475 toml
+   2517 mjs
+   2628 build
    2804 a
-   3277 json
-   3538 xhtml
-   4279 c
-   4402 kt
-   5193 svg
-   5419 cc
-   6133 png
-   6153 txt
-   6948 xml
-   9094 cpp
-   9735 py
-  11969 rs
+   3279 json
+   3537 xhtml
+   4280 c
+   4411 kt
+   5185 svg
+   5420 cc
+   5983 png
+   6155 txt
+   6983 xml
+   9086 cpp
+   9738 py
+  12106 rs
   13311 xht
-  19549 h
-  26583 ini
-  92728 js
-  99431 html
+  19537 h
+  26209 ini
+  92753 js
+  99509 html
