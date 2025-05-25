@@ -335,7 +335,6 @@
       3 libvpx
       3 lst
       3 max
-      3 natvis
       3 nvmrc
       3 pfx
       3 prettierignore
@@ -372,6 +371,7 @@
       4 jpeg
       4 jsonld
       4 lnk
+      4 natvis
       4 npmrc
       4 pc
       4 pxd
@@ -465,6 +465,7 @@
      11 htaccess
      11 icu
      11 tmpl
+     11 udl
      11 vcproj
      11 wgsl
      12 dox
@@ -473,7 +474,6 @@
      12 mak
      12 markdown
      12 symbols
-     12 udl
      13 TTF
      13 bas
      13 flac
@@ -524,7 +524,7 @@
      32 cvsignore
      32 sug
      33 sksl
-     33 wit
+     34 wit
      35 crl
      35 der
      36 db
@@ -574,14 +574,14 @@
      84 wrong
      87 wav
      88 sam
-     90 scss
+     89 scss
      96 good
     103 cmake
     108 gitignore
     108 inc
     108 m
     109 sdp
-    116 avif
+    110 avif
     121 aff
     121 pro
     126 cfg
@@ -597,8 +597,8 @@
     168 zip
     184 conf
     184 m4s
-    193 lock
     197 S
+    197 lock
     198 ucm
     204 webm
     211 gif
@@ -609,64 +609,64 @@
     237 properties
     249 hh
     252 vtt
-    259 jsx
+    258 jsx
     263 bin
     267 ico
-    279 manifest
+    280 manifest
+    295 mn
     296 gn
-    297 mn
     310 ttf
     319 asm
     332 woff2
     346 mp4
     348 stderr
     360 mm
-    381 ftl
+    379 ftl
     388 ipdl
     400 in
     404 map
     434 certspec
     439 sha1
-    459 pem
+    461 pem
     481 list
     575 patch
     604 gyp
-    650 sh
+    651 sh
     669 vert
-    677 jpg
+    676 jpg
+    702 sjs
     703 htm
-    708 sjs
     814 frag
     822 hpp
     863 webidl
    1036 java
-   1211 idl
-   1251 yml
-   1292 yaml
+   1212 idl
+   1258 yml
+   1291 yaml
    1438 glif
    1693 ts
-   1771 css
-   1950 headers
-   2194 rst
-   2264 md
+   1762 css
+   1951 headers
+   2197 rst
+   2278 md
    2477 toml
-   2533 mjs
-   2629 build
+   2619 mjs
+   2627 build
    2804 a
-   3284 json
+   3255 json
    3537 xhtml
    4280 c
-   4411 kt
-   5185 svg
-   5421 cc
-   5986 png
-   6155 txt
-   6985 xml
-   9089 cpp
-   9759 py
-  12110 rs
-  13311 xht
+   4533 kt
+   5181 svg
+   5422 cc
+   5990 png
+   6156 txt
+   6978 xml
+   9090 cpp
+   9774 py
+  12145 rs
+  13309 xht
   19607 h
-  26295 ini
-  92791 js
-  99678 html
+  26325 ini
+  92822 js
+  99787 html
