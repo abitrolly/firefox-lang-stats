@@ -51,7 +51,6 @@
       1 client
       1 cmx
       1 cnf
-      1 codecov
       1 committime
       1 containerignore
       1 cr3
@@ -120,7 +119,6 @@
       1 jsonp
       1 keep
       1 keystore
-      1 kts
       1 lalrpop
       1 ld
       1 lex
@@ -170,7 +168,6 @@
       1 prettierrc
       1 pri
       1 pth
-      1 pump
       1 pxi
       1 pylintrc
       1 raw
@@ -390,7 +387,6 @@
       5 cbor
       5 chunk
       5 common
-      5 desktop
       5 eslintignore
       5 eslintrc
       5 eventsource
@@ -413,6 +409,7 @@
       6 cmd
       6 com
       6 coveragerc
+      6 desktop
       6 dict
       6 eot
       6 metallib
@@ -514,9 +511,9 @@
      23 dtd
      24 filters
      25 cur
-     25 jinja2
      26 es5
      26 es6
+     26 jinja2
      26 xsl
      27 gitkeep
      27 mar
@@ -574,10 +571,10 @@
      84 wrong
      87 wav
      88 sam
-     89 scss
+     91 scss
      96 good
+    101 gitignore
     103 cmake
-    108 gitignore
     108 inc
     108 m
     109 sdp
@@ -599,7 +596,7 @@
     184 m4s
     197 S
     198 ucm
-    199 lock
+    200 lock
     204 webm
     212 bmp
     212 gif
@@ -609,10 +606,10 @@
     237 properties
     249 hh
     252 vtt
-    258 jsx
+    260 jsx
     263 bin
     266 ico
-    280 manifest
+    279 manifest
     294 mn
     296 gn
     311 ttf
@@ -625,48 +622,48 @@
     388 ipdl
     398 in
     404 map
+    419 sha1
     434 certspec
-    439 sha1
     461 pem
     481 list
-    575 patch
+    578 patch
     604 gyp
-    652 sh
+    651 sh
     669 vert
     676 jpg
-    701 sjs
+    702 sjs
     703 htm
     814 frag
     822 hpp
     864 webidl
    1035 java
-   1213 idl
-   1262 yml
+   1214 idl
+   1272 yml
    1292 yaml
    1438 glif
-   1695 ts
-   1761 css
-   1951 headers
-   2198 rst
-   2271 md
-   2453 toml
-   2628 build
-   2697 mjs
+   1696 ts
+   1765 css
+   1952 headers
+   2197 rst
+   2273 md
+   2454 toml
+   2626 build
+   2701 mjs
    2804 a
-   3256 json
-   3539 xhtml
-   4280 c
-   4565 kt
-   5182 svg
-   5423 cc
-   5993 png
+   3261 json
+   3537 xhtml
+   4281 c
+   4575 kt
+   5191 svg
+   5425 cc
+   5994 png
    6151 txt
-   6978 xml
-   9106 cpp
-   9785 py
-  12193 rs
+   6986 xml
+   9110 cpp
+   9796 py
+  12197 rs
   13309 xht
-  19622 h
-  26317 ini
-  92707 js
-  99818 html
+  19633 h
+  26321 ini
+  92737 js
+  99871 html
