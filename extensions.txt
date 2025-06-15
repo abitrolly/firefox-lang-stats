@@ -44,7 +44,6 @@
       1 browser
       1 browserslistrc
       1 bs
-      1 bz2
       1 cgi
       1 cin
       1 clang_complete
@@ -60,8 +59,6 @@
       1 develop
       1 dmp
       1 doap
-      1 doc
-      1 dockerignore
       1 dot
       1 dsstore
       1 duh
@@ -249,6 +246,7 @@
       2 bash
       2 bowerrc
       2 breakpad
+      2 bz2
       2 bzlmod
       2 cff
       2 chain
@@ -258,6 +256,7 @@
       2 delta
       2 dirs
       2 dmg
+      2 dockerignore
       2 doxy_template
       2 dpr
       2 el
@@ -284,6 +283,7 @@
       2 nix
       2 nlf
       2 nmake
+      2 nvmrc
       2 o
       2 old
       2 override
@@ -312,7 +312,6 @@
       2 watchmanconfig
       2 with_android_deps
       2 xpt
-      2 xz
       2 y
       2 zlib
       3 adts
@@ -333,7 +332,6 @@
       3 libvpx
       3 lst
       3 max
-      3 nvmrc
       3 pfx
       3 prettierignore
       3 ps1
@@ -358,6 +356,7 @@
       3 xib
       3 xtb
       3 xyz
+      3 xz
       4 3gp
       4 BSD
       4 babelrc
@@ -372,7 +371,6 @@
       4 natvis
       4 npmrc
       4 pc
-      4 pxd
       4 stdout
       4 svelte
       4 sym
@@ -386,6 +384,7 @@
       5 ca
       5 cbor
       5 chunk
+      5 cmd
       5 common
       5 eslintignore
       5 eslintrc
@@ -406,15 +405,16 @@
       5 targ
       5 udl
       6 avifs
-      6 cmd
       6 com
       6 coveragerc
       6 desktop
       6 dict
       6 eot
+      6 mdb
       6 metallib
       6 mov
       6 pbxproj
+      6 pxd
       6 sct
       6 sctspec
       6 sed
@@ -428,6 +428,7 @@
       7 nsh
       7 pcm
       7 pod
+      7 pyx
       7 storyboard
       8 3
       8 aac
@@ -441,7 +442,6 @@
       8 morph
       8 nib
       8 props
-      8 pyx
       8 rl
       8 rsp
       8 settings
@@ -452,25 +452,24 @@
      10 0
      10 ent
      10 exp
-     10 hash
      10 jxl
-     10 mdb
      10 mozilla
      10 pfb
-     11 cjs
      11 csv
      11 gitattributes
+     11 hash
      11 htaccess
      11 icu
-     11 tmpl
      11 vcproj
      11 wgsl
+     12 cjs
      12 dox
      12 hbs
      12 jar
      12 mak
      12 markdown
      12 symbols
+     12 tmpl
      13 TTF
      13 bas
      13 flac
@@ -529,16 +528,16 @@
      36 gypi
      37 keyspec
      37 sxg
+     38 1
      38 bat
      38 m4
      39 pdf
      40 bazel
      40 swift
-     42 1
      42 vcxproj
      43 opus
      43 proto
-     43 sqlite
+     44 sqlite
      44 vue
      46 wasm
      47 template
@@ -556,29 +555,29 @@
      58 configure
      58 def
      58 hyf
-     63 pyi
+     60 pyi
      64 mozbuild
      65 s
      67 rtcp
      73 crt
+     73 ipdlh
      73 rc
-     73 xpi
-     74 ipdlh
+     74 typed
+     74 xpi
      75 dat
      75 plist
-     77 typed
+     75 scss
      82 MockMaker
      84 wrong
      87 wav
      88 sam
-     91 scss
      96 good
     101 gitignore
     103 cmake
-    108 inc
     108 m
     109 sdp
     110 avif
+    110 inc
     117 pro
     121 aff
     126 cfg
@@ -596,7 +595,7 @@
     184 m4s
     197 S
     198 ucm
-    200 lock
+    202 lock
     204 webm
     212 bmp
     212 gif
@@ -604,13 +603,13 @@
     225 mk
     233 test
     237 properties
+    246 jsx
     249 hh
     252 vtt
-    260 jsx
-    263 bin
+    264 bin
     266 ico
     279 manifest
-    294 mn
+    295 mn
     296 gn
     311 ttf
     319 asm
@@ -618,52 +617,52 @@
     347 mp4
     348 stderr
     360 mm
-    379 ftl
-    388 ipdl
-    398 in
+    378 ftl
+    390 ipdl
+    397 in
     404 map
     419 sha1
     434 certspec
     461 pem
-    481 list
-    578 patch
+    480 list
+    591 patch
     604 gyp
-    651 sh
+    653 sh
     669 vert
     676 jpg
-    702 sjs
     703 htm
+    703 sjs
     814 frag
     822 hpp
-    864 webidl
+    862 webidl
    1035 java
-   1214 idl
-   1272 yml
-   1292 yaml
+   1216 idl
+   1273 yml
+   1295 yaml
    1438 glif
-   1696 ts
-   1765 css
+   1702 ts
+   1762 css
    1952 headers
-   2197 rst
-   2273 md
+   2196 rst
+   2276 md
    2454 toml
    2626 build
-   2701 mjs
+   2703 mjs
    2804 a
-   3261 json
-   3537 xhtml
-   4281 c
-   4575 kt
-   5191 svg
-   5425 cc
-   5994 png
-   6151 txt
-   6986 xml
-   9110 cpp
-   9796 py
-  12197 rs
+   3257 json
+   3531 xhtml
+   4271 c
+   4577 kt
+   5184 svg
+   5496 cc
+   5974 png
+   6148 txt
+   7009 xml
+   9111 cpp
+   9702 py
+  12185 rs
   13309 xht
-  19633 h
-  26321 ini
-  92737 js
-  99871 html
+  19848 h
+  26318 ini
+  92736 js
+  99892 html
