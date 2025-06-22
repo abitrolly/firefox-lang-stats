@@ -95,7 +95,7 @@
       1 hdr
       1 hgempty
       1 hgrc
-      1 hgtags
+      1 hgsigs
       1 hin
       1 hook
       1 host
@@ -201,6 +201,7 @@
       1 tsx
       1 unix
       1 unknown
+      1 unknownextension
       1 utf16be
       1 v8
       1 visualizer
@@ -271,6 +272,7 @@
       2 geojson
       2 globals
       2 go
+      2 hgtags
       2 hlsl
       2 icon
       2 ignore
@@ -537,8 +539,8 @@
      42 vcxproj
      43 opus
      43 proto
-     44 sqlite
      44 vue
+     45 sqlite
      46 wasm
      47 template
      52 pl
@@ -549,24 +551,24 @@
      55 otf
      55 wat
      56 webmanifest
-     57 mp3
      57 ogg
      57 pydeps
      58 configure
-     58 def
      58 hyf
-     60 pyi
+     58 mp3
+     59 def
+     61 pyi
      64 mozbuild
      65 s
      67 rtcp
      73 crt
      73 ipdlh
      73 rc
-     74 typed
+     74 dat
      74 xpi
-     75 dat
      75 plist
      75 scss
+     80 typed
      82 MockMaker
      84 wrong
      87 wav
@@ -577,7 +579,7 @@
     108 m
     109 sdp
     110 avif
-    110 inc
+    111 inc
     117 pro
     121 aff
     126 cfg
@@ -586,38 +588,38 @@
     155 fax
     157 req
     164 gradle
-    166 woff
     167 dic
     167 webp
+    167 woff
     168 bcmap
     168 zip
-    184 conf
     184 m4s
+    185 conf
     197 S
     198 ucm
-    202 lock
+    203 lock
     204 webm
     212 bmp
-    212 gif
+    213 gif
     214 snap
     225 mk
     233 test
-    237 properties
+    236 properties
     246 jsx
     249 hh
     252 vtt
     264 bin
     266 ico
     279 manifest
-    295 mn
     296 gn
+    296 mn
     311 ttf
     319 asm
     332 woff2
-    347 mp4
+    348 mp4
     348 stderr
     360 mm
-    378 ftl
+    380 ftl
     390 ipdl
     397 in
     404 map
@@ -631,7 +633,7 @@
     669 vert
     676 jpg
     703 htm
-    703 sjs
+    705 sjs
     814 frag
     822 hpp
     862 webidl
@@ -640,29 +642,29 @@
    1273 yml
    1295 yaml
    1438 glif
-   1702 ts
-   1762 css
+   1703 ts
+   1765 css
    1952 headers
-   2196 rst
-   2276 md
-   2454 toml
-   2626 build
-   2703 mjs
+   2197 rst
+   2283 md
+   2456 toml
+   2631 build
+   2711 mjs
    2804 a
-   3257 json
+   3259 json
    3531 xhtml
    4271 c
-   4577 kt
-   5184 svg
+   4578 kt
+   5174 svg
    5496 cc
-   5974 png
-   6148 txt
-   7009 xml
-   9111 cpp
-   9702 py
-  12185 rs
+   5975 png
+   6149 txt
+   7012 xml
+   9120 cpp
+   9805 py
+  12189 rs
   13309 xht
-  19848 h
-  26318 ini
-  92736 js
-  99892 html
+  19852 h
+  26339 ini
+  92824 js
+ 100008 html
