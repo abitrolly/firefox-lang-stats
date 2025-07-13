@@ -550,9 +550,9 @@
      54 glsl
      55 err
      55 wat
-     56 otf
      56 webmanifest
      57 ogg
+     57 otf
      57 pydeps
      58 configure
      58 hyf
@@ -622,7 +622,7 @@
     360 mm
     381 ftl
     390 ipdl
-    394 in
+    391 in
     404 map
     419 sha1
     435 certspec
@@ -633,39 +633,39 @@
     651 sh
     669 vert
     676 jpg
-    704 htm
+    703 htm
     716 sjs
     814 frag
     863 webidl
    1017 hpp
    1037 java
    1218 idl
-   1277 yml
-   1296 yaml
+   1276 yml
+   1299 yaml
    1438 glif
-   1755 ts
-   1773 css
-   1952 headers
-   2198 rst
-   2293 md
-   2468 toml
+   1756 ts
+   1774 css
+   1950 headers
+   2202 rst
+   2294 md
+   2470 toml
    2633 build
    2764 mjs
    2804 a
-   3262 json
-   3531 xhtml
+   3267 json
+   3532 xhtml
    4273 c
-   4630 kt
-   5175 svg
+   4648 kt
+   5180 svg
    5499 cc
    5975 png
-   6153 txt
-   7026 xml
-   9129 cpp
-   9883 py
-  12411 rs
+   6155 txt
+   7028 xml
+   9131 cpp
+   9895 py
+  12413 rs
   13309 xht
-  19795 h
-  26409 ini
-  92887 js
- 100298 html
+  19796 h
+  26404 ini
+  92835 js
+ 100403 html
